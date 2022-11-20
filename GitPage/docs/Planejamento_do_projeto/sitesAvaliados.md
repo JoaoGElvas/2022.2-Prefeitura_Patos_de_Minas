@@ -9,7 +9,7 @@ Inicialmente foram avaliados varios sites por cada integrante do grupo como most
 | [Na Hora](https://www.nahora.df.gov.br/)                            | Bruno Seiji Kishibe             |              |           |
 | [Aprender](https://aprender3.unb.br/login/index.php)                | Augusto Campos Duarte           |              |           |
 | [Gov](https://www.gov.br/pt-br)                                     | João Gabriel Elvas              |              |           |
-|                                                                     |                                 |              |           |
+| []()                                                                | Matheus Salim de Oliveira       |              |           |
 
 ### Prefeitura de Patos de Minas
 
@@ -28,6 +28,8 @@ O site do na hora tem como principais funcionalidades: o autoatendimento e o age
 o Aprender 3 é uma nova versão do antigo moodle da UnB. A plataforma é uma sala de aula virtual onde o aluno tem a possibilidade de acompanhar as atividades do curso pela internet. O aluno terá acesso à plataforma com uso de um usuário e uma senha pessoal. O Aprender pode ser acessado em qualquer computador com internet. Ele é uma das principais plataforma de sustentação das atividades juntamente com o Sigaa. É através dele que o usuário poderá ter acesso ao conteúdos disponibilizados pelos professores, além de postar atividades, debater o tema em fóruns de discussão, tirar duvidas via mensagens, entre outros recursos
 
 ### Gov
+
+O portal do gov tem como principal objetivo reunir em um só lugar, serviços para o cidadão e informações sobre a atuação do governo federal. Como por exemplo: consulta de CPF, Receber abono Salarial, consultar e solicitar a devolução de valores a receber, consultar a restituição do imposto de renda, obter a carteira de trabalho, emitir a certidão de regularidade fiscal e etc. Buscando assim facilitar tanto serviços como acesso a informações sobre o governo.
 
 ## Site escolhido - Prefeitura de Patos de Minas
 
