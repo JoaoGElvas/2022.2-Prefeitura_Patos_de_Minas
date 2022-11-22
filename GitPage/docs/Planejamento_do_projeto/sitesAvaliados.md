@@ -33,11 +33,21 @@ O portal do gov tem como principal objetivo reunir em um só lugar, serviços pa
 
 ## Site escolhido - Prefeitura de Patos de Minas
 
-### Motivação
+O portal, da Prefeitura municipal de Patos de Minas, tem como objetivo ser o canal oficial de
+comunicação com a população municipal. O portal da prefeitura, tem um papel importante no
+dia a dia do município que é o de informar e tornar o acesso de todos os processos que
+transitam no mesmo, licitações, leis, decretos, processos seletivos, concursos públicos, entre
+tanto outros.
 
-O site da Prefeitura de Patos de Minas foi escolhido devido a sua alta necessidade na comunidade, nele temos acesso aos processos seletivos, portal do cidadão, serviços, editais, convocações e outros eventos relacionados a prefeitura de Patos de Minas (MG). Porém, mesmo com essa alta demanda e necessidade dentro da comunidade temos funcionalidades que não cumprem seu papel, difícil processo de aprendizado e adaptação, pouca acessibilidade e usabilidade. Devido a esses fatores, visando a melhora da aplicação para os usuários, como o principal tema deste trabalho, foi escolhido o [site de Pato de Minas](https://patosdeminas.mg.gov.br/home/).
+### Motivação
+A escolha do site foi feita a partir de alguns criterios como sua usabilidade e importancia na vida dos usuarios,sua apresentação visual e e por fim sua comunicação com o usuario através de seus recursos.Desse modo por ser um site público ele e de suma importância na vida dos cidadãos,no seu quesito visual e referente a sua comunicação com usuario atraves de recursos acreditamos ser bem datado podem sim ser muito melhorado.
 
 ### Avaliação do site
+
+O metodo de avaliação escolhido foi a heurística no qual consiste em uma técnica de inspeção de usabilidade executado por examinadores que seguem um conjunto de princípios de usabilidade, as heurísticas, e avaliam todos os elementos de interface com o usuário, com o objetivo de encontrar falhas de usabilidade. Os critérios para avaliação heurística são: Status do sistema, compatibilidade com o mundo real, controle do usuário e liberdade, consistência e padrões prevenção de erros, Reconhecimento ao invés de relembrança, Flexibilidade e eficiência no uso, Estéticas e design minimalista, ajuda aos usuários no reconhecimento e diagnostico de erros, ajuda e documentação.
+![Avaliação heuristica](./assets/Avaliacao1.jpg)
+![Avaliação heuristica](./assets/Avaliacao2.jpg)
+![Avaliação heuristica](./assets/Avaliacao3.jpg)
 
 # Historico de versão
 
