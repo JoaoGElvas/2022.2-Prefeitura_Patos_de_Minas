@@ -17,7 +17,7 @@ Entre os tipos de processo de design, cada uma dessas atividades são abordadas 
 ### Engenharia de Usabilidade de Mayhew
 
 Em 1999 Deborah Mayhew propõe um ciclo de vida baseado em visão holística.
-Esse processo de design organiza as diferentes atividades da área de interação humano-computador em três fases.
+Esse processo de design organiza as diferentes atividades da área de interação humano-computador de maneira iterativa, sendo elas divididas em três fases: Análise de requisitos; Design, Avaliação e Desenvolvimento; Instalação.
 
 ### Análise de requisitos
 
@@ -51,6 +51,6 @@ Será coletado o feedback dos usuários depois do uso, pelo designer. Essas info
 
 ## Histórico de versão
 
-| Versão | Data | Descrição | Autor |  Autor | Revisor |
-| ------ | ---- | --------- | ----- | -------| ------- |
-| 1.0   | 21/11/2022 | Criação do documento |João Gabriel Elvas| Bruno Seiji| "Revisor" |
+| Versão | Data | Descrição | Autor | Revisor |
+| ------ | ---- | --------- | ----- | ------- |
+| 1.0   | 21/11/2022 | Criação do documento |João Gabriel Elvas| Bruno Seiji Kishibe |
