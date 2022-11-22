@@ -35,6 +35,8 @@ O portal do gov tem como principal objetivo reunir em um só lugar, serviços pa
 
 ### Motivação
 
+O site da Prefeitura de Patos de Minas foi escolhido devido a sua alta necessidade na comunidade, nele temos acesso aos processos seletivos, portal do cidadão, serviços, editais, convocações e outros eventos relacionados a prefeitura de Patos de Minas (MG). Porém, mesmo com essa alta demanda e necessidade dentro da comunidade temos funcionalidades que não cumprem seu papel, difícil processo de aprendizado e adaptação, pouca acessibilidade e usabilidade. Devido a esses fatores, visando a melhora da aplicação para os usuários, como o principal tema deste trabalho, foi escolhido o [site de Pato de Minas](https://patosdeminas.mg.gov.br/home/).
+
 ### Avaliação do site
 
 # Historico de versão
@@ -43,7 +45,4 @@ O portal do gov tem como principal objetivo reunir em um só lugar, serviços pa
 | ------ | ----- | ------------------------------------------------- | ------------------- | ------- |
 | 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto |         |
 | 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
+| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas  |         |
