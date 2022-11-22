@@ -40,7 +40,6 @@ transitam no mesmo, licitações, leis, decretos, processos seletivos, concursos
 tanto outros.
 
 ### Motivação
-
 A escolha do site foi feita a partir de alguns criterios como sua usabilidade e importancia na vida dos usuarios,sua apresentação visual e e por fim sua comunicação com o usuario através de seus recursos.Desse modo por ser um site público ele e de suma importância na vida dos cidadãos,no seu quesito visual e referente a sua comunicação com usuario atraves de recursos acreditamos ser bem datado podem sim ser muito melhorado.
 
 ### Avaliação do site
@@ -56,7 +55,4 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 | ------ | ----- | ------------------------------------------------- | ------------------- | ------- |
 | 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto |         |
 | 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
-|        |       |                                                   |                     |         |
+| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas  |         |
