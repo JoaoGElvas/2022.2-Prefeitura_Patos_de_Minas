@@ -2,14 +2,14 @@
 
 Inicialmente foram avaliados varios sites por cada integrante do grupo como mostrado na tabela a seguir.
 
-| Site                                                                | Avaliador                       | Planejamento | Avaliação |
-| ------------------------------------------------------------------- | ------------------------------- | ------------ | --------- |
-| [Prefeitura de Patos de Minas](http://patosdeminas.mg.gov.br/home/) | João Pedro Anacleto             |              |           |
-| [CAE](https://sae.unb.br/cae/conteudo/unbfga)                       | Rodrigo Edmar Wright Dos Santos |              |           |
-| [Na Hora](https://www.nahora.df.gov.br/)                            | Bruno Seiji Kishibe             |              |           |
-| [Aprender](https://aprender3.unb.br/login/index.php)                | Augusto Campos Duarte           |              |           |
-| [Gov](https://www.gov.br/pt-br)                                     | João Gabriel Elvas              |              |           |
-| []()                                                                | Matheus Salim de Oliveira       |              |           |
+| Site                                                                | Avaliador                       |
+| ------------------------------------------------------------------- | ------------------------------- |
+| [Prefeitura de Patos de Minas](http://patosdeminas.mg.gov.br/home/) | João Pedro Anacleto             |
+| [CAE](https://sae.unb.br/cae/conteudo/unbfga)                       | Rodrigo Edmar Wright Dos Santos |
+| [Na Hora](https://www.nahora.df.gov.br/)                            | Bruno Seiji Kishibe             |
+| [Aprender](https://aprender3.unb.br/login/index.php)                | Augusto Campos Duarte           |
+| [Gov](https://www.gov.br/pt-br)                                     | João Gabriel Elvas              |
+| []()                                                                | Matheus Salim de Oliveira       |
 
 ### Prefeitura de Patos de Minas
 
@@ -40,6 +40,7 @@ transitam no mesmo, licitações, leis, decretos, processos seletivos, concursos
 tanto outros.
 
 ### Motivação
+
 A escolha do site foi feita a partir de alguns criterios como sua usabilidade e importancia na vida dos usuarios,sua apresentação visual e e por fim sua comunicação com o usuario através de seus recursos.Desse modo por ser um site público ele e de suma importância na vida dos cidadãos,no seu quesito visual e referente a sua comunicação com usuario atraves de recursos acreditamos ser bem datado podem sim ser muito melhorado.
 
 ### Avaliação do site
@@ -51,8 +52,8 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 
 # Historico de versão
 
-| Versão | Data  | Descrição                                         | Autor               | Revisor |
-| ------ | ----- | ------------------------------------------------- | ------------------- | ------- |
-| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto |         |
-| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto |         |
-| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas  |         |
+| Versão | Data  | Descrição                                         | Autor               | Revisor             |
+| ------ | ----- | ------------------------------------------------- | ------------------- | ------------------- |
+| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto |                     |
+| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto |                     |
+| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas  | João Pedro Anacleto |
