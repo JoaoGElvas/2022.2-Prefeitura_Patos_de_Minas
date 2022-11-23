@@ -20,9 +20,9 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 | Atividade(s)                                             | Data  | Responsavel                      | Revisor             | Data de revisão |
 | -------------------------------------------------------- | ----- | -------------------------------- | ------------------- | --------------- |
-| Documentar Equipe                                        | 19/11 | João Pedro Anacleto              |                     | 20/11/22        |
+| Documentar Equipe                                        | 19/11 | João Pedro Anacleto              | Bruno Seiji Kishibe | 20/11/22        |
 | Documentar listas de sites avaliados                     | 20/11 | Augusto e Matheus                | João Pedro Anacleto | 23/11/22        |
-| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto              |                     | 20/11/22        |
+| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto              | Bruno Seiji Kishibe | 20/11/22        |
 | Documentar ferramentas utilizadas no projeto             | 20/11 | Todos                            | João Pedro Anacleto | 22/11/22        |
 | Documentar Processo de Design                            | 20/11 | Joao Gabriel Elvas e Bruno Seiji | João Pedro Anacleto | 23/11/22        |
 | Documentar o cronograma das atividades                   | 20/11 | Todos                            | Rodrigo Wright      | 21/11/22        |
@@ -140,4 +140,4 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 | 1.0    | 19/11/22 | Template Planejamento      | João Pedro Anacleto | Rodrigo Wright      |
 | 1.1    | 20/11/22 | Planejamento inicial       | João Pedro Anacleto | Rodrigo Wright      |
 | 1.2    | 21/11/22 | Cronograma geral           | Rodrigo Wright      | João Pedro Anacleto |
-| 1.2    | 23/11/22 | Cronograma geral detalhado | João Pedro Anacleto |                     |
+| 1.2    | 23/11/22 | Cronograma geral detalhado | João Pedro Anacleto | Bruno Seiji Kishibe |

@@ -28,6 +28,6 @@ O Figma sera utilizado para a prototipação de alta fidelidade do nosso site.
 O colors vai ser uma ferramenta bem util para a criação da identidade visual uma vez que gera paletas de cores harmonicas.
 ![coolors](./assets/coolors.jpg)
 
-| Versão | Data       | Descrição                               | Autor               | Revisor |
-| ------ | ---------- | --------------------------------------- | ------------------- | ------- |
-| 1.0    | 22/11/2022 | Documentação das ferramentas do projeto | João Pedro Anacleto |         |
+| Versão | Data       | Descrição                               | Autor               | Revisor             |
+| ------ | ---------- | --------------------------------------- | ------------------- | ------------------- |
+| 1.0    | 22/11/2022 | Documentação das ferramentas do projeto | João Pedro Anacleto | Bruno Seiji Kishibe |
