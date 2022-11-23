@@ -1,10 +1,10 @@
 ## Processo de Design
 Neste tópico será explicado os conceitos do processo de design que será utilizado no projeto e as suas motivações.
 
-O design é um processo que é constituído por três principais atividades:
-1. Análise da situação atual;
-2. Síntese de uma intervenção;
-3. Avaliação de uma intervenção.
+O design é um processo que é constituído por três principais atividades:<br/>
+1. Análise da situação atual;<br/>
+2. Síntese de uma intervenção;<br/>
+3. Avaliação de uma intervenção.<br/>
 
 Entre os tipos de processo de design, cada uma dessas atividades são abordadas e exploradas de formas diferentes. O processo escolhido para esse projeto foi o **Engenharia de Usabilidade de Mayhew**. A motivação para a escolha desse processo é pois se trata de um processo bem detalhado e completo.
 
@@ -21,10 +21,10 @@ Esse processo de design organiza as diferentes atividades da área de interaçã
 
 ### Análise de requisitos
 
-A análise de requisitos é a fase em que são definidas, a partir de discussões em grupo sobre a viabilidade dos seguintes tópicos:
-* Metas de usabilidade;
-*  Limitações;
-*  Possibilidades;
+A análise de requisitos é a fase em que são definidas, a partir de discussões em grupo sobre a viabilidade dos seguintes tópicos:<br/>
+* Metas de usabilidade;<br/>
+* Limitações;<br/>
+* Possibilidades;<br/>
 
 ### Design, Avaliação e Desenvolvimento
 
