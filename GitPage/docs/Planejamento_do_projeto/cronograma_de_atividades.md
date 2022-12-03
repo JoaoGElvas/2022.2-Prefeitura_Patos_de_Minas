@@ -18,28 +18,28 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 1 - Planejamento do Projeto - 23/11/2022
 
-| Atividade(s)                                             | Data  | Responsavel                      | Revisor             | Data de revisão |
-| -------------------------------------------------------- | ----- | -------------------------------- | ------------------- | --------------- |
-| Documentar Equipe                                        | 19/11 | João Pedro Anacleto              | Bruno Seiji Kishibe | 20/11/22        |
-| Documentar listas de sites avaliados                     | 20/11 | Augusto e Matheus                | João Pedro Anacleto | 23/11/22        |
-| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto              | Bruno Seiji Kishibe | 20/11/22        |
-| Documentar ferramentas utilizadas no projeto             | 20/11 | Todos                            | João Pedro Anacleto | 22/11/22        |
-| Documentar Processo de Design                            | 20/11 | Joao Gabriel Elvas e Bruno Seiji | João Pedro Anacleto | 23/11/22        |
-| Documentar o cronograma das atividades                   | 20/11 | Todos                            | Rodrigo Wright      | 21/11/22        |
-| Gravação dos videos de apresentação                      | 22/11 | Todos                            | João Pedro Anacleto | 22/11/22        |
-| Edição dos videos de apresentação                        | 23/11 | Joao Gabriel Elvas               | Todos               | 23/11/22        |
+| Atividade(s)                                             | Data  | Responsavel                                           | Revisor                                               | Data de revisão |
+| -------------------------------------------------------- | ----- | ----------------------------------------------------- | ----------------------------------------------------- | --------------- |
+| Documentar Equipe                                        | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
+| Documentar listas de sites avaliados                     | 20/11 | Augusto e Matheus                                     | João Pedro Anacleto                                   | 23/11/22        |
+| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
+| Documentar ferramentas utilizadas no projeto             | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
+| Documentar Processo de Design                            | 20/11 | João Gabriel Elvas e Bruno Seiji                      | João Pedro Anacleto                                   | 23/11/22        |
+| Documentar o cronograma das atividades                   | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Rodrigo Wright                                        | 21/11/22        |
+| Gravação dos videos de apresentação                      | 22/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
+| Edição dos videos de apresentação                        | 23/11 | Joao Gabriel Elvas                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 23/11/22        |
 
 ## Entrega 2 - Perfil do usuário, Personas e Análise de tarefas- 07/12/2022
 
-| Atividade(s)                                  | Data | Responsavel | Revisor | Data de revisão |
-| --------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Preencher o documento da avaliação heuristica |      |             |         |                 |
-| Estudo do perfil de usuario                   |      |             |         |                 |
-| Analise de Tarefas                            |      |             |         |                 |
-| Definição de Personas                         |      |             |         |                 |
-| Questões eticas                               |      |             |         |                 |
-| Gravação de video                             |      |             | Todos   |                 |
-| Edição dos videos de apresentação             |      |             |         |                 |
+| Atividade(s)                                  | Data | Responsavel                                           | Revisor | Data de revisão |
+| --------------------------------------------- | ---- | ----------------------------------------------------- | ------- | --------------- |
+| Revisão e correção da Entrega 1               |      | João Pedro,João Gabriel,Augusto                       |         |                 |
+| Preencher o documento da avaliação heuristica |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
+| Estudo do perfil de usuario                   |      | Matheus Salim                                         |         |                 |
+| Analise de Tarefas                            |      | Bruno Seiji e Augusto Campos                          |         |                 |
+| Definição de Personas                         |      | Rodrigo Wright                                        |         |                 |
+| Questões eticas                               |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
+| Gravação de video                             |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo- 12/12/2022
 
