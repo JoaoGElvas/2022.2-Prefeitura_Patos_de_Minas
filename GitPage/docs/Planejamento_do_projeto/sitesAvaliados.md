@@ -46,14 +46,17 @@ A escolha do site foi feita a partir de alguns criterios como sua usabilidade e 
 ### Avaliação do site
 
 O metodo de avaliação escolhido foi a heurística no qual consiste em uma técnica de inspeção de usabilidade executado por examinadores que seguem um conjunto de princípios de usabilidade, as heurísticas, e avaliam todos os elementos de interface com o usuário, com o objetivo de encontrar falhas de usabilidade. Os critérios para avaliação heurística são: Status do sistema, compatibilidade com o mundo real, controle do usuário e liberdade, consistência e padrões prevenção de erros, Reconhecimento ao invés de relembrança, Flexibilidade e eficiência no uso, Estéticas e design minimalista, ajuda aos usuários no reconhecimento e diagnostico de erros, ajuda e documentação.
-![Avaliação heuristica](./assets/Avaliacao1.jpg)
-![Avaliação heuristica](./assets/Avaliacao2.jpg)
-![Avaliação heuristica](./assets/Avaliacao3.jpg)
+![Avaliação heuristica](./assets/Avaliacao1.png)
+![Avaliação heuristica](./assets/Avaliacao2.png)
+![Avaliação heuristica](./assets/Avaliacao3.png)
+![Avaliação heuristica](./assets/Avaliacao4.png)
+![Avaliação heuristica](./assets/Avaliacao5.png)
 
 # Historico de versão
 
-| Versão | Data  | Descrição                                         | Autor               | Revisor             |
-| ------ | ----- | ------------------------------------------------- | ------------------- | ------------------- |
-| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto |                     |
-| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto |                     |
-| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas  | João Pedro Anacleto |
+| Versão | Data  | Descrição                                         | Autor                 | Revisor             |
+| ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
+| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto   |                     |
+| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   |                     |
+| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas    | João Pedro Anacleto |
+| 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte |                     |
