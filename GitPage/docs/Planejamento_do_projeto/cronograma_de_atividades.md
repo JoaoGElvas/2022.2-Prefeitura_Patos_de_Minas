@@ -31,107 +31,107 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 2 - Perfil do usuário, Personas e Análise de tarefas- 07/12/2022
 
-| Atividade(s)                                  | Data | Responsavel                                           | Revisor | Data de revisão |
-| --------------------------------------------- | ---- | ----------------------------------------------------- | ------- | --------------- |
-| Revisão e correção da Entrega 1               |      | João Pedro,João Gabriel,Augusto                       |         |                 |
-| Preencher o documento da avaliação heuristica |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
-| Estudo do perfil de usuario                   |      | Matheus Salim                                         |         |                 |
-| Analise de Tarefas                            |      | Bruno Seiji e Augusto Campos                          |         |                 |
-| Definição de Personas                         |      | Rodrigo Wright                                        |         |                 |
-| Questões eticas                               |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
-| Gravação de video                             |      | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
+| Atividade(s)                                  | Data  | Responsavel                                           | Revisor | Data de revisão |
+| --------------------------------------------- | ----- | ----------------------------------------------------- | ------- | --------------- |
+| Revisão e correção da Entrega 1               | 06/12 | João Pedro,João Gabriel,Augusto                       |         |                 |
+| Preencher o documento da avaliação heuristica | 05/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
+| Estudo do perfil de usuario                   | 04/12 | Matheus Salim                                         |         |                 |
+| Analise de Tarefas                            | 05/12 | Bruno Seiji e Augusto Campos                          |         |                 |
+| Definição de Personas                         | 05/12 | Rodrigo Wright                                        |         |                 |
+| Questões eticas                               | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
+| Gravação de video                             | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |         |                 |
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo- 12/12/2022
 
-| Atividade(s)                      | Data | Responsavel | Revisor | Data de revisão |
-| --------------------------------- | ---- | ----------- | ------- | --------------- |
-| Princípios Gerais de Projeto      |      |             |         |                 |
-| Metas de usabilidade              |      |             |         |                 |
-| Guia de Estilo                    |      |             |         |                 |
-| Gravação de video                 |      |             | Todos   |                 |
-| Edição dos videos de apresentação |      |             |         |                 |
+| Atividade(s)                      | Data  | Responsavel               | Revisor                                               | Data de revisão |
+| --------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
+| Princípios Gerais de Projeto      | 09/12 | João Pedro,Augusto        |                                                       |                 |
+| Metas de usabilidade              | 09/12 | Matheus Salim,Bruno seiji |                                                       |                 |
+| Guia de Estilo                    | 10/12 | Rodrigo Wright            |                                                       |                 |
+| Gravação de video                 | 11/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |                 |
+| Edição dos videos de apresentação | 11/12 | João Gabriel              |                                                       |                 |
 
 ## Entrega 4 -Planejamento da Avaliação,relato dos resultados da avaliação do Storyboard, Análise de tarefas - 14/12/2022
 
-| Atividade(s)                                               | Data | Responsavel | Revisor | Data de revisão |
-| ---------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Planejamento da avaliação da Análise de Tarefas            |      |             |         |                 |
-| Planejamento da avaliação do storyboard                    |      |             |         |                 |
-| Storyboard                                                 |      |             |         |                 |
-| Planejamento do Relato de Resultados do Storyboard         |      |             |         |                 |
-| Planejamento do Relato de Resultados de Análise de Tarefas |      |             |         |                 |
-| Gravação de video                                          |      | Todos       |         |                 |
-| Edição dos videos de apresentação                          |      |             |         |                 |
+| Atividade(s)                                               | Data  | Responsavel               | Revisor | Data de revisão |
+| ---------------------------------------------------------- | ----- | ------------------------- | ------- | --------------- |
+| Planejamento da avaliação da Análise de Tarefas            | 11/12 | Augusto Campos            |         |                 |
+| Planejamento da avaliação do storyboard                    | 11/12 | João Gabriel              |         |                 |
+| Storyboard                                                 | 11/12 | Matheus,João Gabriel      |         |                 |
+| Planejamento do Relato de Resultados do Storyboard         | 12/12 | João Pedro,Rodrigo        |         |                 |
+| Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji |         |                 |
+| Gravação de video                                          | 13/12 | João Gabriel              |         |                 |
+| Edição dos videos de apresentação                          | 13/12 | João Gabriel              |         |                 |
 
 ## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 02/01/2023
 
-| Atividade(s)                                               | Data | Responsável | Revisor | Data de Revisão |
-| ---------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Relato dos resultados da avalição da Análise de Tarefas    |      |             |         |                 |
-| Relato dos resultados da avaliação do Storyboard           |      |             |         |                 |
-| Planejamento da avalição Protótipo de Papel                |      |             |         |                 |
-| Planejamento do Relato de Resultados do protótipo de papel |      |             |         |                 |
-| Gravação do vídeo                                          |      |             |         |                 |
-| Teste Piloto da avaliação da análise de tarefas            |      |             |         |                 |
-| Entrevistas Análise de Tarefas                             |      |             |         |                 |
-| Edição do vídeo de apresentação                            |      |             |         |                 |
-| Prototipação em papel                                      |      |             |         |                 |
+| Atividade(s)                                               | Data  | Responsável                 | Revisor | Data de Revisão |
+| ---------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
+| Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel     |         |                 |
+| Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji   |         |                 |
+| Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel        |         |                 |
+| Planejamento do Relato de Resultados do protótipo de papel | 20/12 | Rodrigo Wright              |         |                 |
+| Gravação do vídeo                                          | 22/12 | João Gabriel                |         |                 |
+| Teste Piloto da avaliação da análise de tarefas            | 22/12 | Augusto Campos              |         |                 |
+| Entrevistas Análise de Tarefas                             | 22/12 | Augusto Campos,João Gabriel |         |                 |
+| Edição do vídeo de apresentação                            | 22/12 | João Gabriel                |         |                 |
+| Prototipação em papel                                      | 22/12 | Rodrigo Wright              |         |                 |
 
 ## Entrega 6 -Relato dos resultados da avaliação do protótipo de baixa fidelidade,Planejamento da Avaliação do protótipo de alta fidelidade,Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade- 11/01/2023
 
-| Atividade(s)                                                                                    | Data | Responsável | Revisor | Data de Revisão |
-| ----------------------------------------------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Relato dos resultados da avalição do prototipo de baixa fidelidade                              |      |             |         |                 |
-| Planejamento da Avaliação do protótipo de alta fidelidade                                       |      |             |         |                 |
-| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade |      |             |         |                 |
-| Gravação do vídeo                                                                               |      |             |         |                 |
-| Edição do vídeo                                                                                 |      |             |         |                 |
+| Atividade(s)                                                                                    | Data  | Responsável                 | Revisor | Data de Revisão |
+| ----------------------------------------------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
+| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 08/01 | Augusto Campos,João Gabriel |         |                 |
+| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 08/01 | Matheus Salim,Bruno seiji   |         |                 |
+| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 08/01 | João Pedro,Rodrigo          |         |                 |
+| Gravação do vídeo                                                                               | 10/01 | João Gabriel                |         |                 |
+| Edição do vídeo                                                                                 | 10/01 | João Gabriel                |         |                 |
 
 ## Entrega 7 -Verificação dos artefatos- 18/01/2023
 
-| Atividade(s)                                                   | Data | Responsável | Revisor | Data de Revisão |
-| -------------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Planejamento das verificações                                  |      |             |         |                 |
-| Verificação do guia de estilo                                  |      |             |         |                 |
-| Verificação das metas de usabilidade                           |      |             |         |                 |
-| Verificação das personas                                       |      |             |         |                 |
-| Verificação da Análise de Tarefas                              |      |             |         |                 |
-| Verificação dos perfis de usuário                              |      |             |         |                 |
-| Verificação do storyboard                                      |      |             |         |                 |
-| Verificação dos princípios gerais do design                    |      |             |         |                 |
-| Verificação dos resultados do storyboard                       |      |             |         |                 |
-| Verificação dos resultados da análise de tarefas               |      |             |         |                 |
-| Verificação do Planejamento da Avaliação da Análise de Tarefas |      |             |         |                 |
-| Verificação do Planejamento da Avaliação do Storyboard         |      |             |         |                 |
-| Gravação do vídeo                                              |      |             |         |                 |
-| Edição do vídeo                                                |      |             |         |                 |
+| Atividade(s)                                                   | Data  | Responsável             | Revisor | Data de Revisão |
+| -------------------------------------------------------------- | ----- | ----------------------- | ------- | --------------- |
+| Planejamento das verificações                                  | 13/01 | João Gabriel            |         |                 |
+| Verificação do guia de estilo                                  | 13/01 | Rodrigo Wright          |         |                 |
+| Verificação das metas de usabilidade                           | 13/01 | Matheus Salim           |         |                 |
+| Verificação das personas                                       | 13/01 | Augusto Campos          |         |                 |
+| Verificação da Análise de Tarefas                              | 13/01 | Bruno seiji             |         |                 |
+| Verificação dos perfis de usuário                              | 13/01 | João Pedro              |         |                 |
+| Verificação do storyboard                                      | 15/01 | João Gabriel,Augusto    |         |                 |
+| Verificação dos princípios gerais do design                    | 15/01 | Bruno seiji ,Matheus    |         |                 |
+| Verificação dos resultados do storyboard                       | 15/01 | João Pedro,Rodrigo      |         |                 |
+| Verificação dos resultados da análise de tarefas               | 15/01 | João Pedro,João Gabriel |         |                 |
+| Verificação do Planejamento da Avaliação da Análise de Tarefas | 15/01 | Rodrigo,Matheus         |         |                 |
+| Verificação do Planejamento da Avaliação do Storyboard         | 15/01 | Bruno,Augusto           |         |                 |
+| Gravação do vídeo                                              | 16/01 | João Gabriel            |         |                 |
+| Edição do vídeo                                                | 16/01 | João Gabriel            |         |                 |
 
 ## Entrega 8 -Relato dos resultados da avaliação do protótipo de alta fidelidade- 25/01/2023
 
-| Atividade(s)                                              | Data | Responsável | Revisor | Data de Revisão |
-| --------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Protótipo de alta fidelidade                              |      |             |         |                 |
-| Finalização do protótipo de papel                         |      |             |         |                 |
-| Avaliação do protótipo de papel                           |      |             |         |                 |
-| Relato dos resultados da avaliação do protótipo de papel  |      |             |         |                 |
-| Planejamento da avaliação do protótipo de alta fidelidade |      |             |         |                 |
-| Planejamento do relato do protótipo de alta fidelidade    |      |             |         |                 |
-| Gravação do vídeo                                         |      |             |         |                 |
-| Edição do vídeo                                           |      |             |         |                 |
+| Atividade(s)                                              | Data  | Responsável    | Revisor | Data de Revisão |
+| --------------------------------------------------------- | ----- | -------------- | ------- | --------------- |
+| Protótipo de alta fidelidade                              | 20/01 | Rodrigo Wright |         |                 |
+| Finalização do protótipo de papel                         | 20/01 | João Pedro     |         |                 |
+| Avaliação do protótipo de papel                           | 20/01 | João Gabriel   |         |                 |
+| Relato dos resultados da avaliação do protótipo de papel  | 20/01 | Augusto Campos |         |                 |
+| Planejamento da avaliação do protótipo de alta fidelidade | 20/01 | Matheus salim  |         |                 |
+| Planejamento do relato do protótipo de alta fidelidade    | 20/01 | Bruno seiji    |         |                 |
+| Gravação do vídeo                                         | 22/01 | João Gabriel   |         |                 |
+| Edição do vídeo                                           | 22/01 | João Gabriel   |         |                 |
 
 ## Entrega 9 - Entrega Final - 01/02/2023
 
-| Atividade(s)                                                | Data | Responsável | Revisor | Data de Revisão |
-| ----------------------------------------------------------- | ---- | ----------- | ------- | --------------- |
-| Verificação do protótipo de papel                           |      |             |         |                 |
-| Verificação do planejamento do protótipo de papel           |      |             |         |                 |
-| Verificação do relato dos resultados do protótipo de papel  |      |             |         |                 |
-| Verificação do protótipo de alta fidelidade                 |      |             |         |                 |
-| Verificação do planejamento do protótipo de alta fidelidade |      |             |         |                 |
-| Relato da avaliação do protótipo de alta fidelidade         |      |             |         |                 |
-| Avaliação do protótipo de alta fidelidade                   |      |             |         |                 |
-| Gravação do vídeo                                           |      |             |         |                 |
-| Edição do vídeo                                             |      |             |         |                 |
+| Atividade(s)                                                | Data  | Responsável                     | Revisor | Data de Revisão |
+| ----------------------------------------------------------- | ----- | ------------------------------- | ------- | --------------- |
+| Verificação do protótipo de papel                           | 26/01 | Augusto Campos                  |         |                 |
+| Verificação do planejamento do protótipo de papel           | 26/01 | Matheus salim                   |         |                 |
+| Verificação do relato dos resultados do protótipo de papel  | 26/01 | Bruno seiji                     |         |                 |
+| Verificação do protótipo de alta fidelidade                 | 26/01 | João Gabriel                    |         |                 |
+| Verificação do planejamento do protótipo de alta fidelidade | 26/01 | João Pedro                      |         |                 |
+| Relato da avaliação do protótipo de alta fidelidade         | 26/01 | Rodrigo Wright                  |         |                 |
+| Avaliação do protótipo de alta fidelidade                   | 28/01 | João Pedro,João Gabriel,Augusto |         |                 |
+| Gravação do vídeo                                           | 29/01 | João Gabriel                    |         |                 |
+| Edição do vídeo                                             | 29/01 | João Gabriel                    |         |                 |
 
 ## Histórico de Versão
 
