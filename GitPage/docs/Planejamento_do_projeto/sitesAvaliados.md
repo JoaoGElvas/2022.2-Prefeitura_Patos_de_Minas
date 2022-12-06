@@ -56,7 +56,7 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
-| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto   |                     |
-| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   |                     |
+| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto   | Bruno Seiji Kishibe |
+| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   | Bruno Seiji Kishibe |
 | 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas    | João Pedro Anacleto |
-| 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte |                     |
+| 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte | Bruno Seiji Kishibe |
