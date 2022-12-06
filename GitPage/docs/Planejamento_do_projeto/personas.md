@@ -6,7 +6,7 @@ Neste artefato, iremos definir as personas que serão usadas para o desenvolvime
 
 |            | Pontos gerais                      | Descrição |
 | ---------- | ---------------------------------- | --------- |
-| Identidade | ![Persona1](./assets/Github.png) |   Carlos  |
+| Identidade | ![Persona1](./assets/Persona1.png) |   Carlos  |
 
 ## Histórico de Versão
 
