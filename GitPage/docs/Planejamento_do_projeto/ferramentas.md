@@ -14,4 +14,4 @@ A escolha de ferramentas foram feitas visando uma integração rapida e eficient
 | Versão | Data       | Descrição                               | Autor               | Revisor             |
 | ------ | ---------- | --------------------------------------- | ------------------- | ------------------- |
 | 1.0    | 22/11/2022 | Documentação das ferramentas do projeto | João Pedro Anacleto | Bruno Seiji Kishibe |
-| 1.5    | 06/12/2022 | Atulização das ferramentas do projeto   | João Gabriel Elvas  | Rodrigo Wright      |
+| 1.1    | 06/12/2022 | Atulização das ferramentas do projeto   | João Gabriel Elvas  | Rodrigo Wright      |
