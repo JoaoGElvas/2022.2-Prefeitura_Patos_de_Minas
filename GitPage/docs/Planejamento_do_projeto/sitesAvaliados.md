@@ -41,7 +41,16 @@ tanto outros.
 
 ### Motivação
 
-A escolha do site foi feita a partir de alguns criterios como sua usabilidade e importancia na vida dos usuarios,sua apresentação visual e e por fim sua comunicação com o usuario através de seus recursos.Desse modo por ser um site público ele e de suma importância na vida dos cidadãos,no seu quesito visual e referente a sua comunicação com usuario atraves de recursos acreditamos ser bem datado podem sim ser muito melhorado.
+A escolha do site foi feita a partir de alguns critérios. Temos como exemplo a sua usabilidade, sua importância no dia a dia dos usuários, a sua apresentação visual além de sua fraca interação, devido a problemas a acessibilidade e usabilidade, com o usuário. Desse modo, por ser um site público, é de suma importância sua existência no cotidiano dos cidadãos, que têm dificuldades ao utilizá-lo, seja por causa da sua grande curva de aprendizado ou pelos déficits do sistema em si. Levando em conta seu quesito visual e também referente a sua comunicação com o próprio usuário, através dos recursos do sistema, é possível de se acreditar que o site está bem datado e que pode sim ser melhorado.
+
+Tendo isso em vista os principais critérios de escolha do site foram:
+
+1. Usabilidade;
+2. Acessibilidade;
+3. Importância no cotidiano dos usuários;
+4. Apresentação visual datadas;
+5. Difícil interação;
+
 
 ### Avaliação do site
 
@@ -60,3 +69,4 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 | 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   | Bruno Seiji Kishibe |
 | 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas    | João Pedro Anacleto |
 | 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte | Bruno Seiji Kishibe |
+| 1.1    | 22/11 | Realizando melhorias - motivação do site escolhido| João Gabriel Elvas    |                     |
