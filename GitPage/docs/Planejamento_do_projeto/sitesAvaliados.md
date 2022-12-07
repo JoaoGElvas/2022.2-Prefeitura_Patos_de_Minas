@@ -69,4 +69,4 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 | 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   | Bruno Seiji Kishibe |
 | 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas    | João Pedro Anacleto |
 | 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte | Bruno Seiji Kishibe |
-| 1.1    | 22/11 | Realizando melhorias - motivação do site escolhido| João Gabriel Elvas    |                     |
+| 1.3    | 07/12 | Realizando melhorias - motivação do site escolhido| João Gabriel Elvas    | Rodrigo Wright      |
