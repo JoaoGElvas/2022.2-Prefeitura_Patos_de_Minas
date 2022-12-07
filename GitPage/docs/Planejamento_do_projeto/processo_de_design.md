@@ -2,13 +2,15 @@
 
 Neste tópico será explicado os conceitos do processo de design que será utilizado no projeto e as suas motivações.
 
-O design é um processo que é constituído por três principais atividades:<br/>
+O design é um processo que é constituído por três principais atividades:
 
-1. Análise da situação atual;<br/>
-2. Síntese de uma intervenção;<br/>
-3. Avaliação de uma intervenção.<br/>
+1. Análise da situação atual;
+2. Síntese de uma intervenção;
+3. Avaliação de uma intervenção.
 
-Entre os tipos de processo de design, cada uma dessas atividades são abordadas e exploradas de formas diferentes. O processo escolhido para esse projeto foi o **Engenharia de Usabilidade de Mayhew**. A motivação para a escolha desse processo é pois se trata de um processo bem detalhado e completo.
+### Justificativa
+
+Entre os tipos de processo de design, cada uma dessas atividades são abordadas e exploradas de formas diferentes. O processo escolhido para esse projeto foi o **Engenharia de Usabilidade de Mayhew**. Dentre os modelos existentes, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para este projeto por seus artefatos serem mais detalhados e completos, além disso há um maior direcionamento entre as etapas. Tendo isso em vista, os membros do grupo julgaram que este possa ser o modelo ideal a ser utilizado na disciplina de Interação Humano-Computador. 
 
 <blockquote>
 “A Engenharia de Usabilidade é o processo no qual são aplicados método estruturados no projeto de interface usuário-computador visando à usabilidade do produto final.”
@@ -55,6 +57,7 @@ Figura 1 - Engenharia de usabilidade de Mayhew
 
 # Histórico de versão
 
-| Versão | Data       | Descrição            | Autor              | Revisor             |
-| ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 21/11/2022 | Criação do documento | João Gabriel Elvas | Bruno Seiji Kishibe |
+| Versão | Data       | Descrição                    | Autor              | Revisor             |
+| ------ | ---------- | ---------------------------- | ------------------ | ------------------- |
+| 1.0    | 21/11/2022 | Criação do documento         | João Gabriel Elvas | Bruno Seiji Kishibe |
+| 1.1    | 07/12/2022 | Atualização da justificativa | João Gabriel Elvas |                     |
