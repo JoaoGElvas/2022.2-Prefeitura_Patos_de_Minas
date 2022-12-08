@@ -52,11 +52,11 @@ A seguir, na _tabela 3_, se encontra a tabela relacionada à segunda entrega da 
 | Atividade(s)                                  | Data  | Responsavel                                           | Revisor             | Data de revisão |
 | --------------------------------------------- | ----- | ----------------------------------------------------- | ------------------- | :-------------: |
 | Revisão e correção da Entrega 1               | 06/12 | João Pedro,João Gabriel,Augusto                       | Rodrigo Wright      |   06/12/2022    |
-| Preencher o documento da avaliação heuristica | 05/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |                     |                 |
-| Estudo do perfil de usuario                   | 04/12 | Matheus Salim                                         |                     |                 |
-| Analise de Tarefas                            | 05/12 | Bruno Seiji e Augusto Campos                          | João Pedro Anacleto |                 |
-| Definição de Personas                         | 05/12 | Rodrigo Wright                                        | João Pedro Anacleto |                 |
-| Gravação de video                             | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |                     |                 |
+| Preencher o documento da avaliação heuristica | 05/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Bruno Seiji         |   07/12/2022    |
+| Estudo do perfil de usuario                   | 04/12 | Matheus Salim                                         | Augusto Campos      |   07/12/2022    |
+| Analise de Tarefas                            | 05/12 | Bruno Seiji e Augusto Campos                          | João Pedro Anacleto |   06/12/2022    |
+| Definição de Personas                         | 05/12 | Rodrigo Wright                                        | João Pedro Anacleto |   06/12/2022    |
+| Gravação de video                             | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Matheus Salim       |   07/12/2022    |
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo- 12/12/2022
 
