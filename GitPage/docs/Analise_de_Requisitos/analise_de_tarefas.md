@@ -49,9 +49,17 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
    - OP 1.2: Encontrar na seção o ícone do setor desejado. <br/>
      - METHOD 1.1.1: Clicar com o botão esquerdo no ícone do setor desejado.
 
+
+## Referências Bibliográficas
+
+> [1] Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
+
+
 ## Historico de versão
 
 | Versão | Data  | Descrição                                  | Autor               | Revisor             |
 | ------ | ----- | ------------------------------------------ | ------------------- | ------------------- |
 | 1.0    | 06/12 | Criação do documento de analise de tarefas | Augusto Campos      | Bruno Seiji Kishibe |
 | 1.1    | 06/12 | Adição de novos objetivos                  | Bruno Seiji Kishibe | João Pedro Anacleto |
+| 1.2    | 07/12 | Adição das referencias bibliograficas      | Augusto Campos      |                     |
+
