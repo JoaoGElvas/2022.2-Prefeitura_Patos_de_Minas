@@ -12,12 +12,16 @@ Para o levantamento de dados relativo ao perfil de usuario foi utilizado um form
 
 ### 1 - Qual a sua faixa etária?
 
+Para obenção de dados relacionados a faixa etaria foi utilizado a seguinte pergunta do formulario na Figura 1.
+
 ![grafico 1](./graficos/1.png)
 
 Figura 1:faixa etária
 <br>Fonte:Resultados adquiridos pelo formulario
 
 ### 2 - Você utiliza frequentemente a internet?
+
+Para obenção de dados relacionados a Frequência de uso foi utilizado a seguinte pergunta do formulario na Figura 2.
 
 ![grafico 2](./graficos/2.png)
 
@@ -26,12 +30,16 @@ Figura 2: Frequência de uso
 
 ### 3 - Ja precisou utilizar o site do governo?
 
+Para obenção de dados relacionados a Utilização do site foi utilizado a seguinte pergunta do formulario na Figura 3.
+
 ![grafico 3](./graficos/3.png)
 
 Figura 3: Utilização do site
 <br>Fonte:Resultados adquiridos pelo formulario
 
 ### 4 - Ja acessou o site da Prefeitura de Patos de Minas?
+
+Para obenção de dados relacionados ao acesso ao site foi utilizado a seguinte pergunta do formulario na Figura 4.
 
 ![grafico 4](./graficos/4.png)
 
@@ -40,12 +48,16 @@ Figura 4: Acesso ao site
 
 ### 5 - Voce ja sentiu necessidade de utilizar algum site do governo?
 
+Para obenção de dados relacionados a necessidade de utilização foi utilizado a seguinte pergunta do formulario na Figura 5.
+
 ![grafico 5](./graficos/5.png)
 
 Figura 5: Necessidade de utilização
 <br>Fonte:Resultados adquiridos pelo formulario
 
 ### 6 - Sentiu satisfeito com a interface do site?
+
+Para obenção de dados relacionados a satisfação com a interface foi utilizado a seguinte pergunta do formulario na Figura 6.
 
 ![grafico 6](./graficos/6.png)
 
@@ -54,12 +66,16 @@ Figura 6: Satisfação com a interface
 
 ### 7 - Acho que o site tem uma usabilidade intuitiva e simples?
 
+Para obenção de dados relacionados a usabilidade do site foi utilizado a seguinte pergunta do formulario na Figura 7.
+
 ![grafico 7](./graficos/7.png)
 
 Figura 7: Usabilidade do site
 <br>Fonte:Resultados adquiridos pelo formulario
 
 ### 8 - O que voce recomendaria de mudança no site?
+
+Para obenção de dados relacionados a recomendação do site foi utilizado a seguinte pergunta do formulario na Figura 8.
 
 ![grafico 8](./graficos/8.png)
 
@@ -68,12 +84,15 @@ Figura 8: Recomendação do site
 
 ### 9 - Em uma escala de 1 a 5, o quanto você recomenda o site da prefeitura de Patos de Minas?
 
+Para obenção de dados relacionados a recomendação do site foi utilizado a seguinte pergunta do formulario na Figura 9.
 ![grafico 9](./graficos/9.png)
 
 Figura 9: Recomendação do site
 <br>Fonte:Resultados adquiridos pelo formulario
 
 ### 10 - Considera que os sites do governo, em sua maioria, são mal feitos e não são totalmente ajustados para suprir todas as necessidades?
+
+Para obenção de dados relacionados ao Suprimento de necessidades foi utilizado a seguinte pergunta do formulario na Figura 10.
 
 ![grafico 10](./graficos/10.png)
 
