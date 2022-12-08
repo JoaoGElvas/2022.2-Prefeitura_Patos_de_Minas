@@ -23,4 +23,4 @@ Tabela 1 (Personas)
 | Versão | Data     | Descrição             | Autor          | Revisor             |
 | ------ | -------- | --------------------- | -------------- | ------------------- |
 | 1.0    | 06/12/22 | Descrição de Personas | Rodrigo Wright | João Pedro Anacleto |
-| 1.1    | 07/12/22 | Referência de tabelas | Rodrigo Wright |                     |
+| 1.1    | 07/12/22 | Referência de tabelas | Rodrigo Wright | João Pedro Anacleto |
