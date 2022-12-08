@@ -52,6 +52,7 @@ Para o levantamento de dados relativo ao perfil de usuario foi utilizado um form
 
 ## Conclusão
 
+A partir da análise das respostas apresentadas anteriormente, conclui-se que em sua grande maioria os sites do governo , necessitam de atualizações e melhorias frequentes, dito que muitas vezes não possuem uma usabilidade nem um acessibilidade desejada para um determinado tipo de usuário. Foram apresentadas tambem um grande acervo de sugestões de melhorias, fazendo entender, que o site peca em alguns aspectos mas não lhe tira sua identidade.
 
 ## Histórico de versões
 
