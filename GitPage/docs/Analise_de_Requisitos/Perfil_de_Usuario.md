@@ -51,3 +51,11 @@ Para o levantamento de dados relativo ao perfil de usuario foi utilizado um form
 ![grafico 10](./graficos/10.png)
 
 ## Conclusão
+
+
+## Histórico de versões
+
+| Data       | Versão | Descrição                                  | Autor(es)      |
+| ---------- | ------ | ------------------------------------------ | -------------- |
+| 07/12/2022 | 1.0    | Criação do documento                       | João Anacleto |
+| 07/12/2022 | 1.1    | Criando e adicionando informações sobre o Perfil de Usuário | Matheus Salim |
