@@ -14,41 +14,75 @@ Para o levantamento de dados relativo ao perfil de usuario foi utilizado um form
 
 ![grafico 1](./graficos/1.png)
 
+Figura 1:faixa etária
+<br>Fonte:Resultados adquiridos pelo formulario
+
 ### 2 - Você utiliza frequentemente a internet?
 
 ![grafico 2](./graficos/2.png)
+
+Figura 2: Frequência de uso
+<br>Fonte:Resultados adquiridos pelo formulario
 
 ### 3 - Ja precisou utilizar o site do governo?
 
 ![grafico 3](./graficos/3.png)
 
+Figura 3: Utilização do site
+<br>Fonte:Resultados adquiridos pelo formulario
+
 ### 4 - Ja acessou o site da Prefeitura de Patos de Minas?
 
 ![grafico 4](./graficos/4.png)
+
+Figura 4: Acesso ao site
+<br>Fonte:Resultados adquiridos pelo formulario
 
 ### 5 - Voce ja sentiu necessidade de utilizar algum site do governo?
 
 ![grafico 5](./graficos/5.png)
 
+Figura 5: Necessidade de utilização
+<br>Fonte:Resultados adquiridos pelo formulario
+
 ### 6 - Sentiu satisfeito com a interface do site?
 
 ![grafico 6](./graficos/6.png)
+
+Figura 6: Satisfação com a interface
+<br>Fonte:Resultados adquiridos pelo formulario
 
 ### 7 - Acho que o site tem uma usabilidade intuitiva e simples?
 
 ![grafico 7](./graficos/7.png)
 
+Figura 7: Usabilidade do site
+<br>Fonte:Resultados adquiridos pelo formulario
+
 ### 8 - O que voce recomendaria de mudança no site?
 
 ![grafico 8](./graficos/8.png)
+
+Figura 8: Recomendação do site
+<br>Fonte:Resultados adquiridos pelo formulario
 
 ### 9 - Em uma escala de 1 a 5, o quanto você recomenda o site da prefeitura de Patos de Minas?
 
 ![grafico 9](./graficos/9.png)
 
+Figura 9: Recomendação do site
+<br>Fonte:Resultados adquiridos pelo formulario
+
 ### 10 - Considera que os sites do governo, em sua maioria, são mal feitos e não são totalmente ajustados para suprir todas as necessidades?
 
 ![grafico 10](./graficos/10.png)
+
+Figura 10: Suprir necessidades
+<br>Fonte:Resultados adquiridos pelo formulario
+
+## Referência bibliográfica
+
+> BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação humano-computador. Elsevier, 2010.
 
 ## Conclusão
 
@@ -56,7 +90,7 @@ A partir da análise das respostas apresentadas anteriormente, conclui-se que em
 
 ## Histórico de versões
 
-| Data       | Versão | Descrição                                  | Autor(es)      |
-| ---------- | ------ | ------------------------------------------ | -------------- |
-| 07/12/2022 | 1.0    | Criação do documento                       | João Anacleto |
+| Data       | Versão | Descrição                                                   | Autor(es)     |
+| ---------- | ------ | ----------------------------------------------------------- | ------------- |
+| 07/12/2022 | 1.0    | Criação do documento                                        | João Anacleto |
 | 07/12/2022 | 1.1    | Criando e adicionando informações sobre o Perfil de Usuário | Matheus Salim |

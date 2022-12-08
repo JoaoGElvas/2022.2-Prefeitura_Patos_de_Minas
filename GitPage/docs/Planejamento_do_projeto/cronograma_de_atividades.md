@@ -4,6 +4,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Cronograma geral de entregas
 
+Segue _na tabela 1_, o cronograma oficial de entregas.
+
+<figcaption><center>
+    Tabela 1 - Cronograma de Atividades
+</figcaption>
+
 | Entrega | Fase                                | Atividades                                                                                                                                                                                                                                | Data       |
 | ------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1       | Planejamento do Projeto             | Documentar Equipe <br/> Lista de sites avaliados <br/> Site selecionado para o projeto da disciplina <br/> Ferramentas utilizadas no projeto <br/> Processo de Design <br/> Cronograma das atividades                                     | 23/11/2022 |
@@ -18,6 +24,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 1 - Planejamento do Projeto - 23/11/2022
 
+A seguir, na _tabela 2_, se encontra a tabela relacionada à primeira entrega da matéria.
+
+<figcaption><center>
+    Tabela 2 - Primeira entrega
+</figcaption>
+
 | Atividade(s)                                             | Data  | Responsavel                                           | Revisor                                               | Data de revisão |
 | -------------------------------------------------------- | ----- | ----------------------------------------------------- | ----------------------------------------------------- | --------------- |
 | Documentar Equipe                                        | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
@@ -31,6 +43,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 2 - Perfil do usuário, Personas e Análise de tarefas- 07/12/2022
 
+A seguir, na _tabela 3_, se encontra a tabela relacionada à segunda entrega da matéria.
+
+<figcaption><center>
+    Tabela 3 - Segunda entrega
+</figcaption>
+
 | Atividade(s)                                  | Data  | Responsavel                                           | Revisor             | Data de revisão |
 | --------------------------------------------- | ----- | ----------------------------------------------------- | ------------------- | :-------------: |
 | Revisão e correção da Entrega 1               | 06/12 | João Pedro,João Gabriel,Augusto                       | Rodrigo Wright      |   06/12/2022    |
@@ -42,6 +60,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo- 12/12/2022
 
+A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da matéria.
+
+<figcaption><center>
+    Tabela 4 - Terceira entrega
+</figcaption>
+
 | Atividade(s)                      | Data  | Responsavel               | Revisor                                               | Data de revisão |
 | --------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
 | Princípios Gerais de Projeto      | 09/12 | João Pedro,Augusto        |                                                       |                 |
@@ -51,6 +75,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 | Edição dos videos de apresentação | 11/12 | João Gabriel              |                                                       |                 |
 
 ## Entrega 4 -Planejamento da Avaliação,relato dos resultados da avaliação do Storyboard, Análise de tarefas - 14/12/2022
+
+A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da matéria.
+
+<figcaption><center>
+    Tabela 5 - Quarta entrega
+</figcaption>
 
 | Atividade(s)                                               | Data  | Responsavel               | Revisor | Data de revisão |
 | ---------------------------------------------------------- | ----- | ------------------------- | ------- | --------------- |
@@ -63,6 +93,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 | Edição dos videos de apresentação                          | 13/12 | João Gabriel              |         |                 |
 
 ## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 02/01/2023
+
+A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da matéria.
+
+<figcaption><center>
+    Tabela 6 - Quinta entrega
+</figcaption>
 
 | Atividade(s)                                               | Data  | Responsável                 | Revisor | Data de Revisão |
 | ---------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
@@ -78,6 +114,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 6 -Relato dos resultados da avaliação do protótipo de baixa fidelidade,Planejamento da Avaliação do protótipo de alta fidelidade,Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade- 11/01/2023
 
+A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da matéria.
+
+<figcaption><center>
+    Tabela 7 - sexta entrega
+</figcaption>
+
 | Atividade(s)                                                                                    | Data  | Responsável                 | Revisor | Data de Revisão |
 | ----------------------------------------------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
 | Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 08/01 | Augusto Campos,João Gabriel |         |                 |
@@ -87,6 +129,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 | Edição do vídeo                                                                                 | 10/01 | João Gabriel                |         |                 |
 
 ## Entrega 7 -Verificação dos artefatos- 18/01/2023
+
+A seguir, na _tabela 8_, se encontra a tabela relacionada à setima entrega da matéria.
+
+<figcaption><center>
+    Tabela 8 - Setima entrega
+</figcaption>
 
 | Atividade(s)                                                   | Data  | Responsável             | Revisor | Data de Revisão |
 | -------------------------------------------------------------- | ----- | ----------------------- | ------- | --------------- |
@@ -107,6 +155,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 
 ## Entrega 8 -Relato dos resultados da avaliação do protótipo de alta fidelidade- 25/01/2023
 
+A seguir, na _tabela 9_, se encontra a tabela relacionada à oitava entrega da matéria.
+
+<figcaption><center>
+    Tabela 9 - Oitava entrega
+</figcaption>
+
 | Atividade(s)                                              | Data  | Responsável    | Revisor | Data de Revisão |
 | --------------------------------------------------------- | ----- | -------------- | ------- | --------------- |
 | Protótipo de alta fidelidade                              | 20/01 | Rodrigo Wright |         |                 |
@@ -119,6 +173,12 @@ Nesta seção apresentamos o cronograma de atividades, onde podemos visualizar a
 | Edição do vídeo                                           | 22/01 | João Gabriel   |         |                 |
 
 ## Entrega 9 - Entrega Final - 01/02/2023
+
+A seguir, na _tabela 10_, se encontra a tabela relacionada à nona entrega da matéria.
+
+<figcaption><center>
+    Tabela 10 - Ultima entrega
+</figcaption>
 
 | Atividade(s)                                                | Data  | Responsável                     | Revisor | Data de Revisão |
 | ----------------------------------------------------------- | ----- | ------------------------------- | ------- | --------------- |

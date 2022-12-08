@@ -9,7 +9,6 @@ Inicialmente foram avaliados varios sites por cada integrante do grupo como most
 | [Na Hora](https://www.nahora.df.gov.br/)                            | Bruno Seiji Kishibe             |
 | [Aprender](https://aprender3.unb.br/login/index.php)                | Augusto Campos Duarte           |
 | [Gov](https://www.gov.br/pt-br)                                     | João Gabriel Elvas              |
-| []()                                                                | Matheus Salim de Oliveira       |
 
 ### Prefeitura de Patos de Minas
 
@@ -51,7 +50,6 @@ Tendo isso em vista os principais critérios de escolha do site foram:
 4. Apresentação visual datadas;
 5. Difícil interação;
 
-
 ### Avaliação do site
 
 O metodo de avaliação escolhido foi a heurística no qual consiste em uma técnica de inspeção de usabilidade executado por examinadores que seguem um conjunto de princípios de usabilidade, as heurísticas, e avaliam todos os elementos de interface com o usuário, com o objetivo de encontrar falhas de usabilidade. Os critérios para avaliação heurística são: Status do sistema, compatibilidade com o mundo real, controle do usuário e liberdade, consistência e padrões prevenção de erros, Reconhecimento ao invés de relembrança, Flexibilidade e eficiência no uso, Estéticas e design minimalista, ajuda aos usuários no reconhecimento e diagnostico de erros, ajuda e documentação.
@@ -63,10 +61,10 @@ O metodo de avaliação escolhido foi a heurística no qual consiste em uma téc
 
 # Historico de versão
 
-| Versão | Data  | Descrição                                         | Autor                 | Revisor             |
-| ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
-| 1.0    | 19/11 | Criação do template do Planejamento               | João Pedro Anacleto   | Bruno Seiji Kishibe |
-| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados | João Pedro Anacleto   | Bruno Seiji Kishibe |
-| 1.1    | 22/11 | Adicionando motivação do site escolhido           | João Gabriel Elvas    | João Pedro Anacleto |
-| 1.2    | 04/12 | Adicionando figuras da avaliação heuristica       | Augusto Campos Duarte | Bruno Seiji Kishibe |
-| 1.3    | 07/12 | Realizando melhorias - motivação do site escolhido| João Gabriel Elvas    | Rodrigo Wright      |
+| Versão | Data  | Descrição                                          | Autor                 | Revisor             |
+| ------ | ----- | -------------------------------------------------- | --------------------- | ------------------- |
+| 1.0    | 19/11 | Criação do template do Planejamento                | João Pedro Anacleto   | Bruno Seiji Kishibe |
+| 1.0    | 20/11 | Adição de membros da equipe e dos sites avaliados  | João Pedro Anacleto   | Bruno Seiji Kishibe |
+| 1.1    | 22/11 | Adicionando motivação do site escolhido            | João Gabriel Elvas    | João Pedro Anacleto |
+| 1.2    | 04/12 | Adicionando figuras da avaliação heuristica        | Augusto Campos Duarte | Bruno Seiji Kishibe |
+| 1.3    | 07/12 | Realizando melhorias - motivação do site escolhido | João Gabriel Elvas    | Rodrigo Wright      |
