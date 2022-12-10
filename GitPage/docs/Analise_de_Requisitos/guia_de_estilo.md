@@ -12,7 +12,19 @@ Em produção, este guia deverá ser usado como um molde para inserção de idei
 
 ## Layout
 
-O layout é a disposição espacial dos elementos, que permite definir a posição geral de cada componente que comporá o site. Abaixo, apresentaremos o layout em forma de grid:
+O layout é a disposição espacial dos elementos, que permite definir a posição geral de cada componente que comporá o site. Neste grid _imagem 1_ podemos ver como o site da prefeitura de patos de minas dispõem o seu site.
+
+ ![Grid do site](./assets_analise/grid.png) 
+ 
+ _(Imagem 1. Grid do site da Prefeitura de Patos de Minas, autoria própria)_
+ 
+ ## Cores
+ 
+ O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas 
+ 
+ 1. Cores primárias: #007cba (azul), #0c71c3 (azul).
+ 2. Cor do fundo do site: #fff (branco).
+ 3. Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
 
 ## Elementos de Interação
 
