@@ -27,16 +27,21 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
  1. Cores primárias: #007cba (azul), #0c71c3 (azul).
  2. Cor do fundo do site: #fff (branco).
  3. Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
+ 
+ 
 
 ## 1.3 Tipografia
 
-O site utiliza a fonte **Helvetica**, que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+O site utiliza a fonte **Helvetica** (_Imagem 2_), que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 1. Título: **Sem predefinição**, sendo o tamanho adequado para caber nos espaços fornecidos.
 2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
 3. Textos no geral: **14 px**.
 
+<img src="./assets_analise/helvetica.png" height= 300 width=300>
+
+_(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
 
 ## 2 Elementos de Interação
 
