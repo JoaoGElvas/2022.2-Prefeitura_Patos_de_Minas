@@ -6,6 +6,8 @@ O guia de estilo é o documento que reúne os princípios e diretrizes adotados 
 
 O objetivo deste guia de estilo é atender os padrões de design desenvolvidos para o projeto, e permitir que os usuários tenham a melhor interação possível com a plataforma. Nosso público alvo são jovens de 19 - 24 anos que usam site do governo (por necessidade ou não), e já tem uma boa segurança em utilizar a internet. Além disso, por ser um site do governo, ele deve ser inclusivo e atender o público com deficiências que dificultem o uso de aplicações web.
 
+## Como usar e manter o guia
+
 Em produção, este guia deverá ser usado como um molde para inserção de ideias, permitindo que o designer se concentre mais com o que ele irá preenche-lo e não como. Ele poderá ser alterado à medida que novas informações sobre o usuário forem chegando, porém deve se manter sempre alinhado com os princípios estabelecidos pelo o projeto. Quando o guia estiver em manutenção, alterações deverão ser evitadas para não estragar outras partes do projeto. Porém, caso alterações precisem ser feitas, as partes do projeto que já tiverem sido desenvolvidas deverão ser revisadas para se manter alinhadas com o padrão do projeto.
 
 # Identidade Visual do Site da Prefeitura de Patos de Minas
@@ -35,7 +37,7 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
 O site utiliza a fonte **Helvetica** (_Imagem 2_), que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
-1. Título: **Sem predefinição**, sendo o tamanho adequado para caber nos espaços fornecidos.
+1. Título: **Sem predefinição**, sendo o tamanho ajustado para caber nos espaços fornecidos.
 2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
 3. Textos no geral: **14 px**.
 
@@ -45,9 +47,20 @@ _(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/w
 
 ## 2 Elementos de Interação
 
+## 2.1 Ícones interativos
+
+| Ícone | Descrição |
+| ----- | --------- |
+| 
+
 ## Elementos de Ação
 
 ## Vocabulários e Padrões
+
+1. Ler mais
+2. Baixar
+3. Download
+4. Ver mais
 
 ## 6. Referências Bibliográficas
 
