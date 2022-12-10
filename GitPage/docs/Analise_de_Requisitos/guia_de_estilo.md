@@ -10,7 +10,9 @@ Em produção, este guia deverá ser usado como um molde para inserção de idei
 
 # Identidade Visual do Site da Prefeitura de Patos de Minas
 
-## Layout
+## 1 Elementos de interface
+
+## 1.1 Layout
 
 O layout é a disposição espacial dos elementos, que permite definir a posição geral de cada componente que comporá o site. Neste grid _imagem 1_ podemos ver como o site da prefeitura de patos de minas dispõem o seu site.
 
@@ -18,7 +20,7 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
  
  _(Imagem 1. Grid do site da Prefeitura de Patos de Minas, autoria própria)_
  
- ## Cores
+ ## 1.2 Cores
  
  O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas 
  
@@ -26,7 +28,17 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
  2. Cor do fundo do site: #fff (branco).
  3. Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
 
-## Elementos de Interação
+## 1.3 Tipografia
+
+O site utiliza a fonte **Helvetica**, que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+
+Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
+1. Título: **Sem predefinição**, sendo o tamanho adequado para caber nos espaços fornecidos.
+2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
+3. Textos no geral: **14 px**.
+
+
+## 2 Elementos de Interação
 
 ## Elementos de Ação
 
@@ -35,3 +47,5 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
 ## 6. Referências Bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> 
+> Site sobre Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
