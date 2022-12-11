@@ -2,7 +2,7 @@
 
 ## Introdução
 
-As metas de usabilidade têm como objetivo assegurar que produtos interativos sejam fáceis de aprender, eficazes e agradáveis para o usuário. Para que esses objetivos sejam atendidos as interações estabelecidas devem ser otimizadas.
+As metas de usabilidade têm como objetivo assegurar que produtos interativos sejam fáceis de aprender, eficazes e agradáveis para o usuário. Para que esses objetivos sejam atendidos as interações estabelecidas devem ser otimizadas. [1]
 
 As metas de usabilidades, são geralmente utilizadas em formato de perguntas, sendo divididas em: <br/>
 
@@ -17,13 +17,23 @@ As metas de usabilidades, são geralmente utilizadas em formato de perguntas, se
 
 O site permite que as pessoas aprendam, realizem seu trabalho de forma eficiente ou acessem a informação de que necessitam?
 
+•	Algumas funcionalidades não são muito eficientes, como as notícias que para fazer a pesquisa é necessário olhar várias páginas para que se encontre, não apresentando nenhuma forma de busca ou filtro.  
+
 ## Eficiência
 
 Os usuários conseguirão manter um alto nível de produtividade, uma vez que tenham aprendido como utilizar o site para realizar suas tarefas?
 
+•	Existem aspectos que dificultam a usabilidade, podem ser listados muitos links e botões não estão funcionando, a lentidão no carregamento de algumas páginas e a dificuldade de se localizar os itens na página.
+
 ## Segurança
 
 Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
+
+•	Um exemplo de erro que pode ser cometido é selecionar uma sessão errada no site, dado esse erro o usuário deve clicar na logo do site ou na home para voltar na página inicial, em nem todas as secretarias esses botões são funcionais.
+
+•	Alguns links externos abreem a página na mesma aba, sendo necessário user o voltar do navegador.
+
+•	Na sessão editais quando selecionado um edital diferente do presente na pagina inicial é necessário usar o voltar do navegador, diferente da página inicial que apresenta o edital mais recente e a opção de selecionar os mais antigos.
 
 ## Utilidade
 
@@ -38,8 +48,14 @@ O usuário saberá como usar o produto explorando a interface e experimentando d
 Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para operações que são utilizados com pouca frequência?
 
 
+## Referências Bibliográficas
+
+> [1] JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homem-
+computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005
+
 ## Historico de versão
 
 | Versão | Data  | Descrição                                    | Autor               | Revisor             |
 | ------ | ----- | -------------------------------------------- | ------------------- | ------------------- |
 | 1.0    | 11/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe |                     |
+| 1.0    | 11/12 | Adição respostas eficácia, eficiência e segurança | Bruno Seiji Kishibe |                     |
