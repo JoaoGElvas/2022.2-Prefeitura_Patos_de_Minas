@@ -24,4 +24,4 @@ A análise será feita conforme os conceitos vistos na matéria.
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
-| 1.0    | 07/12 | Criação da primeira verção do readme              | João Gabriel Elvas    |                     |
+| 1.0    | 07/12 | Criação da primeira verção do readme              | João Gabriel Elvas    | Rodrigo Wright      |
