@@ -24,18 +24,19 @@ O layout é a disposição espacial dos elementos, que permite definir a posiç�
  
  ## 1.2. Cores
  
- O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas 
+ O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas fazem referência ao brasão do município, onde a cor predominante é azul. Porém temos outras cores que também compõem a palheta de cores _imagem 1_. Abaixo podemos observar a classificação de prioridade das cores utilizadas pelo site.
  
  1. Cores primárias: #007cba (azul), #0c71c3 (azul).
  2. Cor do fundo do site: #fff (branco).
  3. Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
- 4. Preto: #
  
- 
+<img src="./assets_analise/colors.png" height= 300 width=600>
+
+_(imagem 1, palheta de cores do site da prefeitura de Patos de Minas, autoria própria criada utilizando o coolors)._
 
 ## 1.3. Tipografia
 
-O site utiliza a fonte **Helvetica** (_Imagem 2_), que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+O site utiliza a fonte **Helvetica** (_imagem 2_), que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 1. Título: **Sem predefinição**, sendo o tamanho ajustado para caber nos espaços fornecidos.
