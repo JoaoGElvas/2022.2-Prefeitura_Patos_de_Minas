@@ -42,4 +42,4 @@ Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os u
 
 | Versão | Data  | Descrição                                    | Autor               | Revisor             |
 | ------ | ----- | -------------------------------------------- | ------------------- | ------------------- |
-| 1.0    | 06/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe |                     |
+| 1.0    | 11/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe |                     |
