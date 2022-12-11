@@ -39,14 +39,19 @@ Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas q
 
 O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
 
+• Sim, porém usuários que nao possuem um dominio intuitivo ou uma habilidade de procurar pelo site, terão dificuldades em navegar no mesmo. O site peca na utilidade pois nao especifica as funções que tem, ao mesmo tempo pode existir funções que estão escondidas e que seriam necessárias.
+
 ## Learnability
 
 O usuário saberá como usar o produto explorando a interface e experimentando determinadas ações? Será difícil aprender todo o conjunto de funções dessa maneira?
+
+• Dependendo da situação o site tem uma capacidade de learnbility boa. Mas em alguns casos não ajuda da forma necessária, tornando dificil sua navegação.
 
 ## Memorability
 
 Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para operações que são utilizados com pouca frequência?
 
+• Nenhum. As informações se confundem ao meio de tanta noticia espalhada pela site, fazendo com que muitas vezes esquecemos caminhos ja tomados e nos perdemos.
 
 ## Referências Bibliográficas
 
@@ -59,3 +64,4 @@ computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 200
 | ------ | ----- | -------------------------------------------- | ------------------- | ------------------- |
 | 1.0    | 11/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe |                     |
 | 1.0    | 11/12 | Adição respostas eficácia, eficiência e segurança | Bruno Seiji Kishibe |                     |
+| 1.1    | 11/12 | Adição respostas utilidade, learnbility e memorability | Matheus Salim de Oliveira |                     |
