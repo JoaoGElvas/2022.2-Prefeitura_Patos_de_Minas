@@ -4,11 +4,15 @@ O guia de estilo é o documento que reúne os princípios e diretrizes adotados 
 
 ## 1. Objetivos
 
-O objetivo deste guia de estilo é atender os padrões de design desenvolvidos para o projeto, e permitir que os usuários tenham a melhor interação possível com a plataforma. Nosso público alvo são jovens de 19 - 24 anos que usam site do governo (por necessidade ou não), e já tem uma boa segurança em utilizar a internet. Além disso, por ser um site do governo, ele deve ser inclusivo e atender o público com deficiências que dificultem o uso de aplicações web.
+O objetivo deste guia de estilo é atender os padrões de design desenvolvidos para o projeto, e permitir que os usuários tenham a melhor interação possível com a plataforma. Nosso público alvo são jovens de 19 - 24 anos que usam site do governo (por necessidade ou não), interessados em receber informações úteis da prefeitura, como servidores públicos ou moradores de Patos de Minas. Além disso, por ser um site do governo, ele deve ser inclusivo e atender o público com deficiências que dificultem o uso de aplicações web.
 
-## 2. Como usar e manter o guia
+## 2. Como usar
 
-Em produção, este guia deverá ser usado como um molde para inserção de ideias, permitindo que o designer se concentre mais com o que ele irá preenche-lo e não como. Ele poderá ser alterado à medida que novas informações sobre o usuário forem chegando, porém deve se manter sempre alinhado com os princípios estabelecidos pelo o projeto. Quando o guia estiver em manutenção, alterações deverão ser evitadas para não estragar outras partes do projeto. Porém, caso alterações precisem ser feitas, as partes do projeto que já tiverem sido desenvolvidas deverão ser revisadas para se manter alinhadas com o padrão do projeto.
+Em produção, este guia deverá ser usado como um molde para inserção de ideias, sempre sendo levado em consideração na hora de desenvolver o design da aplicação. Quando o projeto entrar na faze de manutenção, o guia servirá de auxílio para garantir que possíveis modificações não afetem na usabilidade do site.
+
+## 3. Como manter
+
+O guia de estilo deverá ser atualizado à medida que novas informações sobre o usuário forem chegando, porém deve se manter sempre alinhado com os princípios estabelecidos pelo o projeto. Além disso, quando alterações forem feitas, a equipe deverá verificar se as partes dos projetos já feitas (planejadas, desenvolvidas, etc.) estão de acordo com o novo estilo estabelecido.
 
 # Identidade Visual do Site da Prefeitura de Patos de Minas
 
