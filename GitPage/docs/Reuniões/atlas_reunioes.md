@@ -1,6 +1,6 @@
 # Atas das reuniões
 
-Esse espaço será dedicado às reuniões realizadas em grupo.
+Este espaço será dedicado às reuniões realizadas em grupo.
 
 ## Primeira reunião
 
@@ -63,5 +63,5 @@ que ainda estava pendente tanto para ser feito tanto para ser corrigido para a *
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
-| 1.0    | 07/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    | Rodrigo Wright      |
+| 1.0    | 11/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    | Rodrigo Wright      |
 
