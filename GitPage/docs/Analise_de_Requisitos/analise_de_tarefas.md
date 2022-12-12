@@ -61,5 +61,5 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
 | ------ | ----- | ------------------------------------------ | ------------------- | ------------------- |
 | 1.0    | 06/12 | Criação do documento de analise de tarefas | Augusto Campos      | Bruno Seiji Kishibe |
 | 1.1    | 06/12 | Adição de novos objetivos                  | Bruno Seiji Kishibe | João Pedro Anacleto |
-| 1.2    | 07/12 | Adição das referencias bibliograficas      | Augusto Campos      |                     |
+| 1.2    | 07/12 | Adição das referencias bibliograficas      | Augusto Campos      | Bruno Seiji Kishibe |
 
