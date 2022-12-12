@@ -66,14 +66,14 @@ A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da
     Tabela 4 - Terceira entrega
 </figcaption>
 
-| Atividade(s)                 | Data  | Responsavel                 | Revisor | Data de revisão |
-| ---------------------------- | ----- | --------------------------- | ------- | --------------- |
-| Adição dos Atas das reuniões | 09/12 | João Gabriel,Augusto        |         |                 |
-| Adição das questões eticas   | 09/12 | João Pedro,Bruno seiji      |         |                 |
-| Princípios Gerais de Projeto | 09/12 | João Pedro,Augusto          |         |                 |
-| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   |         |                 |
-| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel |         |                 |
-| Gravação de video            | 11/12 | João Gabriel                |         |                 |
+| Atividade(s)                 | Data  | Responsavel                 | Revisor        | Data de revisão |
+| ---------------------------- | ----- | --------------------------- | -------------- | :-------------: |
+| Adição das Atas das reuniões | 09/12 | João Gabriel,Augusto        | Rodrigo Wright | 11/12/2022      |
+| Adição das questões eticas   | 09/12 | João Pedro,Bruno seiji      |                |                 |
+| Princípios Gerais de Projeto | 09/12 | João Pedro,Augusto          |                |                 |
+| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   |                |                 |
+| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel |                |                 |
+| Gravação de video            | 11/12 | João Gabriel                |                |                 |
 
 ## Entrega 4 -Planejamento da Avaliação,relato dos resultados da avaliação do Storyboard, Análise de tarefas - 14/12/2022
 
