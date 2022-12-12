@@ -62,6 +62,6 @@ computador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 200
 
 | Versão | Data  | Descrição                                    | Autor               | Revisor             |
 | ------ | ----- | -------------------------------------------- | ------------------- | ------------------- |
-| 1.0    | 11/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe |                     |
-| 1.0    | 11/12 | Adição respostas eficácia, eficiência e segurança | Bruno Seiji Kishibe |                     |
-| 1.1    | 11/12 | Adição respostas utilidade, learnbility e memorability | Matheus Salim de Oliveira |                     |
+| 1.0    | 11/12 | Criação do documento de metas de usabilidade | Bruno Seiji Kishibe | Matheus Salim de Oliveira |
+| 1.0    | 11/12 | Adição respostas eficácia, eficiência e segurança | Bruno Seiji Kishibe | Matheus Salim de Oliveira |
+| 1.1    | 11/12 | Adição respostas utilidade, learnbility e memorability | Matheus Salim de Oliveira | Bruno Seiji Kishibe |
