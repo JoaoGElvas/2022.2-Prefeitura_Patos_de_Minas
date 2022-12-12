@@ -1,6 +1,6 @@
-# Atlas reuniões
+# Atas das reuniões
 
-Esse espaço será dedicado ao atlas das reuniões realizadas em grupo.
+Esse espaço será dedicado às reuniões realizadas em grupo.
 
 ## Primeira reunião
 
@@ -48,7 +48,7 @@ que ainda estava pendente tanto para ser feito tanto para ser corrigido para a *
 
 **Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto e Rodrigo Wright
 
-### Quinta Reunião
+## Quinta Reunião
 
 **Data:** 07/12/2022
 
@@ -63,5 +63,5 @@ que ainda estava pendente tanto para ser feito tanto para ser corrigido para a *
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
-| 1.0    | 07/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    |                     |
+| 1.0    | 07/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    | Rodrigo Wright      |
 
