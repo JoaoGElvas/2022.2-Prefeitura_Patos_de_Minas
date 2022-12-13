@@ -34,7 +34,7 @@ O esquema de cores é a palheta que é preferível usar no site, para que a apar
 2.  Cor do fundo do site: #fff (branco).
 3.  Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
 
-<img src="../assets_analise/colors.png" height= 300 width=600>
+<img src="./assets_analise/colors.png" height= 300 width=600>
 
 _(imagem 1, palheta de cores do site da prefeitura de Patos de Minas, autoria própria criada utilizando o coolors)._
 
@@ -48,7 +48,7 @@ Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
 3. Textos no geral: **14 px**.
 
-<img src="../assets_analise/helvetica.png" height= 300 width=300>
+<img src="./assets_analise/helvetica.png" height= 300 width=300>
 
 _(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
 
@@ -58,13 +58,13 @@ _(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/w
 
 | Ícone                                                                                                                                                 | Descrição                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../assets_analise/logo.png" height= 60 width= 100> </br> <img src="./assets_analise/logo2.png" height= 60 width= 100>                       | **Brasão**: logo que pode variar dependendo da aba que o usuário está acessando.                                                                                                                                                                     |
-| <img src="../assets_analise/setasAmarelas.png" height= 60 width= 60>                                                                                  | **Setas Amarelas**: setas usadas para indicar as páginas de assuntos relevantes na página principal _home_.                                                                                                                                          |
-| <img src="../assets_analise/pesquisa.png" height= 60 width= 350>                                                                                      | **Pesquisa**: barra de pesquisa utilizada na página principal _home_, ela possui uma barra de texto do lado esquerdo e um botão de pesquisa do lado direito.                                                                                         |
-| <img src="../assets_analise/iconesRotulados.png" height= 60 width= 100> </br> <img src="./assets_analise/iconesRotulados2.png" height= 60 width= 100> | Ícones Rotulados: ícones que são rotulados com um subtítulo, o ícone varia dependendo da referência que ele faz e sua cor varia dependendo da cor de fundo alternando de branco (quando o fundo for azul) e cinza claro (quando o fundo for branco). |
-| <img src="../assets_analise/filtrar.png" height= 60 width= 100>                                                                                       | **Filtrar**: botão para filtrar com base no que é escrito na caixa de texto ao lado, ele serve para filtrar o conteúdo de uma página                                                                                                                 |
-| <img src="../assets_analise/imprimir.png" height= 60 width= 100>                                                                                      | **Imprimir**: botão usado para imprimir o documento que a página está mostrando.                                                                                                                                                                     |
-| <img src="../assets_analise/leiaMais.png" height= 60 width= 100>                                                                                      | **Leia mais**: botão usado para acessar o conteúdo que tem parte exposta na página principal _home_.                                                                                                                                                 |
+| <img src="./assets_analise/logo.png" height= 60 width= 100> </br> <img src="./assets_analise/logo2.png" height= 60 width= 100>                       | **Brasão**: logo que pode variar dependendo da aba que o usuário está acessando.                                                                                                                                                                     |
+| <img src="./assets_analise/setasAmarelas.png" height= 60 width= 60>                                                                                  | **Setas Amarelas**: setas usadas para indicar as páginas de assuntos relevantes na página principal _home_.                                                                                                                                          |
+| <img src="./assets_analise/pesquisa.png" height= 60 width= 350>                                                                                      | **Pesquisa**: barra de pesquisa utilizada na página principal _home_, ela possui uma barra de texto do lado esquerdo e um botão de pesquisa do lado direito.                                                                                         |
+| <img src="./assets_analise/iconesRotulados.png" height= 60 width= 100> </br> <img src="./assets_analise/iconesRotulados2.png" height= 60 width= 100> | Ícones Rotulados: ícones que são rotulados com um subtítulo, o ícone varia dependendo da referência que ele faz e sua cor varia dependendo da cor de fundo alternando de branco (quando o fundo for azul) e cinza claro (quando o fundo for branco). |
+| <img src="./assets_analise/filtrar.png" height= 60 width= 100>                                                                                       | **Filtrar**: botão para filtrar com base no que é escrito na caixa de texto ao lado, ele serve para filtrar o conteúdo de uma página                                                                                                                 |
+| <img src="./assets_analise/imprimir.png" height= 60 width= 100>                                                                                      | **Imprimir**: botão usado para imprimir o documento que a página está mostrando.                                                                                                                                                                     |
+| <img src="./assets_analise/leiaMais.png" height= 60 width= 100>                                                                                      | **Leia mais**: botão usado para acessar o conteúdo que tem parte exposta na página principal _home_.                                                                                                                                                 |
 
 ## 3. Vocabulários e Padrões
 
