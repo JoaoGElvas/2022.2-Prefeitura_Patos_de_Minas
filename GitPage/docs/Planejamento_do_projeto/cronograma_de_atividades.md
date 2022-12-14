@@ -66,14 +66,14 @@ A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da
     Tabela 4 - Terceira entrega
 </figcaption>
 
-| Atividade(s)                 | Data  | Responsavel                 | Revisor        | Data de revisão |
-| ---------------------------- | ----- | --------------------------- | -------------- | :-------------: |
-| Adição das Atas das reuniões | 09/12 | João Gabriel,Augusto        | Rodrigo Wright | 11/12/2022      |
-| Adição das questões eticas   | 09/12 | João Pedro,Bruno seiji      |                |                 |
-| Princípios Gerais de Projeto | 09/12 | João Pedro,Augusto          |                |                 |
-| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   |                |                 |
-| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel |                |                 |
-| Gravação de video            | 11/12 | João Gabriel                |                |                 |
+| Atividade(s)                 | Data  | Responsavel                 | Revisor                                               | Data de revisão |
+| ---------------------------- | ----- | --------------------------- | ----------------------------------------------------- | :-------------: |
+| Adição das Atas das reuniões | 09/12 | João Gabriel,Augusto        | Rodrigo Wright                                        |   11/12/2022    |
+| Adição das questões eticas   | 09/12 | João Pedro,Bruno seiji      | Bruno seiji                                           |   11/12/2022    |
+| Princípios Gerais de Projeto | 09/12 | João Pedro,Augusto          | João Pedro                                            |   11/12/2022    |
+| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   | Matheus Salim                                         |   11/12/2022    |
+| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel | João Gabriel                                          |   11/12/2022    |
+| Gravação de video            | 11/12 | João Gabriel                | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |   11/12/2022    |
 
 ## Entrega 4 -Planejamento da Avaliação,relato dos resultados da avaliação do Storyboard, Análise de tarefas - 14/12/2022
 
@@ -83,14 +83,14 @@ A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da m
     Tabela 5 - Quarta entrega
 </figcaption>
 
-| Atividade(s)                                               | Data  | Responsavel               | Revisor | Data de revisão |
-| ---------------------------------------------------------- | ----- | ------------------------- | ------- | --------------- |
-| Planejamento da avaliação da Análise de Tarefas            | 11/12 | Augusto Campos            |         |                 |
-| Planejamento da avaliação do storyboard                    | 11/12 | João Gabriel              |         |                 |
-| Storyboard                                                 | 11/12 | Rodrigo,João Gabriel      |         |                 |
-| Planejamento do Relato de Resultados do Storyboard         | 12/12 | João Pedro,Augusto        |         |                 |
-| Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji |         |                 |
-| Gravação de video                                          | 13/12 | João Gabriel              |         |                 |
+| Atividade(s)                                               | Data  | Responsavel               | Revisor                                               | Data de revisão |
+| ---------------------------------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
+| Planejamento da avaliação da Análise de Tarefas            | 11/12 | Augusto Campos            | João Pedro                                            | 14/12/2022      |
+| Planejamento da avaliação do storyboard                    | 11/12 | João Gabriel              | Rodrigo                                               | 14/12/2022      |
+| Storyboard                                                 | 11/12 | Rodrigo,João Gabriel      | João Gabriel                                          | 14/12/2022      |
+| Planejamento do Relato de Resultados do Storyboard         | 12/12 | João Pedro,Augusto        | Augusto                                               | 14/12/2022      |
+| Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji | Bruno seiji                                           | 14/12/2022      |
+| Gravação de video                                          | 13/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 14/12/2022      |
 
 ## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 02/01/2023
 
