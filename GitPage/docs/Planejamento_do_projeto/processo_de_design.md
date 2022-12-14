@@ -48,6 +48,7 @@ Será coletado o feedback dos usuários depois do uso, pelo designer. Essas info
 ![ciclo_mayhew](https://user-images.githubusercontent.com/64036847/178362196-30461bb1-4071-4f60-87de-070bea0bc6d0.png)
 
 Figura 1 - Engenharia de usabilidade de Mayhew
+Fonte: BARBOSA (2010)
 
 ## Referências Bibliográficas
 
