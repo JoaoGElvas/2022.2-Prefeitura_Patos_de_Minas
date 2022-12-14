@@ -1,4 +1,4 @@
-# Principios gerais de projeto
+# Princípios gerais de projeto
 
 # Introdução
 
@@ -56,20 +56,13 @@ Ajudar aos usuários a reconhecerem, diagnosticarem e se recuperarem de erros, i
 
 # Conclusão
 
-Conclui-se que, para o site da Prefeitura de Patos de Minas, vários princípios e diretrizes não foram aplicados. Por exemplo, consistência e padrões[1] e projeto para erros[2], apresentados nas figuras abaixo:
+Conclui-se que, para o site da Prefeitura de Patos de Minas, vários princípios e diretrizes não foram aplicados. Por exemplo, [consistência e padrões](./assets_analise/cons_pad.png) e [projeto para erros](./assets_analise/prev_erros.png).
 
-![Grid do site](./assets_analise/cons_pad.png)
-
-Figura 1 – Consistência e padrões[1].
-
-![Grid do site](./assets_analise/prev_erros.png)
-
-Figura 2 – Prevenção de erros[2].
-
-# Referência Bibliográfica
+## Referência Bibliográfica
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação.
 
-| Versão | Data     | Descrição             | Autor          | Revisor             |
-| ------ | -------- | --------------------- | -------------- | ------------------- |
-| 1.0    | 11/12/22 | Descrição de Personas | Augusto campos | João Pedro Anacleto |
+| Versão | Data     | Descrição             | Autor              | Revisor             |
+| ------ | -------- | --------------------- | ------------------ | ------------------- |
+| 1.0    | 11/12/22 | Descrição de Personas | Augusto campos     | João Pedro Anacleto |
+| 1.0    | 14/12/22 | Padronizando doc.     | João Gabriel Elvas | João Pedro Anacleto |
