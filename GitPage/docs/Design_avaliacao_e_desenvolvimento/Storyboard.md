@@ -29,8 +29,6 @@ _(Figura 2, acessar leis sobre covid-19)_
 
 Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diário oficial.
 
-_(Figura 3, acessar leis sobre covid-19)_
-
 ![Figura 3](./assets/velho.jpeg)
 
 ## Historico de versão

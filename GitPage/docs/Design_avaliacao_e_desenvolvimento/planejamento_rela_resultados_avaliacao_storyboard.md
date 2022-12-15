@@ -2,27 +2,27 @@
 
 ## Introdução
 
-Essa pagina tem como objetivo realizar o planejamento de como os resultados da avaliação dos storyboards irão ser relatados, ou seja como os resultados serao apresentados e trabalhados.
+Essa página tem como objetivo realizar o planejamento de como os resultados da avaliação dos storyboards irão ser relatados, ou seja como os resultados serão apresentados e trabalhados.
 
 ## Metodologia
 
-A metodologia escolihda mantem se a mesma que a referida no [Planejamento da Avaliação do Storyboard ](https://interacao-humano-computador.github.io/2022.2-Prefeitura_Patos_de_Minas/Design_avaliacao_e_desenvolvimento%20/planejamento_avaliacao_storyboard/) que consiste basicamente em realizar a avaliação do storyboard é o método de investigação através da técnica de entrevista.
+A metodologia escolihda mantem se a mesma que a referida no [Planejamento da Avaliação do Storyboard ](https://interacao-humano-computador.github.io/2022.2-Prefeitura_Patos_de_Minas/Design_avaliacao_e_desenvolvimento%20/planejamento_avaliacao_storyboard/) O método de investigação através da técnica de entrevista. Este método, como já explicado no Planejamento da Avaliação do Storyboard, tem como principais vantagens deixar que o avaliador possa interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionado-os com os sistemas interativos, além de permitir investigar alternativas de design, problemas que os usuários enfrentam e como eles se apropriam da tecnologia existente.
 
 ## Documentar
 
-O avaliador tera como principal responsabilidade documentar os resultados da avaliação do storyboard.
+O avaliador terá como principal responsabilidade documentar os resultados da avaliação do storyboard, mas ainda sim tendo liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, porém mantendo o foco nos objetivos da entrevista.
 
 ### Avaliadores/Participantes
 
-Ele tera como responsabilidade documentar os avaliadores e participantes presentes na avaliação seja por documentos ou atraves de uma gravação,ficando a sua escolha,entretanto deve estar registro no githubPages do projeto.
+Ele terá como responsabilidade documentar os avaliadores e participantes presentes na avaliação, seja por documentos ou através de uma gravação,ficando a sua escolha, entretanto deve estar registrado no github Pages do projeto.
 
 ### Dados obtidos
 
-Ele tera como responsabilidade documentar todas as respostas do [Roteiro de perguntas](http://127.0.0.1:8000/Design_avaliacao_e_desenvolvimento%20/planejamento_avaliacao_storyboard/#roteiro-de-perguntas),tambem registrando comentarios ou sugestoes caso ache necessario.
+Ele tera como responsabilidade documentar todas as respostas do [Roteiro de perguntas](http://127.0.0.1:8000/Design_avaliacao_e_desenvolvimento%20/planejamento_avaliacao_storyboard/#roteiro-de-perguntas), também registrando comentários ou sugestões caso ache necessário.
 
 ### Problemas e Correções
 
-Ele tera como responsabilidade documentar os principais problemas e as possiveis coreções de maneira que esteja conciso com o relato dos resultados obtidos na avaliação de storyboard.
+Ele terá como responsabilidade documentar os principais problemas e as possíveis correções de maneira que esteja conciso com o relato dos resultados obtidos na avaliação de storyboard.
 
 ### Teste Piloto
 
@@ -34,6 +34,10 @@ Ele tera como responsabilidade documentar a gravação do teste piloto no github
 
 ## Histórico de Versão
 
-| Versão | Data     | Descrição                                                                  | Autor               | Revisor        |
-| ------ | -------- | -------------------------------------------------------------------------- | ------------------- | -------------- |
-| 1.0    | 14/12/22 | Criação do planejamento do relato de resultados da avaliação do storyboard | João Pedro Anacleto | Rodrigo Wright |
+| Versão | Data     | Descrição                                                                  | Autor               | Revisor             |
+| ------ | -------- | -------------------------------------------------------------------------- | ------------------- | ------------------- |
+| 1.0    | 14/12/22 | Criação do planejamento do relato de resultados da avaliação do storyboard | João Pedro Anacleto | Rodrigo Wright      |
+| 1.1    | 14/12/22 | Realizando alterações no documento                                         | João Gabriel Elvas  | João Pedro Anacleto |
+
+
+
