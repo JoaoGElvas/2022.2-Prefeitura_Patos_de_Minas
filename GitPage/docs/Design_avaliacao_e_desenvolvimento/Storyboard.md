@@ -13,16 +13,26 @@ O storyboard é uma representação gráfica das tarefas que o usuário fará, e
 
 Na figura (_Figura1_) abaixo temos o storyboard sobre a tarefa de acessar notícias.
 
-Figura 1...
+_(Figura 1, tarefa acessar notícias)_
+
+![Figura 1](./assets/construtora.jpeg)
 
 ## Acessar leis sobre covid-19
 
 Na figura abaixo (_Figura2_) temos o storyboard sobre a tarefa de acessar leis sobre covid-19.
 
-Figura 2...
+_(Figura 2, acessar leis sobre covid-19)_
+
+![Figura 2](./assets/restaurante.jpeg)
 
 ## Baixar diário oficial
 
 Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diário oficial.
 
-Figura 3...
+![Figura 3](./assets/velho.jpeg)
+
+## Historico de versão
+
+| Versão | Data  | Descrição                                  | Autor               | Revisor             |
+| ------ | ----- | ------------------------------------------ | ------------------- | ------------------- |
+| 1.0    | 14/12 | Criação do documento com imagens           | Rodrigo Wright      |                     |
