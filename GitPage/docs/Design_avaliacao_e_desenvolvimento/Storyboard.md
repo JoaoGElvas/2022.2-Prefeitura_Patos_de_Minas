@@ -31,6 +31,10 @@ Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diári
 
 ![Figura 3](./assets/velho.jpeg)
 
+## Referências Bibliográficas
+
+> Vídeo no yotube do Scott Klemmer
+
 ## Historico de versão
 
 | Versão | Data  | Descrição                                  | Autor               | Revisor             |
