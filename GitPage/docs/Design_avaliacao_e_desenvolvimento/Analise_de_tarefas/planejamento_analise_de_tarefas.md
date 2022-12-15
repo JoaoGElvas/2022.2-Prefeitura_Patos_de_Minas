@@ -69,7 +69,7 @@ A entrevista será realizada de maneira remota, é importante conhecer as seguin
 
 ## Relato e Interpretação dos Resultados
 
-As entrevistas realizadas serão documentadas, o grupo realizara uma analise dos resultados extraídos e posteriormente será apresentado o documento desses relatos e interpretações. <br/>
+O questionario a ser feito no GoogleForms sera documentado no gitpages do projeto, o grupo realizara uma analise dos resultados extraídos e posteriormente será apresentado o documento desses relatos e interpretações. <br/>
 
 ## Referencias Bibliograficas
 
