@@ -33,7 +33,7 @@ Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diári
 
 ## Referências Bibliográficas
 
-> Vídeo no yotube do Scott Klemmer
+> Vídeo no yotube do Scott Klemmer (https://www.youtube.com/watch?v=h2H3oIQtddU&ab_channel=Andr%C3%A9BarrosdeSales)
 
 ## Historico de versão
 
