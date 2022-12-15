@@ -1,4 +1,4 @@
-# Planejamento Resultado Análise de Tarefas
+# Planejamento do Relato dos Resultados da avaliação da Análise de Tarefas
 
 ## Introdução
 
