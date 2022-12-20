@@ -102,15 +102,13 @@ A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da m
 
 | Atividade(s)                                               | Data  | Responsável                 | Revisor | Data de Revisão |
 | ---------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
+| Entrevistas Análise de Tarefas                             | 22/12 | Augusto Campos,João Gabriel |         |                 |
+| Teste Piloto da avaliação da análise de tarefas            | 22/12 | Augusto Campos              |         |                 |
 | Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel     |         |                 |
 | Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji   |         |                 |
 | Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel        |         |                 |
 | Planejamento do Relato de Resultados do protótipo de papel | 20/12 | Rodrigo Wright              |         |                 |
 | Gravação do vídeo                                          | 22/12 | João Gabriel                |         |                 |
-| Teste Piloto da avaliação da análise de tarefas            | 22/12 | Augusto Campos              |         |                 |
-| Entrevistas Análise de Tarefas                             | 22/12 | Augusto Campos,João Gabriel |         |                 |
-| Edição do vídeo de apresentação                            | 22/12 | João Gabriel                |         |                 |
-| Prototipação em papel                                      | 22/12 | Rodrigo Wright              |         |                 |
 
 ## Entrega 6 -Relato dos resultados da avaliação do protótipo de baixa fidelidade,Planejamento da Avaliação do protótipo de alta fidelidade,Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade- 11/01/2023
 
@@ -122,6 +120,7 @@ A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da ma
 
 | Atividade(s)                                                                                    | Data  | Responsável                 | Revisor | Data de Revisão |
 | ----------------------------------------------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
+| Prototipação em papel                                                                           | 22/12 | Rodrigo Wright              |         |                 |
 | Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 08/01 | Augusto Campos,João Gabriel |         |                 |
 | Planejamento da Avaliação do protótipo de alta fidelidade                                       | 08/01 | Matheus Salim,Bruno seiji   |         |                 |
 | Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 08/01 | João Pedro,Rodrigo          |         |                 |
