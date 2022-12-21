@@ -85,6 +85,6 @@ participantes.
 
 | Versão | Data       | Descrição                    | Autor              | Revisor             |
 | ------ | ---------- | ---------------------------- | ------------------ | ------------------- |
-| 1.0    | 13/12/2022 | Criação do documento         | João Gabriel Elvas |                     |
+| 1.0    | 13/12/2022 | Criação do documento         | João Gabriel Elvas | Augusto Campos      |
 
 
