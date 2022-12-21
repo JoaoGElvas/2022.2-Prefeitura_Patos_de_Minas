@@ -30,48 +30,48 @@ Persona: Carlos Alberto da Silva
 ## Coleta de dados 
 
 1.	Qual seu nome completo? 
-    a.	Carlos Alberto da Silva.
+    - a.	Carlos Alberto da Silva.
 
 2.	Qual sua idade?
-    a.	23 anos.
+    - a.	23 anos.
 
 3.	Qual sua ocupação? 
-    a.	Agrônomo.
+    - a.	Agrônomo.
 
 4.	Qual seu nível de formação?
-    a.	( ) Ensino médio incompleto.
-    b.	( ) Ensino superior incompleto.
-    c.	( X ) Ensino superior completo.
-    d.	( ) Outro. 
+    - a.	( ) Ensino médio incompleto.
+    - b.	( ) Ensino superior incompleto.
+    - c.	( X ) Ensino superior completo.
+    - d.	( ) Outro. 
 
 5.	Você já utilizou o site da prefeitura de Patos de Minas?
-    a.	( X ) Sim
-    b.	( ) Não
+    - a.	( X ) Sim
+    - b.	( ) Não
 
 6.	Você acha a interface do site agradável?
-    a.	Não. São apresentadas muitas informações e diversas imagens, isso acaba gerando certo desconforto.  E também o site não possui uma opção de “ajuda” para auxiliar o usuário. 
+    - a.	Não. São apresentadas muitas informações e diversas imagens, isso acaba gerando certo desconforto.  E também o site não possui uma opção de “ajuda” para auxiliar o usuário. 
 
 7.	Teve facilidade para encontrar o que desejava? 
-    a.	( X ) Sim
-    b.	( ) Não 
+    - a.	( X ) Sim
+    - b.	( ) Não 
 
 8.	Já acessou o site para utilizar a funcionalidade de “Baixar a edição do diário oficial”?
-    a.	( X ) Sim
-    b.	( ) Não
+    - a.	( X ) Sim
+    - b.	( ) Não
 
 9. Essa funcionalidade está representada os objetivos da Analise de Tarefas CNM – GOMS? 
-    a. ( X ) Sim
-    b. ( ) Não
+    - a. ( X ) Sim
+    - b. ( ) Não
 
 10. Você notou diferenças entre a funcionalidade realizada e a funcionalidade representada na Analise de Tarefas? Se sim, o que sugere como mudança? 
-    a. ( X ) Sim. Se o usuário estiver procurando a versão mais atualizada do Diário oficial não é necessário clicar na opção “ler mais”, apenas em “baixar edição” . 
-    b. ( ) Não
+    - a. ( X ) Sim. Se o usuário estiver procurando a versão mais atualizada do Diário oficial não é necessário clicar na opção “ler mais”, apenas em “baixar edição” . 
+    - b. ( ) Não
 
 11.	Quais foram as dificuldades e problemas encontrados no geral?
-    a.	Como dito anteriormente, o site não possui um boa interface, além da falta de um recurso de ajuda. 
+    - a.	Como dito anteriormente, o site não possui um boa interface, além da falta de um recurso de ajuda. 
 
 12. O que sugere para solucionar esse problemas?
-    a. Diminuir a quantidade de informações que são fornecidas inicialmente, melhorar a interface para um design moderno e minimalista e também adicionar um recurso de ajuda. 
+    - a. Diminuir a quantidade de informações que são fornecidas inicialmente, melhorar a interface para um design moderno e minimalista e também adicionar um recurso de ajuda. 
 
 
 ## Conclusão
