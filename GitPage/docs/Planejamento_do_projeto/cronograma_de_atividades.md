@@ -92,7 +92,7 @@ A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da m
 | Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji | Bruno seiji                                           | 14/12/2022      |
 | Gravação de video                                          | 13/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 14/12/2022      |
 
-## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 02/01/2023
+## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 21/12/2022
 
 A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da matéria.
 
@@ -100,15 +100,15 @@ A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da m
     Tabela 6 - Quinta entrega
 </figcaption>
 
-| Atividade(s)                                               | Data  | Responsável                 | Revisor | Data de Revisão |
-| ---------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
-| Entrevistas Análise de Tarefas                             | 22/12 | Augusto Campos,João Gabriel |         |                 |
-| Teste Piloto da avaliação da análise de tarefas            | 22/12 | Augusto Campos              |         |                 |
-| Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel     |         |                 |
-| Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji   |         |                 |
-| Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel        |         |                 |
-| Planejamento do Relato de Resultados do protótipo de papel | 20/12 | Rodrigo Wright              |         |                 |
-| Gravação do vídeo                                          | 22/12 | João Gabriel                |         |                 |
+| Atividade(s)                                               | Data  | Responsável               | Revisor                                               | Data de Revisão |
+| ---------------------------------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
+| Questionario Análise de Tarefas                            | 22/12 | Bruno Seiji               | João Pedro Anacleto                                   | 20/12/2022      |
+| Teste Piloto da avaliação da análise de tarefas            | 22/12 | Augusto Campos            | Bruno seiji                                           | 21/12/2022      |
+| Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel   | João Gabriel                                          | 21/12/2022      |
+| Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji | Matheus Salim                                         | 21/12/2022      |
+| Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel      | João Gabriel                                          | 21/12/2022      |
+| Planejamento do Relato de Resultados do protótipo de papel | 20/12 | Rodrigo Wright            | Augusto Campos                                        | 21/12/2022      |
+| Gravação do vídeo                                          | 22/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 21/12/2022      |
 
 ## Entrega 6 -Relato dos resultados da avaliação do protótipo de baixa fidelidade,Planejamento da Avaliação do protótipo de alta fidelidade,Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade- 11/01/2023
 

@@ -36,7 +36,7 @@ O objetivo da avalição é identificar problemas na interação e interface, al
 
 A equipe decidiu utilizar um questionário utilizando o método de investigação (Inquiry) para fazer a avaliação, o questionário foi feito pelo Google Forms e tem o intuito de atingir um grupo de pessoas maior e por ser uma maneira mais prática para os participantes, e também para ter mais expectativas e opiniões quanto ao sistema de interação do site da Prefeitura de Patos de Minas.<br/>
 
-## Questãoes Práticas da avalição
+## Questões Práticas da avalição
 
 ### Participantes
 
