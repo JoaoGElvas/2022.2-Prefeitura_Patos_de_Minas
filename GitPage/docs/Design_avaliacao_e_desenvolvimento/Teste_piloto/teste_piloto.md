@@ -6,73 +6,92 @@ O teste piloto é um momento em que o pesquisador consegue vivenciar como será 
 
 ## Preparação 
 
-Tarefa: Baixar edição do Diário Oficial
-
-Persona: Carlos Alberto da Silva 
-
-
 | Número | Pergunta                                                                                                                    | Opções de resposta                                                           |
 | ------ | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1      | Qual seu nome completo?     | Discursiva    |
-| 2      | Qual a sua idade?                                                            | Discursiva                                                          |
-| 3      | Qual a sua ocupação?       | Discursiva    |
-| 4      | Qual seu nível de formação?                                                             | [ ] Ensino médio incompleto [ ] Ensino superior incompleto [ ] Ensino superior completo [ ] Outro                                                         |
-| 5      | Você já utilizou o site da Prefeitura de Patos de Minas?                                            | [ ] Sim [ ] Não    |
-| 6      | Você acha a interface do site agradável?                                                            | Discursiva                                                          |
-| 7      | Teve facilidade para encontrar o que desejava?                                             | [ ] Sim [ ] Não    |
-| 8      | Já acessou o site para utilizar a funcionalidade Y?                                            | [ ] Sim [ ] Não<br> (Aplicar as perguntas 8, 9 e 10 a cada nova funcionalidade)    |
-| 9      | Essa funcionalidade está representada nos objetivos da Analise de tarefas CNM-GOMS?                                            | [ ] Sim [ ] Não    |
-| 10     | Você notou diferenças entre a funcionalidade realizada e a funcionalidade representada na Analise de Tarefas? Se sim, o que sugere como mudança?                                             | [ ] Sim [ ] Não    |
-| 11     | Quais foram as dificuldades e problemas encontrados no geral?                                             | Discursiva    |
-| 12     | O que sugere para solucionar esses problemas?                                             | Discursiva    |
+| 1      | Já acessou o site da Prefeitura de Patos de Minas?    | [ ] Sim [ ] Não    |
+| 2      | Qual a sua faixa etária?                                                            | [ ] Menos que 13 [ ] 13 a 18 anos [ ] 19 a 25 anos [ ] 26 a 59 anos [ ] 60 ou mais                                                        |
+| 3      | Você conseguiu encontrar de forma fácil as informações sobre as USFs( Unidades de Saúde da Família ) que estão vacinando contra o Covid-19?       | [ ] Sim [ ] Não    |
+| 4      | Em uma escala de 1 a 5, qual foi o grau de dificuldade para acessar as informações acerca da vacinação?                                                             | [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5                                                         |
+| 5      | Você teria alguma sugestão de melhoria ou alteração na forma que o site apresenta as informações?                                            | Discursiva    |
+| 6      | Você conseguiu encontrar sobre o diário oficial, responsável por divulgar as informações legais da cidade aos seus cidadãos da cidade de Patos de Minas através da navegação pelo site?                                                            | [ ] Sim [ ] Não                                                          |
+| 7      | Em uma escala de 1 a 5, qual foi o grau de dificuldade para acessar o diário oficial?                                             | [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5    |
+| 8      | Você teria alguma sugestão de melhoria ou alteração relacionado ao que se trata a questão 5?                                            | Discursiva    |
+| 9      | Você conseguiu encontrar com facilidade os dados das secretarias (horários de funcionamento, telefone e endereços)?                                            | [ ] Sim [ ] Não    |
+| 10     | Em uma escala de 1 a 5, qual o grau de dificuldade para encontrar e visualizar essas informações?                                             | [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5    |
+| 11     | Você teria alguma sugestão para melhoria ou alteração na forma de acesso às informações das secretarias?                                             | Discursiva    |
+| 12     | Você conseguiu encontrar e ler as notícias de patos de minas?                                             | [ ] Sim [ ] Não    |
+| 13     | Em uma escala de 1 a 5, qual o grau de dificuldade para encontrar, visualizar e navegar pelas notícias?                                             | [ ] 1 [ ] 2 [ ] 3 [ ] 4 [ ] 5    |
+| 14     | Você teria alguma sugestão para melhoria ou alteração na forma de acesso às notícias?                                             | Discursiva    |
 
 
 ## Coleta de dados 
 
-1.	Qual seu nome completo? 
-    - a.	Carlos Alberto da Silva.
+1.	Já acessou o site da Prefeitura de Patos de Minas? 
+    - a.	( X ) Sim
+    - b.    ( ) Não
 
-2.	Qual sua idade?
-    - a.	23 anos.
+2.	Qual a sua faixa etária?
+    - a.	( ) Menos que 13
+    - b.	( ) 13 a 18 anos
+    - c.	( X ) 19 a 25 anos
+    - d.	( ) 26 a 59 anos
+    - e.    ( ) 60 ou mais
 
-3.	Qual sua ocupação? 
-    - a.	Agrônomo.
-
-4.	Qual seu nível de formação?
-    - a.	( ) Ensino médio incompleto.
-    - b.	( ) Ensino superior incompleto.
-    - c.	( X ) Ensino superior completo.
-    - d.	( ) Outro. 
-
-5.	Você já utilizou o site da prefeitura de Patos de Minas?
+3.	Você conseguiu encontrar de forma fácil as informações sobre as USFs( Unidades de Saúde da Família ) que estão vacinando contra o   Covid-19?
     - a.	( X ) Sim
     - b.	( ) Não
 
-6.	Você acha a interface do site agradável?
-    - a.	Não. São apresentadas muitas informações e diversas imagens, isso acaba gerando certo desconforto.  E também o site não possui uma opção de “ajuda” para auxiliar o usuário. 
+4.	Em uma escala de 1 a 5, qual foi o grau de dificuldade para acessar as informações acerca da vacinação?
+    - a.	( ) 1
+    - b.	( ) 2
+    - c.	( X ) 3
+    - d.	( ) 4
+    - e.	( ) 5
 
-7.	Teve facilidade para encontrar o que desejava? 
+5.	Você teria alguma sugestão de melhoria ou alteração na forma que o site apresenta as informações?
+    - a. Sim. Acredito que são apresentadas muitas informações e diversas imagens, isso acaba gerando um certo desconforto. 
+
+6.	Você conseguiu encontrar sobre o diário oficial, responsável por divulgar as informações legais da cidade aos seus cidadãos da cidade de Patos de Minas através da navegação pelo site?
     - a.	( X ) Sim
-    - b.	( ) Não 
+    - b.	( ) Não	
 
-8.	Já acessou o site para utilizar a funcionalidade de “Baixar a edição do diário oficial”?
-    - a.	( X ) Sim
-    - b.	( ) Não
+7.	Em uma escala de 1 a 5, qual foi o grau de dificuldade para acessar o diário oficial?
+    - a.	( X ) 1
+    - b.	( ) 2
+    - c.	( ) 3
+    - d.	( ) 4
+    - e.	( ) 5 
 
-9. Essa funcionalidade está representada os objetivos da Analise de Tarefas CNM – GOMS? 
+8.	Você teria alguma sugestão de melhoria ou alteração relacionado ao que se trata a questão 5?
+    - a. Não
+
+9.  Você conseguiu encontrar com facilidade os dados das secretarias (horários de funcionamento, telefone e endereços)?
     - a. ( X ) Sim
     - b. ( ) Não
 
-10. Você notou diferenças entre a funcionalidade realizada e a funcionalidade representada na Analise de Tarefas? Se sim, o que sugere como mudança? 
-    - a. ( X ) Sim. Se o usuário estiver procurando a versão mais atualizada do Diário oficial não é necessário clicar na opção “ler mais”, apenas em “baixar edição” . 
+10. Em uma escala de 1 a 5, qual o grau de dificuldade para encontrar e visualizar essas informações?
+    - a.	( X ) 1
+    - b.	( ) 2
+    - c.	( ) 3
+    - d.	( ) 4
+    - e.	( ) 5 
+
+11.	Você teria alguma sugestão para melhoria ou alteração na forma de acesso às informações das secretarias?
+    - a. Não
+
+12. Você conseguiu encontrar e ler as notícias de patos de minas?
+    - a. ( X ) Sim
     - b. ( ) Não
 
-11.	Quais foram as dificuldades e problemas encontrados no geral?
-    - a.	Como dito anteriormente, o site não possui um boa interface, além da falta de um recurso de ajuda. 
+13. Em uma escala de 1 a 5, qual o grau de dificuldade para encontrar, visualizar e navegar pelas notícias?
+    - a.	( X ) 1
+    - b.	( ) 2
+    - c.	( ) 3
+    - d.	( ) 4
+    - e.	( ) 5 
 
-12. O que sugere para solucionar esse problemas?
-    - a. Diminuir a quantidade de informações que são fornecidas inicialmente, melhorar a interface para um design moderno e minimalista e também adicionar um recurso de ajuda. 
-
+14. Você teria alguma sugestão para melhoria ou alteração na forma de acesso às notícias?
+    - a. Não. 
 
 ## Conclusão
 
@@ -88,3 +107,4 @@ O teste piloto pode ser considerado uma estratégia metodológica que auxilia o 
 | ------ | ---------- | ---------------------------- | ------------------ | ------------------- |
 | 1.0    | 21/12/2022 | Criação do documento         | Augusto Campos     |                     |
 | 1.1    | 21/12/2022 | Correção do documento        | Augusto Campos     |                     |
+| 1.2    | 21/12/2022 | Correção coleta de dados     | Augusto Campos     |                     |
