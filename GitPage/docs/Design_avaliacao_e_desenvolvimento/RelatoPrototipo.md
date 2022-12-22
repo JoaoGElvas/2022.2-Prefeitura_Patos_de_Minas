@@ -6,13 +6,13 @@ Esta seção tratará do planejamento do relato de resultados do protótipo de p
 
 ## Documentar
 
-É de extrema importância que o avaliador documente tudo que for observado na avaliação. Sendo assim ele deverá recolher todos os dados obtidos a partir da XXX e XXX. Após isso essas informações serão interpretadas e documentadas no github Pages do projeto.  
+É de extrema importância que o avaliador documente tudo que for observado na avaliação. Sendo assim ele deverá recolher todos os dados obtidos a partir do questionário e decompô-los em gráficos. Após isso essas informações serão interpretadas e documentadas no github Pages do projeto.  
 
 ## Pontos a serem relatados
 
 Após realizar a avaliação, os avaliadores deverão relatar:
 
-1.	Respostas obtidas a partir da XXX
+1.	Respostas obtidas a partir do questionário
 2.	Feedback dos usuários em relação ao protótipo de papel.
 3.	Propostas de melhorias para o protótipo de papel.
 4.	Grau de satisfação dos usuários.
