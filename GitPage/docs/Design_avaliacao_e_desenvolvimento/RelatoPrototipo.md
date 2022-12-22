@@ -21,3 +21,7 @@ Após realizar a avaliação, os avaliadores deverão relatar:
 ## Problemas e correções
 
 Após a identificação dos problemas, o avaliador deverá expô-los e propor possíveis correções para os problemas encontrados com o protótipo de papel. Além disso, o avaliador deverá criar um novo protótipo com base nas propostas de solução.
+
+| Data       | Versão | Descrição              | Autor          | Revisor        |
+| ---------- | ------ | ---------------------- | -------------- | -------------- |
+| 10/12/2022 | 1.0    | Planejamento de Relato | Rodrigo Wright | Augusto Campos |
