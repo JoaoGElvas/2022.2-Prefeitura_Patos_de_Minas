@@ -102,7 +102,7 @@ A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da m
 
 | Atividade(s)                                               | Data  | Responsável               | Revisor                                               | Data de Revisão |
 | ---------------------------------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
-| Questionario Análise de Tarefas                            | 21/12 | Bruno Seiji               | João Pedro Anacleto                                   | 20/12/2022      |
+| Questionario Análise de Tarefas                            | 20/12 | Bruno Seiji               | João Pedro Anacleto                                   | 20/12/2022      |
 | Teste Piloto da avaliação da análise de tarefas            | 21/12 | Augusto Campos            | Bruno seiji                                           | 21/12/2022      |
 | Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel   | João Gabriel                                          | 21/12/2022      |
 | Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji | Matheus Salim                                         | 21/12/2022      |
