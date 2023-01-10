@@ -118,14 +118,14 @@ A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da ma
     Tabela 7 - sexta entrega
 </figcaption>
 
-| Atividade(s)                                                                                    | Data  | Responsável                 | Revisor | Data de Revisão |
-| ----------------------------------------------------------------------------------------------- | ----- | --------------------------- | ------- | --------------- |
-| Prototipação em papel                                                                           | 22/12 | Rodrigo Wright              |         |                 |
-| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 08/01 | Augusto Campos,João Gabriel |         |                 |
-| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 08/01 | Matheus Salim,Bruno seiji   |         |                 |
-| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 08/01 | João Pedro,Rodrigo          |         |                 |
-| Gravação do vídeo                                                                               | 10/01 | João Gabriel                |         |                 |
-| Edição do vídeo                                                                                 | 10/01 | João Gabriel                |         |                 |
+| Atividade(s)                                                                                    | Data  | Responsável                                     | Revisor | Data de Revisão |
+| ----------------------------------------------------------------------------------------------- | ----- | ----------------------------------------------- | ------- | --------------- |
+| Prototipação em papel                                                                           | 22/12 | Rodrigo Wright,João Pedro Anacleto,João Gabriel |         |                 |
+| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 08/01 | Augusto Campos,João Pedro Anacleto,Bruno Seiji  |         |                 |
+| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 08/01 | Matheus Salim,Bruno seiji                       |         |                 |
+| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 08/01 | João Pedro,Rodrigo                              |         |                 |
+| Gravação do vídeo                                                                               | 10/01 | João Gabriel                                    |         |                 |
+| Edição do vídeo                                                                                 | 10/01 | João Gabriel                                    |         |                 |
 
 ## Entrega 7 -Verificação dos artefatos- 18/01/2023
 
