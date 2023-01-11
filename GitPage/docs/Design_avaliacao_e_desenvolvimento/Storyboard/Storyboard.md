@@ -13,7 +13,7 @@ O storyboard é uma representação gráfica das tarefas que o usuário fará, e
 
 Na figura (_Figura1_) abaixo temos o storyboard sobre a tarefa de acessar notícias.
 
-_(Figura 1, tarefa acessar notícias)_
+_(Figura 1, tarefa acessar notícias, autor: Rodrigo Wright)_
 
 ![Figura 1](../assets/construtora.jpeg)
 
