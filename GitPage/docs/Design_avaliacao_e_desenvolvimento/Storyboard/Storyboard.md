@@ -44,7 +44,7 @@ _(Figura 4, requerir receita, autor: Rodrigo Wright)_
 
 ## Historico de versão
 
-| Versão | Data  | Descrição                        | Autor          | Revisor |
-| ------ | ----- | -------------------------------- | -------------- | ------- |
-| 1.0    | 14/12 | Criação do documento com imagens | Rodrigo Wright |         |
-| 1.1    | 11/01 | Adição do storyboard de receita  | Rodrigo Wright |         |
+| Versão | Data  | Descrição                        | Autor          | Revisor      |
+| ------ | ----- | -------------------------------- | -------------- | ------------ |
+| 1.0    | 14/12 | Criação do documento com imagens | Rodrigo Wright | João Gabriel |
+| 1.1    | 11/01 | Adição do storyboard de receita  | Rodrigo Wright |              |
