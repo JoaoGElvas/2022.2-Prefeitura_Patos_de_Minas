@@ -29,7 +29,14 @@ _(Figura 2, acessar leis sobre covid-19)_
 
 Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diário oficial.
 
+_(Figura 3, baixar diário oficial)_
 ![Figura 3](../assets/velho.jpeg)
+
+## Requerir receita
+Na figura abaixo (_Figura4_) temos o storyboard sobre a requisição da receita no portal de trasparência de Patos de Minas.
+
+_(Figura 4, requerir receita)_
+![Figura 4](../assets/receita.jpeg)
 
 ## Referências Bibliográficas
 
@@ -40,3 +47,4 @@ Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diári
 | Versão | Data  | Descrição                        | Autor          | Revisor |
 | ------ | ----- | -------------------------------- | -------------- | ------- |
 | 1.0    | 14/12 | Criação do documento com imagens | Rodrigo Wright |         |
+| 1.1    | 11/01 | Adição do storyboard de receita  | Rodrigo Wright |         |
