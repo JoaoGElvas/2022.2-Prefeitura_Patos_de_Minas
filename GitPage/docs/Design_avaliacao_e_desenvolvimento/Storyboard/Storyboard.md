@@ -21,7 +21,7 @@ _(Figura 1, tarefa acessar notícias)_
 
 Na figura abaixo (_Figura2_) temos o storyboard sobre a tarefa de acessar leis sobre covid-19.
 
-_(Figura 2, acessar leis sobre covid-19)_
+_(Figura 2, acessar leis sobre covid-19, autor: Rodrigo Wright)_
 
 ![Figura 2](../assets/restaurante.jpeg)
 
@@ -29,13 +29,13 @@ _(Figura 2, acessar leis sobre covid-19)_
 
 Na figura abixo (_Figura3_) temos o storyboard sobre a tarefa de baixar o diário oficial.
 
-_(Figura 3, baixar diário oficial)_
+_(Figura 3, baixar diário oficial, autor: Rodrigo Wright)_
 ![Figura 3](../assets/velho.jpeg)
 
 ## Requerir receita
 Na figura abaixo (_Figura4_) temos o storyboard sobre a requisição da receita no portal de trasparência de Patos de Minas.
 
-_(Figura 4, requerir receita)_
+_(Figura 4, requerir receita, autor: Rodrigo Wright)_
 ![Figura 4](../assets/receita.jpeg)
 
 ## Referências Bibliográficas
