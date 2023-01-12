@@ -6,7 +6,7 @@ O uso do prototipo de alta fidelidade ira auziliar na identificação de problem
 
 # Método Selecionado
 
-O metodo selecionado para a avaliação sera o mesmo que foi utilizado na avaliação do prototipo de baixa fidelidade ou seja a entrevista com um usuario de sites do governo.Sera necessario 2 avaliadores uma para orientar e outro responsavel por relatar no documento os pontos a baixo.
+O metodo selecionado para a avaliação sera o mesmo que foi utilizado na avaliação do prototipo de alta fidelidade ou seja a entrevista com um usuario de sites do governo.Sera necessario 2 avaliadores uma para orientar e outro responsavel por relatar no documento os pontos a baixo.
 
 # Documentar
 
@@ -17,14 +17,14 @@ O metodo selecionado para a avaliação sera o mesmo que foi utilizado na avalia
 Após realizar a avaliação, os avaliadores deverão relatar:
 
 1. Respostas obtidas a partir do questionário
-2. Feedback dos usuários em relação ao protótipo de papel.
-3. Propostas de melhorias para o protótipo de papel.
+2. Feedback dos usuários em relação ao protótipo de alta fidelidade.
+3. Propostas de melhorias para o protótipo de alta fidelidade.
 4. Grau de satisfação dos usuários.
 5. Problemas ocorridos durante a avaliação.
 
 # Problemas e correções
 
-Após a identificação dos problemas, o avaliador deverá expô-los e propor possíveis correções para os problemas encontrados com o protótipo de papel. Além disso, o avaliador deverá criar um novo protótipo com base nas propostas de solução.
+Após a identificação dos problemas, o avaliador deverá expô-los e propor possíveis correções para os problemas encontrados com o protótipo de alta. Além disso, o avaliador deverá criar um novo protótipo com base nas propostas de solução.
 
 # Bibliografia
 
