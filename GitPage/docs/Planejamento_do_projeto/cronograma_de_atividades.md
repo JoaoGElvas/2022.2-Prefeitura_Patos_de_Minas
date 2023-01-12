@@ -118,16 +118,16 @@ A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da ma
     Tabela 7 - sexta entrega
 </figcaption>
 
-| Atividade(s)                                                                                    | Data  | Responsável                                     | Revisor | Data de Revisão |
-| ----------------------------------------------------------------------------------------------- | ----- | ----------------------------------------------- | ------- | --------------- |
-| Atualizar o storyboard                                                                          | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel |         |                 |
-| Prototipação em papel                                                                           | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel |         |                 |
-| Realizar a validação do prototipo com o usuario                                                 | 10/01 | João Pedro Anacleto,Bruno Seiji                 |         |                 |
-| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 11/01 | Augusto Campos,João Pedro Anacleto,Bruno Seiji  |         |                 |
-| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 11/01 | Matheus Salim,Bruno seiji                       |         |                 |
-| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 11/01 | João Pedro,Rodrigo                              |         |                 |
-| Gravação do vídeo                                                                               | 11/01 | João Gabriel                                    |         |                 |
-| Edição do vídeo                                                                                 | 1/01  | João Gabriel                                    |         |                 |
+| Atividade(s)                                                                                    | Data  | Responsável                                     | Revisor                                               | Data de Revisão |
+| ----------------------------------------------------------------------------------------------- | ----- | ----------------------------------------------- | ----------------------------------------------------- | --------------- |
+| Atualizar o storyboard                                                                          | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel | Rodrigo                                               | 11/01/2023      |
+| Prototipação em papel                                                                           | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel | João Gabriel                                          | 11/01/2023      |
+| Realizar a validação do prototipo com o usuario                                                 | 10/01 | João Pedro Anacleto,Bruno Seiji                 | Augusto                                               | 11/01/2023      |
+| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 11/01 | Augusto Campos,João Pedro Anacleto,Bruno Seiji  | João Pedro                                            | 11/01/2023      |
+| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 11/01 | Matheus Salim,Bruno seiji                       | Matheus Salim                                         | 11/01/2023      |
+| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 11/01 | João Pedro,Rodrigo                              | Bruno Seiji                                           | 11/01/2023      |
+| Gravação do vídeo                                                                               | 11/01 | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
+| Edição do vídeo                                                                                 | 1/01  | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
 
 ## Entrega 7 -Verificação dos artefatos- 18/01/2023
 

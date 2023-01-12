@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta seção apresentaremos o protótipo de papel desenvolvido para o site da Prefeitura de Patos de Minas. Esse protótipo será uma pequena idealização de como os desenvolvedores acham que o site deveria ser, e servirá de base para protótipos de maior fidelidade no futuro. Porém ele não focará nos detalhes gráficos, mas sim na usabilidade e disposição lógica do site priorizando a interação do usuário com a interface. 
+Nesta seção apresentaremos o protótipo de papel desenvolvido para o site da Prefeitura de Patos de Minas. Esse protótipo será uma pequena idealização de como os desenvolvedores acham que o site deveria ser, e servirá de base para protótipos de maior fidelidade no futuro. Porém ele não focará nos detalhes gráficos, mas sim na usabilidade e disposição lógica do site priorizando a interação do usuário com a interface.
 
 ## Metodologia
 
@@ -32,6 +32,6 @@ _(Figura 6, página do resultado da requisição de receita, autor: Rodrigo Wrig
 
 ## Historico de versão
 
-| Versão | Data     | Descrição                        | Autor                         | Revisor |
-| ------ | -------- | -------------------------------- | ----------------------------- | ------- |
-| 1.0    | 11/01/23 | Criação do documento com imagens | Rodrigo Wright & João Gabriel |         |
+| Versão | Data     | Descrição                        | Autor                         | Revisor      |
+| ------ | -------- | -------------------------------- | ----------------------------- | ------------ |
+| 1.0    | 11/01/23 | Criação do documento com imagens | Rodrigo Wright & João Gabriel | João Gabriel |

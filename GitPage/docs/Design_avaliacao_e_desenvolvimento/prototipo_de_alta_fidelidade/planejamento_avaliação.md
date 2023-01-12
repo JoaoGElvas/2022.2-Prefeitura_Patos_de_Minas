@@ -8,11 +8,10 @@ O protótipo de alta fidelidade é uma representação interativa do produto. Es
 
 ## Metodologia
 
-| Atividade | Tarefa |
-|-----------|--------|
-| Preparação |Definir tarefas para os participantes executarem<br> Definir o perfil dos participantes e recrutá-los<br>Criar protótipo de alta fidelidade para executar as tarefas<br>Executar um teste-piloto<br> |
-| Coleta de dados & Interpretação | Cada usuário deve executar as tarefas propostas interagindo com o protótipo de alta fidelidade, mediado pelo avaliador<br> O avaliador deve listar os problemas encontrados<br>|
-
+| Atividade                       | Tarefa                                                                                                                                                                                               |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparação                      | Definir tarefas para os participantes executarem<br> Definir o perfil dos participantes e recrutá-los<br>Criar protótipo de alta fidelidade para executar as tarefas<br>Executar um teste-piloto<br> |
+| Coleta de dados & Interpretação | Cada usuário deve executar as tarefas propostas interagindo com o protótipo de alta fidelidade, mediado pelo avaliador<br> O avaliador deve listar os problemas encontrados<br>                      |
 
 ## Preparação
 
@@ -40,14 +39,14 @@ A coleta de dados deve ser realizada por dois avaliadores que tem como funções
 
 ## Conclusão
 
-Após finalizada coleta dos dados os avaliadores devem analizar e priorizar os problemas encontrados, para que o grupo possa corrigir os erros listados. 
+Após finalizada coleta dos dados os avaliadores devem analizar e priorizar os problemas encontrados, para que o grupo possa corrigir os erros listados.
 
 ## Histórico de versões
 
-| Versão | Data     | Descrição            | Autor               | Revisor      |
-| ------ | -------- | -------------------- | ------------------- | ------------ |
-| 1.0    | 11/01/23 | Criação do documento | Bruno Seiji Kishibe |              |
-| 1.1    | 11/01/23 | Adição das etapas da avalição | Bruno Seiji Kishibe |              |
+| Versão | Data     | Descrição                     | Autor               | Revisor       |
+| ------ | -------- | ----------------------------- | ------------------- | ------------- |
+| 1.0    | 11/01/23 | Criação do documento          | Bruno Seiji Kishibe | Matheus Salim |
+| 1.1    | 11/01/23 | Adição das etapas da avalição | Bruno Seiji Kishibe | Matheus Salim |
 
 ## Referência bibliográfica
 
