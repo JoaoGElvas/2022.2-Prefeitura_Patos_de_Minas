@@ -20,27 +20,27 @@ O guia de estilo deverá ser atualizado à medida que novas informações sobre 
 
 ## 1.1. Layout
 
-O layout é a disposição espacial dos elementos, que permite definir a posição geral de cada componente que comporá o site. Neste grid _imagem 1_ podemos ver como o site da prefeitura de patos de minas dispõem o seu site.
+O layout é a disposição espacial dos elementos, que permite definir a posição geral de cada componente que comporá o site. Neste grid (_Figura 1_) podemos ver como o site da prefeitura de patos de minas dispõem o seu site.
+
+_(Figura 1. Grid do site da Prefeitura de Patos de Minas, autor: Rodrigo Wright)_
 
 ![Grid do site](./assets_analise/grid.png)
 
-_(Imagem 1. Grid do site da Prefeitura de Patos de Minas, autoria própria)_
-
 ## 1.2. Cores
 
-O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas fazem referência ao brasão do município, onde a cor predominante é azul. Porém temos outras cores que também compõem a palheta de cores _imagem 1_. Abaixo podemos observar a classificação de prioridade das cores utilizadas pelo site.
+O esquema de cores é a palheta que é preferível usar no site, para que a aparência estética do site permaneça no padrão escolhido. No caso do site da prefeitura de Patos, podemos observar que as cores escolhidas fazem referência ao brasão do município, onde a cor predominante é azul. Porém temos outras cores que também compõem a palheta de cores (_Figura 2_). Abaixo podemos observar a classificação de prioridade das cores utilizadas pelo site.
 
 1.  Cores primárias: #007cba (azul), #0c71c3 (azul).
 2.  Cor do fundo do site: #fff (branco).
 3.  Cores secundárias: #0da0c5 (azul claro), #666 (cinza claro), #333 (cinza escuro), #edf000 (amarelo).
 
-<img src="./assets_analise/colors.png" height= 300 width=600>
+_(Figura 2, palheta de cores do site da prefeitura de Patos de Minas, autor: Rodrigo Wright criada utilizando o coolors)._
 
-_(imagem 1, palheta de cores do site da prefeitura de Patos de Minas, autoria própria criada utilizando o coolors)._
+<img src="./assets_analise/colors.png" height= 300 width=600>
 
 ## 1.3. Tipografia
 
-O site utiliza a fonte **Helvetica** (_imagem 2_), que é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+O site utiliza a fonte **Helvetica** (_Figura 3_), segundo o site "Free Font Family" [1], essa é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 
@@ -48,13 +48,17 @@ Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
 3. Textos no geral: **14 px**.
 
-<img src="./assets_analise/helvetica.png" height= 300 width=300>
+_(Figura 3, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
 
-_(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
+<img src="./assets_analise/helvetica.png" height= 300 width=300>
 
 ## 2. Elementos de Ação e interação
 
 ## 2.1. Ícones interativos e botões de ação
+Abaixo temos os ícones e botões padrões para o site, assim como os brasões.
+
+_(Tabela 1, ícones iterativos e botões de ação, autor: Rodrigo Wright)
+
 
 | Ícone                                                                                                                                                 | Descrição                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -72,14 +76,23 @@ _(Imagem 2, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/w
 2. Baixar: utilizado para referenciar uma ação de download de um documento.
 3. Ver mais: utilizado para acessar mais opções de ações em determinada parte do site.
 
-## 4. Referências Bibliográficas
+## 4. Acessibilidade
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
->
-> Site sobre Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
+Como estamos tratando de um site do governo, temos que considerar questões de acessibilidade quando possível. Para isso, é interessante ter opções de alteração do tamanho da fonte para pessoas com problemas de vista e também opção de leitor de páginas para cegos. 
+
+Também é importante destacar que a palheta de cores escolhida não prejudicará pessoas com problemas em enxergar as cores, visto que o azul e o amarelo tendem a se diferenciar para todos. No entanto, caso seja necessário utilizar o verde e o vermelho por algum motivo (destacando essas duas, pois costumam ser muito utilizadas em message box em muitas aplicações) é recomendado inserir uma opção de daltonismo que troca o verde para o azul e o vermelho para o amarelo.
+
+_(Figura 4, cores vistas por diferentes formas de daltonismo comparado com uma pessoa normal, fonte: https://brasil.uxdesign.cc/acessibilidade-o-impacto-das-cores-bfc0d60420db)_
+
+![Figura 4](./assets_analise/colorBlind.jpeg)
+
+## 5. Referências Bibliográficas
+
+>[1] Free Fonts Family, site Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
 
 ## Histórico de Versões
 
-| Data       | Versão | Descrição      | Autor          | Revisor      |
-| ---------- | ------ | -------------- | -------------- | ------------ |
-| 10/12/2022 | 1.0    | Guia de estilo | Rodrigo Wright | João Gabriel |
+| Data     | Versão | Descrição                               | Autor          | Revisor      |
+| -------- | ------ | --------------------------------------- | -------------- | ------------ |
+| 10/12/22 | 1.0    | Guia de estilo                          | Rodrigo Wright | João Gabriel |
+| 11/01/23 | 1.1    | Adição acessibilidade, alteração layout | Rodrigo Wright |              |

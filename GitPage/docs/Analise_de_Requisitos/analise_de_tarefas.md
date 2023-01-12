@@ -49,6 +49,25 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
    - OP 1.2: Encontrar na seção o ícone do setor desejado. <br/>
      - METHOD 1.1.1: Clicar com o botão esquerdo no ícone do setor desejado.
 
+• Ver receita da prefeitura.
+
+1. GOAL 0: Acessar o site da prefeitura <br/>
+   • GOAL 1: Acessar o Portal de Transparência.
+   
+      - OP 1.1: encontrar na tela a seção "Destaques".
+      
+      - OP 1.2: clicar com o botão esquerdo no link "Portal de Transparência".
+
+   • GOAL 2: requisitar receita do município de Patos de Minas.
+   
+      - OP 2.1: encontrar na tela a seção "Planejamento e Orçamento".
+
+      - OP 2.2: clicar com o botão esquerdo em "Receita".
+
+      - OP 2.3: inserir no campo "Entidade" uma entidade governamental como "Município de Patos de Minas".
+
+      - OP 2.4: inserir no campo "Data" um periodo de data com dia, mês e ano.
+
 
 ## Referências Bibliográficas
 
@@ -57,9 +76,9 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
 
 ## Historico de versão
 
-| Versão | Data  | Descrição                                  | Autor               | Revisor             |
-| ------ | ----- | ------------------------------------------ | ------------------- | ------------------- |
-| 1.0    | 06/12 | Criação do documento de analise de tarefas | Augusto Campos      | Bruno Seiji Kishibe |
-| 1.1    | 06/12 | Adição de novos objetivos                  | Bruno Seiji Kishibe | João Pedro Anacleto |
-| 1.2    | 07/12 | Adição das referencias bibliograficas      | Augusto Campos      | Bruno Seiji Kishibe |
-
+| Versão | Data     | Descrição                                  | Autor               | Revisor             |
+| ------ | -------- | ------------------------------------------ | ------------------- | ------------------- |
+| 1.0    | 06/12/22 | Criação do documento de analise de tarefas | Augusto Campos      | Bruno Seiji Kishibe |
+| 1.1    | 06/12/22 | Adição de novos objetivos                  | Bruno Seiji Kishibe | João Pedro Anacleto |
+| 1.2    | 07/12/22 | Adição das referencias bibliograficas      | Augusto Campos      | Bruno Seiji Kishibe |
+| 1.3    | 11/01/23 | Adição da tarefa "ver Receita"             | Rodrigo Wright      |                     |
