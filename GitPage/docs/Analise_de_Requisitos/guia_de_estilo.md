@@ -40,7 +40,7 @@ _(Figura 2, palheta de cores do site da prefeitura de Patos de Minas, autor: Rod
 
 ## 1.3. Tipografia
 
-O site utiliza a fonte **Helvetica** (_Figura 3_), segundo o site "Free Font Family"\, essa é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+O site utiliza a fonte **Helvetica** (_Figura 3_), segundo o site "Free Font Family" [1], essa é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 
@@ -88,7 +88,7 @@ _(Figura 4, cores vistas por diferentes formas de daltonismo comparado com uma p
 
 ## 5. Referências Bibliográficas
 
-> Free Fonts Family, site Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
+>[1] Free Fonts Family, site Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
 
 ## Histórico de Versões
 
