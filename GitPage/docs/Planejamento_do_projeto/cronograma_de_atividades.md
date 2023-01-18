@@ -137,22 +137,21 @@ A seguir, na _tabela 8_, se encontra a tabela relacionada à setima entrega da m
     Tabela 8 - Setima entrega
 </figcaption>
 
-| Atividade(s)                                                   | Data  | Responsável             | Revisor | Data de Revisão |
-| -------------------------------------------------------------- | ----- | ----------------------- | ------- | --------------- |
-| Planejamento das verificações                                  | 13/01 | João Gabriel            |         |                 |
-| Verificação do guia de estilo                                  | 13/01 | Rodrigo Wright          |         |                 |
-| Verificação das metas de usabilidade                           | 13/01 | Matheus Salim           |         |                 |
-| Verificação das personas                                       | 13/01 | Augusto Campos          |         |                 |
-| Verificação da Análise de Tarefas                              | 13/01 | Bruno seiji             |         |                 |
-| Verificação dos perfis de usuário                              | 13/01 | João Pedro              |         |                 |
-| Verificação do storyboard                                      | 15/01 | João Gabriel,Augusto    |         |                 |
-| Verificação dos princípios gerais do design                    | 15/01 | Bruno seiji ,Matheus    |         |                 |
-| Verificação dos resultados do storyboard                       | 15/01 | João Pedro,Rodrigo      |         |                 |
-| Verificação dos resultados da análise de tarefas               | 15/01 | João Pedro,João Gabriel |         |                 |
-| Verificação do Planejamento da Avaliação da Análise de Tarefas | 15/01 | Rodrigo,Matheus         |         |                 |
-| Verificação do Planejamento da Avaliação do Storyboard         | 15/01 | Bruno,Augusto           |         |                 |
-| Gravação do vídeo                                              | 16/01 | João Gabriel            |         |                 |
-| Edição do vídeo                                                | 16/01 | João Gabriel            |         |                 |
+| Atividade(s)                                                 | Data  | Responsável             | Revisor | Data de Revisão |
+| ------------------------------------------------------------ | ----- | ----------------------- | ------- | --------------- |
+| checklist do guia de estilo                                  | 13/01 | Rodrigo Wright          |         |                 |
+| checklist das metas de usabilidade                           | 13/01 | Matheus Salim           |         |                 |
+| checklist das personas                                       | 13/01 | Augusto Campos          |         |                 |
+| checklist da Análise de Tarefas                              | 13/01 | Bruno seiji             |         |                 |
+| checklist dos perfis de usuário                              | 13/01 | João Pedro              |         |                 |
+| checklist do storyboard                                      | 15/01 | João Gabriel,Augusto    |         |                 |
+| checklist dos princípios gerais do projeto                   | 15/01 | Bruno seiji ,Matheus    |         |                 |
+| checklist dos resultados do storyboard                       | 15/01 | João Pedro,Rodrigo      |         |                 |
+| checklist dos resultados da análise de tarefas               | 15/01 | João Pedro,João Gabriel |         |                 |
+| checklist do Planejamento da Avaliação da Análise de Tarefas | 15/01 | Rodrigo,Matheus         |         |                 |
+| checklist do Planejamento da Avaliação do Storyboard         | 15/01 | Bruno,Augusto           |         |                 |
+| Gravação do vídeo                                            | 16/01 | João Gabriel            |         |                 |
+| Edição do vídeo                                              | 16/01 | João Gabriel            |         |                 |
 
 ## Entrega 8 -Relato dos resultados da avaliação do protótipo de alta fidelidade- 25/01/2023
 
