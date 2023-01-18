@@ -19,7 +19,7 @@ a primeira entrega do trabalho.
 
 **Data:** 22/11/22 - 23/11/2022
 
-**Tópicos Discutidos:** Nessa foi gravado o video para a *entrega 1*.
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 1*.
 
 **Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho.
 
@@ -52,16 +52,76 @@ que ainda estava pendente tanto para ser feito tanto para ser corrigido para a *
 
 **Data:** 07/12/2022
 
-**Tópicos Discutidos:** Nessa foi gravado o video para a *entrega 2*.
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 2*.
 
 **Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 3*.
 
 **Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
 
+## Sexta Reunião
+
+**Data:** 11/12/2022
+
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 3*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 4*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
+
+## Sétima Reunião
+
+**Data:** 14/12/2022
+
+**Tópicos Discutidos:** Foi realizado préviamente as correções nessecárias de acordo com o feedback recebido no dia 13/12/2022. Nessa reunião foi gravado o video para a *entrega 4*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 5*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
+
+## Oitava Reunião
+
+**Data:** 21/12/2022
+
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 5*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 6*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
+
+## Nona Reunião
+
+**Data:** 10/01/2022
+
+**Tópicos Discutidos:** Nessa reunião foi realizado a atualização do storyboard e a criação do protótipo de baixa fidelidade.
+
+**Pendências:** Ficou pendente a realização da avaliação do usuário.
+
+**Participantes:** Joao Gabriel Elvas e Rodrigo Wright
+
+## Decima Reunião
+
+**Data:** 11/01/2022
+
+**Tópicos Discutidos:** Nessa reunião foi realizado a avaliação do usuário do protótipo de baixa fidelidade.
+
+**Pendências:** Ficou pendente a realizaçāo da documentaçāo necessária após a avaliação do usuário do protótipo de baixa fidelidade.
+
+**Participantes:** Augusto Campos e Joao Pedro Anacleto
+
+## Decima Primeira Reunião
+
+**Data:** 11/01/2022
+
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 6*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 7*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
 
 # Historico de versão
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
 | 1.0    | 11/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    | Rodrigo Wright      |
+| 1.1    | 18/01 | Atuakizando a primeira verção do atlas            | João Gabriel Elvas    |                     |
 
