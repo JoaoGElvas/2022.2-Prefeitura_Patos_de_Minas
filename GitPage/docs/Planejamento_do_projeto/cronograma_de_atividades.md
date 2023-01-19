@@ -146,7 +146,6 @@ A seguir, na _tabela 8_, se encontra a tabela relacionada à setima entrega da m
 | checklist dos perfis de usuário                              | 13/01 | João Pedro              | Bruno seiji                                           | 18/01/2023      |
 | checklist do storyboard                                      | 15/01 | João Gabriel,Augusto    | Augusto                                               | 18/01/2023      |
 | checklist dos resultados do storyboard                       | 15/01 | João Pedro,Rodrigo      | João Pedro                                            | 18/01/2023      |
-| checklist dos resultados da análise de tarefas               | 15/01 | João Pedro,João Gabriel | João Pedro                                            | 18/01/2023      |
 | checklist do Planejamento da Avaliação da Análise de Tarefas | 15/01 | Rodrigo,Matheus         | Augusto Campos                                        | 18/01/2023      |
 | checklist do Planejamento da Avaliação do Storyboard         | 15/01 | Bruno,Augusto           | Augusto Campos                                        | 18/01/2023      |
 | Gravação do vídeo                                            | 16/01 | João Gabriel            | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 18/01/2023      |
@@ -162,12 +161,19 @@ A seguir, na _tabela 9_, se encontra a tabela relacionada à oitava entrega da m
 
 | Atividade(s)                                              | Data  | Responsável    | Revisor | Data de Revisão |
 | --------------------------------------------------------- | ----- | -------------- | ------- | --------------- |
+| checklist dos resultados da análise de tarefas               | 19/01 | João Pedro,João Gabriel | João Pedro                                            | 20/01/2023      |
+| checklist de padronizacao geral do projeto| 20/01 |  Bruno       |         |                 |    
+| checklist do planejamento do prototipo de baixa fidelidade| 20/01 |  Rodrigo       |         |                 |
+| checklist do prototipo de baixa fidelidade                | 20/01 |  Joao pedro    |         |                 |
+| checklist do planejamento do relato prototipo de baixa fidelidade                | 20/01 |  Joao Gabriel  |         |                 | 
+| checklist do relato de resultados do prototipo de baixa fidelidade                | 20/01 |  Augusto       |         |                 |   
+| checklist do planejamento do prototipo de alta fidelidade| 20/01 |  Matheus       |         |                 |
+| checklist do prototipo de alta fidelidade| 20/01 |  Bruno       |         |                 |
+| checklist do planejamento do relato de resultados prototipo de alta fidelidade| 20/01 |  Joao Pedro       |         |                 |   
+| checklist do relato de resultados do prototipo de alta fidelidade                | 20/01 |  Augusto       |         |                 |    
 | Protótipo de alta fidelidade                              | 20/01 | Rodrigo Wright |         |                 |
-| Finalização do protótipo de papel                         | 20/01 | João Pedro     |         |                 |
-| Avaliação do protótipo de papel                           | 20/01 | João Gabriel   |         |                 |
-| Relato dos resultados da avaliação do protótipo de papel  | 20/01 | Augusto Campos |         |                 |
-| Planejamento da avaliação do protótipo de alta fidelidade | 20/01 | Matheus salim  |         |                 |
-| Planejamento do relato do protótipo de alta fidelidade    | 20/01 | Bruno seiji    |         |                 |
+| Avaliacao do Protótipo de alta fidelidade                              | 20/01 | Rodrigo Wright e Augusto |         |                 |
+| Relato da Avaliacao do Protótipo de alta fidelidade                              | 20/01 | Bruno e João Pedro |         |                 |
 | Gravação do vídeo                                         | 22/01 | João Gabriel   |         |                 |
 | Edição do vídeo                                           | 22/01 | João Gabriel   |         |                 |
 
@@ -181,13 +187,12 @@ A seguir, na _tabela 10_, se encontra a tabela relacionada à nona entrega da ma
 
 | Atividade(s)                                                | Data  | Responsável                     | Revisor | Data de Revisão |
 | ----------------------------------------------------------- | ----- | ------------------------------- | ------- | --------------- |
-| Verificação do protótipo de papel                           | 26/01 | Augusto Campos                  |         |                 |
-| Verificação do planejamento do protótipo de papel           | 26/01 | Matheus salim                   |         |                 |
-| Verificação do relato dos resultados do protótipo de papel  | 26/01 | Bruno seiji                     |         |                 |
-| Verificação do protótipo de alta fidelidade                 | 26/01 | João Gabriel                    |         |                 |
-| Verificação do planejamento do protótipo de alta fidelidade | 26/01 | João Pedro                      |         |                 |
-| Relato da avaliação do protótipo de alta fidelidade         | 26/01 | Rodrigo Wright                  |         |                 |
-| Avaliação do protótipo de alta fidelidade                   | 28/01 | João Pedro,João Gabriel,Augusto |         |                 |
+| Correção do protótipo de papel                           | 26/01 | Augusto Campos                  |         |                 |
+| Correção do planejamento do protótipo de papel           | 26/01 | Matheus salim                   |         |                 |
+| Correção do relato dos resultados do protótipo de papel  | 26/01 | Bruno seiji                     |         |                 |
+| Correção do protótipo de alta fidelidade                 | 26/01 | João Gabriel                    |         |                 |
+| Correção do planejamento do protótipo de alta fidelidade | 26/01 | João Pedro                      |         |                 |
+| Correção do relato dos resultados do protótipo de alta fidelidade  | 26/01 | Bruno                     |         |                 |
 | Gravação do vídeo                                           | 29/01 | João Gabriel                    |         |                 |
 | Edição do vídeo                                             | 29/01 | João Gabriel                    |         |                 |
 
