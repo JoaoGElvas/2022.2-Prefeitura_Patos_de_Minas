@@ -5,7 +5,15 @@
 A análise de tarefas tem por objetivo, compreender sobre o trabalho dos usuários, como realizam esse trabalho e por quê realizam. Ela pode ser utilizada em diferentes momentos no desenvolvimento de um software: para a análise da situação atual (apoiada ou não por um sistema computacional), para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional [1].
 
 As análises de tarefas devem envolver um processo de coleta de dados responsáveis por definir objetivos dos usuários dentro da plataforma. No livro Interação Humano-Computador de Simone Diniz e Bruno Siqueira, é apresentado três dos métodos mais comuns de análise de tarefas: O Análise Hierárquica de Tarefas (HTA), GOMS e o ConcurTaskTrees.
-No presente projeto utilizaremos o GOMS.
+No presente projeto utilizaremos os métodos HTA e GOMS.
+
+## HTA
+
+A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi desenvolvida na década de 1960 se baseando na psicologia funcional para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas. Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. [1]
+
+
+
+
 
 ## CNM-GOMS
 
@@ -81,4 +89,4 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
 | 1.0    | 06/12/22 | Criação do documento de analise de tarefas | Augusto Campos      | Bruno Seiji Kishibe |
 | 1.1    | 06/12/22 | Adição de novos objetivos                  | Bruno Seiji Kishibe | João Pedro Anacleto |
 | 1.2    | 07/12/22 | Adição das referencias bibliograficas      | Augusto Campos      | Bruno Seiji Kishibe |
-| 1.3    | 11/01/23 | Adição da tarefa "ver Receita"             | Rodrigo Wright      |                     |
+| 1.3    | 11/01/23 | Adição da tarefa "ver Receita"             | Rodrigo Wright      | Bruno Seiji Kishibe |
