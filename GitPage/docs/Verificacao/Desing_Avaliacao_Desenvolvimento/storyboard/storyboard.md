@@ -10,6 +10,10 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 ## Inspeção
 
+<figcaption><center>
+    Tabela 1 - checklist
+</figcaption>
+
 | ID  | Pergunta                                                                      | Verificação |
 | --- | ----------------------------------------------------------------------------- | ----------- |
 | 1   | Possui histórico de versão ?                                                  | X           |
@@ -28,6 +32,6 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 ## Histórico de versão
 
-| Versão | Data     | Descrição            | Autor                             | Revisor             |
-| ------ | -------- | -------------------- | --------------------------------- | ------------------- |
-| 1.0    | 20/12/22 | Criação do documento | João Pedro Anacleto e João Gabrie | João Pedro Anacleto |
+| Versão | Data     | Descrição            | Autor                              | Revisor             |
+| ------ | -------- | -------------------- | ---------------------------------- | ------------------- |
+| 1.0    | 18/01/23 | Criação do documento | João Pedro Anacleto e João Gabriel | João Pedro Anacleto |
