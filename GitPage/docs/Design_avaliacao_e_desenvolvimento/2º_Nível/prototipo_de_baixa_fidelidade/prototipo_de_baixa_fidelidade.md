@@ -16,7 +16,7 @@ _(Figura 1, página inicial home, autor: Rodrigo Wright)_
 ![Figura 1](../../assets/paginaInicial.jpeg)
 
 _(Figura 2, página de notícias, autor: Rodrigo Wright & João Gabriel)_
-![Figura 2](../assets/noticias.jpeg)
+![Figura 2](../../assets/noticias.jpeg)
 
 _(Figura 3, página do diário oficial, autor: Rodrigo Wright & João Gabriel)_
 ![Figura 3](../../assets/diarioOficial.jpeg)
