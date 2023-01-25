@@ -19,11 +19,11 @@ Para a relização da entrevista foi seguido a recomendação de Nielsen no qual
 
 ## Entrevistados
 
--
--
--
--
--
+- Gabriel
+- Vinicius
+- Amanda
+
+Todos são estudantes da faculdade de engenharia da Universidade de Brasilia e se enquadram no nosso perfil de usuario uma vez que ele abrange qualquer usuario de sites de governo.
 
 # Metodologia da Avaliação
 
@@ -34,8 +34,16 @@ Para realizar a avaliação do Prototipo de alta fidelidade utilizamos o metodo 
 Nas entrevistas foram selecionadas 3 atividades acessar notícia administração contrata dois novos funcionários, baixar a 2ª edição diário oficial e buscar a receita do Municipio de Patos de Minas no período de 01/01/2023 até 01/02/2023.
 
 ## Avaliação 1:
-- É apresentada as questões eticas ao particiapante e o formato da avaliação. 
-### 1-	Acessar noticia:
+
+### Video da entrevista
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut7O2Kk50Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</br>
+
+- É apresentada as questões eticas ao particiapante e o formato da avaliação.
+
+### 1- Acessar noticia:
 
 - O usuário seleciona o campo notícias presente na barra lateral.
 - Utiliza a barra de pesquisa para pesquisar e acessar a notícia escolhida.
@@ -55,9 +63,14 @@ Nas entrevistas foram selecionadas 3 atividades acessar notícia administração
 - Retorna ao portal da transparencia apertando o mesmo botão de anteriormente.
 
 ## Avaliação 2:
+
+### Video da entrevista
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xYpMlc96QGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</br>
 - É apresentada as questões eticas à particiapante e o formato da avaliação.
 
-### 1-	Acessar noticia:
+### 1- Acessar noticia:
 
 - O usuário seleciona o campo notícias presente na barra lateral.
 - Utiliza a barra de pesquisa para pesquisar e acessar a notícia escolhida.
@@ -74,22 +87,27 @@ Nas entrevistas foram selecionadas 3 atividades acessar notícia administração
 - Procura por receitas dando scroll na pagina e após encontrar seleciona.
 - Inicialmente tem problemas com os campos de inserir por limitações do protótipo.
 - Retorna a página inicial.
-- Seleciona 
+- Seleciona
 - Preenche os campos da receita, mas tem dificuldade com o protótipo só aceitar 01 ao invés de 1.
 - Realiza a pesquisa.
 - Retorna ao formulário de receita apertando o botão "voltar".
 
 ## Avaliação 3:
 
+### Video da entrevista
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Vye3zQW3rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</br>
+
 - É apresentada as questões eticas à particiapante e o formato da avaliação.
 
-### 1-	Acessar noticia:
+### 1- Acessar noticia:
 
 - A usuária seleciona o campo notícias presente na barra lateral.
 - Por algum motivo já escrita a noticia no compo pesquisar, o que causou confusão.
 - Seleciona o "x" da barra de pesquisa para apagar o texto escrito.
 - Utiliza a barra de pesquisa para pesquisar e acessar a notícia escolhida.
-
 
 ### 2- Diário oficial:
 
@@ -108,44 +126,55 @@ Nas entrevistas foram selecionadas 3 atividades acessar notícia administração
 # Problemas e sugestões
 
 ## Avaliação 1:
-1-	Acessar noticia:
+
+1- Acessar noticia:
+
 - Problemas na hora de pesquisar noticia (obs: problema causado por limitações do figma).
 
-2-	Baixar edição diário oficial:
+2- Baixar edição diário oficial:
+
 - Sem dificuldades.
 
-3-	Receita:
+3- Receita:
+
 - Dificuldade para localizar receita no diário oficial.
 - Problemas na hora de preencher campos (obs: causado por limitações do figma).
 
-•	O usuário não sugeriu nenhuma alteração, gostou do design.
+• O usuário não sugeriu nenhuma alteração, gostou do design.
 
 ## Avaliação 2:
-1-	Noticias:
+
+1- Noticias:
+
 - Sem dificuldades.
 
-2-	Diário Oficial:
+2- Diário Oficial:
+
 - Sem dificuldades.
 
-3-	Receitas:
+3- Receitas:
+
 - Problemas na hora de preencher campos (obs: causado por limitações do figma).
 
-•	O usuário sugeriu melhorar as aceitações das entradas nos campos (limitações figma).</br>
-•	No geral, gostou do design proposto.
+• O usuário sugeriu melhorar as aceitações das entradas nos campos (limitações figma).</br>
+• No geral, gostou do design proposto.
 
 ## Avaliação 3:
-1-	Noticias:
+
+1- Noticias:
+
 - Dificuldade para acessar noticia usando o campo pesquisar (limitações figma).
 
-2-	Diario Oficial:
+2- Diario Oficial:
+
 - Sem dificuldades.
 
-3-	Receitas:
+3- Receitas:
+
 - Sem dificuldades.
 
-•	A usuária sugeriu melhorar a aceitação no campo de pesquisar notícias (limitações figma).</br>
-•	Gostou do design.
-
+• A usuária sugeriu melhorar a aceitação no campo de pesquisar notícias (limitações figma).</br>
+• Gostou do design.
 
 # Conclusão
 
@@ -156,16 +185,16 @@ A avaliação por entrevista utilizou o número de participantes proposto por Kr
 As perguntas foram selecionadas conforme a tabela do capítulo 11 pagina 266 do livro [1].
 
 - Que parte da interface ou interação deixaram os usuários insatisfeitos? </br>
-Resposta: Os usuários gostaram da interface e com relação a interação os problemas relatados foram devidos a limitações do protótipo.
+  Resposta: Os usuários gostaram da interface e com relação a interação os problemas relatados foram devidos a limitações do protótipo.
 
 - De que maneira o usuário utiliza o sistema? O que difere do esperado? </br>
-Resposta: No geral a utilização foi conforme o esperado. Com exeção do scroll de noticias, que não foi utilizado, os usuários optaram por pesquisar na barra de pesquisa, muitos nem perceberam a sua existência.
+  Resposta: No geral a utilização foi conforme o esperado. Com exeção do scroll de noticias, que não foi utilizado, os usuários optaram por pesquisar na barra de pesquisa, muitos nem perceberam a sua existência.
 
 - O usuário consegue entender o que significa cada elemento de interface? </br>
-Resposta: Sim.
+  Resposta: Sim.
 
 - O usuário entende o que deve fazer em seguida? </br>
-Resposta: Sim, os usuários tiveram facilidade, quando não interrombidos por limitações do protótipo, em realizar o fluxo de tarefas.
+  Resposta: Sim, os usuários tiveram facilidade, quando não interrombidos por limitações do protótipo, em realizar o fluxo de tarefas.
 
 # Bibliografia
 
@@ -176,5 +205,6 @@ Resposta: Sim, os usuários tiveram facilidade, quando não interrombidos por li
 | Data       | Versão | Descrição                                            | Autor               | Revisor             |
 | ---------- | ------ | ---------------------------------------------------- | ------------------- | ------------------- |
 | 24/01/2023 | 1.0    | VERSAO 1.0 DO RELATO                                 | João Pedro Anacleto | Bruno Seiji Kishibe |
-| 25/01/2023 | 1.1    | Adiciona anotações entrevista, problemas e sugestões | Bruno Seiji Kishibe |                     |
-| 25/01/2023 | 1.2    | Adiciona conclusão                                   | Bruno Seiji Kishibe |                     |
+| 25/01/2023 | 1.1    | Adiciona anotações entrevista, problemas e sugestões | Bruno Seiji Kishibe | João Pedro Anacleto |
+| 25/01/2023 | 1.2    | Adiciona conclusão                                   | Bruno Seiji Kishibe | João Pedro Anacleto |
+| 25/01/2023 | 1.3    | Adiciona entrevistas e correcoes                     | João Pedro Anacleto | Bruno Seiji Kishibe |
