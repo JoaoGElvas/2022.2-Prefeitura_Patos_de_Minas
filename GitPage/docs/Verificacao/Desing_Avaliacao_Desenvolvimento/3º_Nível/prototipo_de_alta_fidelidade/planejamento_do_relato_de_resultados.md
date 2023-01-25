@@ -32,6 +32,6 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 ## Histórico de versão
 
-| Versão | Data     | Descrição            | Autor               | Revisor |
-| ------ | -------- | -------------------- | ------------------- | ------- |
-| 1.0    | 23/01/23 | Criação do documento | João Pedro Anacleto |         |
+| Versão | Data     | Descrição            | Autor               | Revisor               |
+| ------ | -------- | -------------------- | ------------------- | --------------------- |
+| 1.0    | 23/01/23 | Criação do documento | João Pedro Anacleto | Augusto Campos Duarte |
