@@ -159,23 +159,24 @@ A seguir, na _tabela 9_, se encontra a tabela relacionada à oitava entrega da m
     Tabela 9 - Oitava entrega
 </figcaption>
 
-| Atividade(s)                                                                   | Data  | Responsável              | Revisor    | Data de Revisão |
-| ------------------------------------------------------------------------------ | ----- | ------------------------ | ---------- | --------------- |
-| checklist dos resultados da análise de tarefas                                 | 19/01 | João Pedro,João Gabriel  | João Pedro | 20/01/2023      |
-| checklist de padronizacao geral do projeto                                     | 20/01 | Bruno                    |            |                 |
-| checklist do planejamento do prototipo de baixa fidelidade                     | 20/01 | Rodrigo                  |            |                 |
-| checklist do prototipo de baixa fidelidade                                     | 20/01 | Joao pedro               |            |                 |
-| checklist do planejamento do relato prototipo de baixa fidelidade              | 20/01 | Joao Gabriel             |            |                 |
-| checklist do relato de resultados do prototipo de baixa fidelidade             | 20/01 | Augusto                  |            |                 |
-| checklist do planejamento do prototipo de alta fidelidade                      | 20/01 | Matheus                  |            |                 |
-| checklist do prototipo de alta fidelidade                                      | 20/01 | Bruno                    |            |                 |
-| checklist do planejamento do relato de resultados prototipo de alta fidelidade | 20/01 | Joao Pedro               |            |                 |
-| checklist do relato de resultados do prototipo de alta fidelidade              | 20/01 | Augusto                  |            |                 |
-| Protótipo de alta fidelidade                                                   | 20/01 | Rodrigo Wright           |            |                 |
-| Avaliacao do Protótipo de alta fidelidade                                      | 20/01 | Rodrigo Wright e Augusto |            |                 |
-| Relato da Avaliacao do Protótipo de alta fidelidade                            | 20/01 | Bruno e João Pedro       |            |                 |
-| Gravação do vídeo                                                              | 22/01 | João Gabriel             |            |                 |
-| Edição do vídeo                                                                | 22/01 | João Gabriel             |            |                 |
+| Atividade(s)                                                                       | Data  | Responsável             | Revisor    | Data de Revisão |
+| ---------------------------------------------------------------------------------- | ----- | ----------------------- | ---------- | --------------- |
+| checklist dos resultados da análise de tarefas                                     | 19/01 | João Pedro,João Gabriel | João Pedro | 20/01/2023      |
+| checklist de padronizacao geral do projeto                                         | 20/01 | Bruno                   |            |                 |
+| checklist do planejamento relato de resultados do storyboard                       | 20/01 | Joao Gabriel            |            |                 |
+| checklist do planejamento da avaliacao do prototipo de baixa fidelidade            | 25/01 | Joao pedro              | Augusto    |                 |
+| checklist do prototipo de baixa fidelidade                                         | 25/01 | Joao pedro              | Augusto    |                 |
+| checklist do planejamento do relato de resultados do prototipo de baixa fidelidade | 20/01 | Joao Gabriel            |            |                 |
+| checklist do relato de resultados do prototipo de baixa fidelidade                 | 20/01 | Augusto                 |            |                 |
+| checklist do planejamento da avaliacao do prototipo de alta fidelidade             | 20/01 | Matheus                 |            |                 |
+| checklist do prototipo de alta fidelidade                                          | 20/01 | Bruno                   |            |                 |
+| checklist do planejamento do relato de resultados prototipo de alta fidelidade     | 25/01 | Joao Pedro              | Augusto    |                 |
+| checklist do relato de resultados do prototipo de alta fidelidade                  | 20/01 | Augusto                 |            |                 |
+| Protótipo de alta fidelidade                                                       | 20/01 | Rodrigo Wright          | João Pedro |                 |
+| Avaliacao do Protótipo de alta fidelidade                                          | 20/01 | Rodrigo Wright e Bruno  | Bruno      |                 |
+| Relato da Avaliacao do Protótipo de alta fidelidade                                | 20/01 | Bruno e João Pedro      |            |                 |
+| Gravação do vídeo                                                                  | 22/01 | João Gabriel            |            |                 |
+| Edição do vídeo                                                                    | 22/01 | João Gabriel            |            |                 |
 
 ## Entrega 9 - Entrega Final - 01/02/2023
 
