@@ -149,13 +149,32 @@ Nas entrevistas foram selecionadas 3 atividades acessar notícia administração
 
 # Conclusão
 
+A avaliação por entrevista utilizou o número de participantes proposto por Krug (de 3 a 4 particiapantes). Após sua realização foi possivel verificar que no geral o protótipo possui a características que facilitam o uso, uma vez que os usuários gostaram do design e os problemas encontrados foram decorrentes de limitações na plataforma em que o protótipo foi construido (figma). Foram respondidas as seguintes perguntas com relação à interação e a interface do protótipo.
+
+## Perguntas
+
+As perguntas foram selecionadas conforme a tabela do capítulo 11 pagina 266 do livro [1].
+
+- Que parte da interface ou interação deixaram os usuários insatisfeitos? </br>
+Resposta: Os usuários gostaram da interface e com relação a interação os problemas relatados foram devidos a limitações do protótipo.
+
+- De que maneira o usuário utiliza o sistema? O que difere do esperado? </br>
+Resposta: No geral a utilização foi conforme o esperado. Com exeção do scroll de noticias, que não foi utilizado, os usuários optaram por pesquisar na barra de pesquisa, muitos nem perceberam a sua existência.
+
+- O usuário consegue entender o que significa cada elemento de interface? </br>
+Resposta: Sim.
+
+- O usuário entende o que deve fazer em seguida? </br>
+Resposta: Sim, os usuários tiveram facilidade, quando não interrombidos por limitações do protótipo, em realizar o fluxo de tarefas.
+
 # Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
+[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 # Histórico de Versões
 
 | Data       | Versão | Descrição                                            | Autor               | Revisor             |
 | ---------- | ------ | ---------------------------------------------------- | ------------------- | ------------------- |
 | 24/01/2023 | 1.0    | VERSAO 1.0 DO RELATO                                 | João Pedro Anacleto | Bruno Seiji Kishibe |
-| 25/01/2023 | 1.0    | Adiciona anotações entrevista, problemas e sugestões | Bruno Seiji Kishibe |                     |
+| 25/01/2023 | 1.1    | Adiciona anotações entrevista, problemas e sugestões | Bruno Seiji Kishibe |                     |
+| 25/01/2023 | 1.2    | Adiciona conclusão                                   | Bruno Seiji Kishibe |                     |
