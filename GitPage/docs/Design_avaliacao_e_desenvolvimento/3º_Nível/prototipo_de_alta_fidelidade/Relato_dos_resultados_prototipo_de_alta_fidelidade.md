@@ -10,7 +10,7 @@ Este relato tem como objetivo documentar e organizar os resultados obtidos pelas
 
 # Participantes
 
-Para a relização da entrevista foi seguido a recomendação de Nielsen no qual foram entrevistados 5 participantes.Com base nisso foram utilizados 2 entrevistadores o 1 Bruno Seiji com intuito de anotar as ações do usuario e 0 2 Rodrigo Wright com o intuito de orientar o usuario.
+Para a relização da entrevista foi seguido a recomendação de Krug no qual foram entrevistados 3 participantes.Com base nisso foram utilizados 2 entrevistadores o 1 Bruno Seiji com intuito de anotar as ações do usuario e 0 2 Rodrigo Wright com o intuito de orientar o usuario.
 
 ## Entrevistadores
 
