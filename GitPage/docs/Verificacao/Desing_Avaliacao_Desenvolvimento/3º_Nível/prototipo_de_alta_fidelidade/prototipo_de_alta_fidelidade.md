@@ -18,12 +18,11 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 | --- | ------------------------------------------------------------------ | ----------- |
 | 1   | Possui histórico de versão ?                                       | x           |
 | 2   | Possui bibliografia ?                                              | x           |
-| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |             |
-| 4   | O protótipo segue um padrão ?                                      | x           |
-| 5   | São especificadas as tecnologias utilizadas no protótipo ?         |             |
-| 7   | É explicado quais páginas o protótipo abrange ?                    | x           |
-| 8   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | x           |
-| 9   | É possível realizar a interação com o protótipo ?                  | x           |
+| 3   | O protótipo segue um padrão ?                                      | x           |
+| 4   | São especificadas as tecnologias utilizadas no protótipo ?         | x           |
+| 5   | É explicado quais páginas o protótipo abrange ?                    | x           |
+| 6   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | x           |
+| 7   | É possível realizar a interação com o protótipo ?                  | x           |
 
 ## Referências Bibliográficas
 
