@@ -17,7 +17,7 @@ Para a verificação deste artefato, iremos utilizar a inspeção. Ao aplicarmos
 | ID  | Pergunta                                                                                 | Verificação |
 | --- | ---------------------------------------------------------------------------------------- | ----------- |
 | 1   | O artefato possui uma introdução?                                                        | x           |
-| 2   | O artefato possui data, hora e local da(s) entrevista(s)?                                | x           |
+| 2   | O artefato possui data, hora e local da(s) entrevista(s)?                                |             |
 | 3   | O artefato apresenta referências bibliográficas?                                         | x           |
 | 4   | O artefato possui histórico de versão padronizado com autor(es) e revisor(es)?           | x           |
 | 5   | O usuário consegue interagir com o protótipo de alta fidelidade?                         | x           |
