@@ -21,6 +21,9 @@ O protótipo possui todas as telas e caminhos que os usuários podem prosseguir 
 
 O prototipo de alta fidelidade pode ser acessado no seguinte link [Prototipo de alta fidelidade](https://www.figma.com/proto/EMwq2rgL1QQ30ptrtmvkJW/IHC?node-id=12%3A387&starting-point-node-id=12%3A386)
 
+Além disso, os esquemas e a forma de construção do protótipo pode ser acessada com o link: [Prototipo Schema](https://www.figma.com/file/EMwq2rgL1QQ30ptrtmvkJW/IHC?node-id=45%3A715&t=b0HYG4uhpRdB3v8n-1) 
+
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEMwq2rgL1QQ30ptrtmvkJW%2FIHC%3Fnode-id%3D12%253A387%26starting-point-node-id%3D12%253A386%26scaling%3Dcontain" allowfullscreen></iframe>
 
 ## Bibliografia
