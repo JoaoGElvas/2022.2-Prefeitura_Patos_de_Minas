@@ -16,14 +16,14 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                           | Verificação |
 | --- | ------------------------------------------------------------------ | ----------- |
-| 1   | Possui histórico de versão ?                                       |             |
-| 2   | Possui bibliografia ?                                              |             |
+| 1   | Possui histórico de versão ?                                       | x           |
+| 2   | Possui bibliografia ?                                              | x           |
 | 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |             |
-| 4   | O protótipo segue um padrão ?                                      |             |
+| 4   | O protótipo segue um padrão ?                                      | x           |
 | 5   | São especificadas as tecnologias utilizadas no protótipo ?         |             |
-| 7   | É explicado quais páginas o protótipo abrange ?                    |             |
-| 8   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? |             |
-| 9   | É possível realizar a interação com o protótipo ?                  |             |
+| 7   | É explicado quais páginas o protótipo abrange ?                    | x           |
+| 8   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | x           |
+| 9   | É possível realizar a interação com o protótipo ?                  | x           |
 
 ## Referências Bibliográficas
 
@@ -31,6 +31,6 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 ## Histórico de versão
 
-| Versão | Data     | Descrição            | Autor               | Revisor               |
-| ------ | -------- | -------------------- | ------------------- | --------------------- |
-| 1.0    | 23/01/23 | Criação do documento | Bruno Seiji Kishibe |                       |
+| Versão | Data     | Descrição            | Autor               | Revisor             |
+| ------ | -------- | -------------------- | ------------------- | ------------------- |
+| 1.0    | 23/01/23 | Criação do documento | Bruno Seiji Kishibe | João Pedro anacleto |

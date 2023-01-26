@@ -16,14 +16,14 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                           | Verificação |
 | --- | ------------------------------------------------------------------ | ----------- |
-| 1   | Possui histórico de versão ?                                       |      x      |
-| 2   | Possui bibliografia ?                                              |      x      |
+| 1   | Possui histórico de versão ?                                       | x           |
+| 2   | Possui bibliografia ?                                              | x           |
 | 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |             |
-| 4   | O protótipo segue um padrão ?                                      |      x      |
-| 5   | São especificadas as tecnologias utilizadas no protótipo ?         |      x      |
-| 7   | É explicado como é feito o planejamento ?                          |      x      |
-| 8   | O planejamento apresenta um fluxo nas páginas produzidas?          |      x      |
-| 9   | É possível concluir sobre o planhejamento de forma clara ?         |      x      |
+| 4   | O protótipo segue um padrão ?                                      | x           |
+| 5   | São especificadas as tecnologias utilizadas no protótipo ?         | x           |
+| 7   | É explicado como é feito o planejamento ?                          | x           |
+| 8   | O planejamento apresenta um fluxo nas páginas produzidas?          | x           |
+| 9   | É possível concluir sobre o planhejamento de forma clara ?         | x           |
 
 ## Referências Bibliográficas
 
@@ -31,6 +31,6 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 ## Histórico de versão
 
-| Versão | Data     | Descrição            | Autor               | Revisor               |
-| ------ | -------- | -------------------- | ------------------- | --------------------- |
-| 1.0    | 23/01/23 | Criação do documento | Matheus Salim de Oliveira |                       |
+| Versão | Data     | Descrição            | Autor                     | Revisor      |
+| ------ | -------- | -------------------- | ------------------------- | ------------ |
+| 1.0    | 23/01/23 | Criação do documento | Matheus Salim de Oliveira | João Gabriel |

@@ -33,4 +33,4 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | Versão | Data     | Descrição            | Autor               | Revisor |
 | ------ | -------- | -------------------- | ------------------- | ------- |
-| 1.0    | 25/01/23 | Criação do documento | João Pedro Anacleto |         |
+| 1.0    | 25/01/23 | Criação do documento | João Pedro Anacleto | Augusto |
