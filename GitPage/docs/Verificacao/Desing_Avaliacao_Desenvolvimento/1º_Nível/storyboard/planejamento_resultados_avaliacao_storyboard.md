@@ -37,4 +37,4 @@ do artefato foram atendidos.
  
 | Versão | Data     | Descrição            | Autor              | Revisor             |
 | ------ | -------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 25/01/23 | Criação do documento | João Gabriel Elvas |                     |
+| 1.0    | 25/01/23 | Criação do documento | João Gabriel Elvas | Matheus Salim       |
