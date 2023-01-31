@@ -118,10 +118,48 @@ que ainda estava pendente tanto para ser feito tanto para ser corrigido para a *
 
 **Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
 
+## Decima Segunda Reunião
+
+**Data:** 17/01/2022
+
+**Tópicos Discutidos:** Reunião com o objetivo de organizar e separar as correçoēs que iram ser realizadas.
+
+**Pendências:** Ficou pendente aos membros da esquipe que realizassem suas devidas correçoēs para a *entrega 7*.
+
+**Participantes:** Augusto Campos, Bruno Seiji e Joao Pedro Anacleto
+
+## Decima Terceira Reunião
+
+**Data:** 18/01/2022
+
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 7*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 8*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
+
+## Decima Quarta Reunião
+
+**Data:** 24/01/2022
+
+**Tópicos Discutidos:** Realização da entrevista e da avaliação do prototipo de alta fidelidade.
+
+**Participantes:** Bruno Seiji e Rodrigo Wright
+
+## Decima Quinta Reunião
+
+**Data:** 25/01/2022
+
+**Tópicos Discutidos:** Nessa reunião foi gravado o video para a *entrega 8*.
+
+**Pendências:** Ficou pendente a todos os membros da equipe que revisassem os tópicos do trabalho e começassem a fazer os tópicos para a *entrega 9*.
+
+**Participantes:** Augusto Campos, Bruno Seiji, Joao Gabriel Elvas, Joao Pedro Anacleto, Matheus Salim e Rodrigo Wright
+
 # Historico de versão
 
 | Versão | Data  | Descrição                                         | Autor                 | Revisor             |
 | ------ | ----- | ------------------------------------------------- | --------------------- | ------------------- |
 | 1.0    | 11/12 | Criação da primeira verção do atlas               | João Gabriel Elvas    | Rodrigo Wright      |
-| 1.1    | 18/01 | Atuakizando a primeira verção do atlas            | João Gabriel Elvas    |                     |
-
+| 1.1    | 18/01 | Atualizando a primeira verção do atlas            | João Gabriel Elvas    | Rodrigo Wright      |
+| 1.2    | 31/01 | Atualizando a primeira verção do atlas            | João Gabriel Elvas    | Rodrigo Wright      |
