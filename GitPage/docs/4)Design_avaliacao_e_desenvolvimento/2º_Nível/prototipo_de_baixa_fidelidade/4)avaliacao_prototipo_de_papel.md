@@ -1,4 +1,4 @@
-# Avaliação Prototipo de baixa fidelidade
+# Relato dos resultados da Avaliação do Prototipo de Papel
 
 # Introdução
 
