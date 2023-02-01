@@ -27,6 +27,40 @@ Os seguintes topicos foram retirados como orientações do professor para a etap
 
 [Orientações](https://aprender3.unb.br/mod/forum/discuss.php?d=241050) do professor.
 
+# Motivo de escolha Do site do projeto
+
+Nos escolhemos o site da prefeitura de patos de minas
+por conta da usabilidade, sua importância no dia a dia
+dos usuários, a sua apresentação visual além de sua
+fraca interação, devido a problemas a acessibilidade
+e usabilidade, com o usuário.
+
+É de suma importância sua existência no
+cotidiano dos cidadãos, que têm dificuldades ao
+utilizá-lo, seja por causa da sua grande curva de
+aprendizado ou pelos déficits do sistema em si.
+
+Tendo isso em vista os principais critérios
+de escolha do site foram:
+
+Usabilidade;
+Acessibilidade;
+Importância no cotidiano dos usuários;
+Apresentação visual datadas;
+Difícil interação;
+
+# Ciclo de Vida Utilizado (Mayhew)
+
+# Cronograma planejado e executado
+
+# A execução do projeto (de cada etapa do ciclo de vida)
+
+# Os resultados alcançados com a execução do projeto (em relação ao objetivo do projeto).
+
+# Técnicas foram utilizadas na execução do projeto
+
+[Cronograma Geral do Projeto](https://interacao-humano-computador.github.io/2022.2-Prefeitura_Patos_de_Minas/1%29Planejamento_do_projeto/cronograma_de_atividades/)
+
 # Artefatos que foram criados no projeto em cada etapa do projeto
 
 | ID  | Artefato                                                             | Etapa                                       | Autor                                                 | Revisor                                        |
@@ -61,6 +95,39 @@ Os seguintes topicos foram retirados como orientações do professor para a etap
 | 28  | Protótipo de alta fidelidade                                         | Design avaliacao e desenvolvimento 3º Nível | Rodrigo Wright                                        | João Pedro                                     |
 | 29  | Avaliacao do Protótipo de alta fidelidade                            | Design avaliacao e desenvolvimento 3º Nível | Rodrigo Wright e Bruno                                | Bruno Seiji                                    |
 | 30  | Relato da Avaliacao do Protótipo de alta fidelidade                  | Design avaliacao e desenvolvimento 3º Nível | Bruno e João Pedro                                    | João Pedro e Bruno Seiji                       |
+
+# Tabela avaliações dos protótipos
+
+# Tabela da verificação com checklist dos artefatos do projeto
+
+| Verificação                                                                         | Autor                     | Revisor             |
+| ----------------------------------------------------------------------------------- | ------------------------- | ------------------- |
+| Analise de tarefas                                                                  |                           |                     |
+| Aspectos éticos                                                                     | João Pedro Anacleto       | Matheus Salim       |
+| Perfil de Usuário                                                                   | João Pedro Anacleto       | Augusto Campos      |
+| Personas                                                                            | Augusto Campos            | João Pedro Anacleto |
+| Metas de Usabilidade                                                                | Matheus Salim             | João Pedro Anacleto |
+| Guia de Estilo                                                                      | Rodrigo                   | João Pedro Anacleto |
+| Design, Avaliação e Desenvolvimento                                                 |                           |                     |
+| Nível 1                                                                             |                           |                     |
+| Planejamento da Avalição do Storyboard                                              | Augusto e Bruno           | João Pedro Anacleto |
+| Planejamento do relato dos resultado da avaliação do storybord                      | João Gabriel Elvas        |                     |
+| Relato dos resultados e avaliação do Storyboard                                     | João Pedro e João Gabriel | Bruno Seiji         |
+| Planejamento da avaliação da analise de tarefas                                     | João Pedro Anacleto       |                     |
+| Planejamento do relato dos resultados da avaliação da Análise de Tarefas            | João Pedro Anacleto       |                     |
+| Relato dos resultados e avalição da Análise de Tarefas                              |                           |                     |
+| Nível 2                                                                             |                           |                     |
+| Protótipo de baixa fidelidade                                                       | João Pedro Anacleto       | Augusto Campos      |
+| Planejamento da avaliação do Protótipo de baixa fidelidade                          | João Pedro Anacleto       | Augusto Campos      |
+| Planejamento do relato dos resultados da avaliação do Protótipo de baixa fidelidade | João Gabriel Elvas        | João Pedro Anacleto |
+| Relato dos resultados do protótipo de baixa fidelidade                              | Augusto Campos Duarte     | João Pedro Anacleto |
+| Nível 3                                                                             |                           |                     |
+| Protótipo de alta fidelidade                                                        | Bruno Seiji               | João Pedro Anacleto |
+| Planejamento da avaliação do Protótipo de alta fidelidade                           | Matheus Salim             | João Gabriel        |
+| Planejamento do relato dos resultados da avaliação do Protótipo de baixa fidelidade | João Pedro Anacleto       | Augusto Campos      |
+| Relato dos resultados do protótipo de alta fidelidade                               | Augusto Campos            | João Pedro Anacleto |
+
+# Tabela de quais ferramentas e onde elas foram utilizadas
 
 ## Historico de versão
 
