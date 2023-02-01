@@ -37,7 +37,7 @@ A seguir, na _tabela 2_, se encontra a tabela relacionada à primeira entrega da
 | Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
 | Documentar ferramentas utilizadas no projeto             | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
 | Documentar Processo de Design                            | 20/11 | João Gabriel Elvas e Bruno Seiji                      | João Pedro Anacleto                                   | 23/11/22        |
-| Documentar o cronograma das atividades                   | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Rodrigo Wright                                        | 21/11/22        |
+| Documentar o cronograma das atividades                   | 20/11 | João Pedro Anacleto                                   | Rodrigo Wright                                        | 21/11/22        |
 | Gravação dos videos de apresentação                      | 22/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
 | Edição dos videos de apresentação                        | 23/11 | Joao Gabriel Elvas                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 23/11/22        |
 
@@ -159,24 +159,24 @@ A seguir, na _tabela 9_, se encontra a tabela relacionada à oitava entrega da m
     Tabela 9 - Oitava entrega
 </figcaption>
 
-| Atividade(s)                                                                       | Data  | Responsável             | Revisor    | Data de Revisão |
-| ---------------------------------------------------------------------------------- | ----- | ----------------------- | ---------- | --------------- |
-| checklist dos resultados da análise de tarefas                                     | 19/01 | João Pedro,João Gabriel | João Pedro | 20/01/2023      |
-| checklist de padronizacao geral do projeto                                         | 25/01 | Bruno                   | João Pedro | 25/01/2023      |
-| checklist do planejamento relato de resultados do storyboard                       | 25/01 | Joao Gabriel            | Matheus    | 25/01/2023      |
-| checklist do planejamento da avaliacao do prototipo de baixa fidelidade            | 25/01 | Joao pedro              | Augusto    | 25/01/2023      |
-| checklist do prototipo de baixa fidelidade                                         | 25/01 | Joao pedro              | Augusto    | 25/01/2023      |
-| checklist do planejamento do relato de resultados do prototipo de baixa fidelidade | 25/01 | Joao Gabriel            | João Pedro | 25/01/2023      |
-| checklist do relato de resultados do prototipo de baixa fidelidade                 | 25/01 | Augusto                 | João Pedro | 25/01/2023      |
-| checklist do planejamento da avaliacao do prototipo de alta fidelidade             | 25/01 | Matheus                 | João Gabriel | 25/01/2023      |
-| checklist do prototipo de alta fidelidade                                          | 25/01 | Bruno                   | João Pedro | 25/01/2023      |
-| checklist do planejamento do relato de resultados prototipo de alta fidelidade     | 25/01 | Joao Pedro              | Augusto    | 25/01/2023      |
-| checklist do relato de resultados do prototipo de alta fidelidade                  | 25/01 | Augusto                 | João Pedro | 25/01/2023      |
-| Protótipo de alta fidelidade                                                       | 25/01 | Rodrigo Wright          | João Pedro | 25/01/2023      |
-| Avaliacao do Protótipo de alta fidelidade                                          | 25/01 | Rodrigo Wright e Bruno  | Bruno      | 25/01/2023      |
-| Relato da Avaliacao do Protótipo de alta fidelidade                                | 25/01 | Bruno e João Pedro      | Bruno e João Pedro | 25/01/2023      |
-| Gravação do vídeo                                                                  | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto, Bruno,Rodrigo           | 25/01/2023      |
-| Edição do vídeo                                                                    | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo           | 25/01/2023      |
+| Atividade(s)                                                                       | Data  | Responsável             | Revisor                                               | Data de Revisão |
+| ---------------------------------------------------------------------------------- | ----- | ----------------------- | ----------------------------------------------------- | --------------- |
+| checklist dos resultados da análise de tarefas                                     | 19/01 | João Pedro,João Gabriel | João Pedro                                            | 20/01/2023      |
+| checklist de padronizacao geral do projeto                                         | 25/01 | Bruno                   | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento relato de resultados do storyboard                       | 25/01 | Joao Gabriel            | Matheus                                               | 25/01/2023      |
+| checklist do planejamento da avaliacao do prototipo de baixa fidelidade            | 25/01 | Joao pedro              | Augusto                                               | 25/01/2023      |
+| checklist do prototipo de baixa fidelidade                                         | 25/01 | Joao pedro              | Augusto                                               | 25/01/2023      |
+| checklist do planejamento do relato de resultados do prototipo de baixa fidelidade | 25/01 | Joao Gabriel            | João Pedro                                            | 25/01/2023      |
+| checklist do relato de resultados do prototipo de baixa fidelidade                 | 25/01 | Augusto                 | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento da avaliacao do prototipo de alta fidelidade             | 25/01 | Matheus                 | João Gabriel                                          | 25/01/2023      |
+| checklist do prototipo de alta fidelidade                                          | 25/01 | Bruno                   | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento do relato de resultados prototipo de alta fidelidade     | 25/01 | Joao Pedro              | Augusto                                               | 25/01/2023      |
+| checklist do relato de resultados do prototipo de alta fidelidade                  | 25/01 | Augusto                 | João Pedro                                            | 25/01/2023      |
+| Protótipo de alta fidelidade                                                       | 25/01 | Rodrigo Wright          | João Pedro                                            | 25/01/2023      |
+| Avaliacao do Protótipo de alta fidelidade                                          | 25/01 | Rodrigo Wright e Bruno  | Bruno                                                 | 25/01/2023      |
+| Relato da Avaliacao do Protótipo de alta fidelidade                                | 25/01 | Bruno e João Pedro      | Bruno e João Pedro                                    | 25/01/2023      |
+| Gravação do vídeo                                                                  | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto, Bruno,Rodrigo        | 25/01/2023      |
+| Edição do vídeo                                                                    | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 25/01/2023      |
 
 ## Entrega 9 - Entrega Final - 01/02/2023
 
