@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do planejamento do rel
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,15 +23,15 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                           | Verificação |
 | --- | ------------------------------------------------------------------ | ----------- |
-| 1   | Possui histórico de versão ?                                       | x           |
-| 2   | Possui bibliografia ?                                              | x           |
-| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |             |
-| 4   | Existe uma area para relatar objetivos encontrados ?               | x           |
-| 5   | Existe uma area para relatar os dados dos participantes ?          | x           |
-| 6   | Existe uma area para relatar os problemas ?                        | x           |
-| 7   | Existe uma area para relatar sugestoes ?                           | x           |
-| 8   | Existe uma area introducao do relato ?                             | x           |
-| 9   | Existe uma area para apresentar os avaliadores ?                   | x           |
+| 1   | Possui histórico de versão ?                                       | 🟢          |
+| 2   | Possui bibliografia ?                                              | 🟢          |
+| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? | 🔴          |
+| 4   | Existe uma area para relatar objetivos encontrados ?               | 🟢          |
+| 5   | Existe uma area para relatar os dados dos participantes ?          | 🟢          |
+| 6   | Existe uma area para relatar os problemas ?                        | 🟢          |
+| 7   | Existe uma area para relatar sugestoes ?                           | 🟢          |
+| 8   | Existe uma area introducao do relato ?                             | 🟢          |
+| 9   | Existe uma area para apresentar os avaliadores ?                   | 🟢          |
 
 ## Referências Bibliográficas
 

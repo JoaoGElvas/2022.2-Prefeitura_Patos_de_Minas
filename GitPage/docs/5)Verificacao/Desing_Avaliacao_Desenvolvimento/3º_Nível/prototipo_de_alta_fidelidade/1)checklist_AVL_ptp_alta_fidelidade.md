@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do planejamento da ava
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,14 +23,14 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                           | Verificação |
 | --- | ------------------------------------------------------------------ | ----------- |
-| 1   | Possui histórico de versão ?                                       | x           |
-| 2   | Possui bibliografia ?                                              | x           |
-| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |             |
-| 4   | O protótipo segue um padrão ?                                      | x           |
-| 5   | São especificadas as tecnologias utilizadas no protótipo ?         | x           |
-| 7   | É explicado como é feito o planejamento ?                          | x           |
-| 8   | O planejamento apresenta um fluxo nas páginas produzidas?          | x           |
-| 9   | É possível concluir sobre o planhejamento de forma clara ?         | x           |
+| 1   | Possui histórico de versão ?                                       | 🟢          |
+| 2   | Possui bibliografia ?                                              | 🟢          |
+| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? | N/A         |
+| 4   | O protótipo segue um padrão ?                                      | 🟢          |
+| 5   | São especificadas as tecnologias utilizadas no protótipo ?         | 🟢          |
+| 7   | É explicado como é feito o planejamento ?                          | 🟢          |
+| 8   | O planejamento apresenta um fluxo nas páginas produzidas?          | 🟢          |
+| 9   | É possível concluir sobre o planhejamento de forma clara ?         | 🟢          |
 
 ## Referências Bibliográficas
 

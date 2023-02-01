@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do planejamento do rel
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,13 +23,13 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                           | Verificação |
 | --- | ------------------------------------------------------------------ | ----------- |
-| 1   | Possui histórico de versão ?                                       | x           |
-| 2   | Possui bibliografia ?                                              | x           |
-| 3   | O protótipo segue um padrão ?                                      | x           |
-| 4   | São especificadas as tecnologias utilizadas no protótipo ?         | x           |
-| 5   | É explicado quais páginas o protótipo abrange ?                    | x           |
-| 6   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | x           |
-| 7   | É possível realizar a interação com o protótipo ?                  | x           |
+| 1   | Possui histórico de versão ?                                       | 🟢          |
+| 2   | Possui bibliografia ?                                              | 🟢          |
+| 3   | O protótipo segue um padrão ?                                      | 🟢          |
+| 4   | São especificadas as tecnologias utilizadas no protótipo ?         | 🟢          |
+| 5   | É explicado quais páginas o protótipo abrange ?                    | 🟢          |
+| 6   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | 🟢          |
+| 7   | É possível realizar a interação com o protótipo ?                  | 🟢          |
 
 ## Referências Bibliográficas
 

@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do artefato de analise
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,15 +23,15 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                                               | Verificação |
 | --- | -------------------------------------------------------------------------------------- | ----------- |
-| 1   | Possui histórico de versão ?                                                           | x           |
-| 2   | Possui bibliografia ?                                                                  | x           |
-| 3   | São apresentados os objetivos?                                                         | x           |
-| 4   | São apresentados os operadores?                                                        | x           |
-| 5   | São apresentados métodos?                                                              |             |
-| 6   | A analise de tarefas apresentada pelo método GOMS segue o modelo CMN-GOMS?             | x           |
-| 7   | O artefato possue ao menos duas técnicas para especificar as tarefas?                  |             |
-| 8   | O HTA possui diagramas representando as tarefas a serem realizadas?                    |             |
-| 9   | O HTA pussui uma tabela apresentando as tarefas, objetivos, problemas e recomendações? |             |
+| 1   | Possui histórico de versão ?                                                           | 🟢          |
+| 2   | Possui bibliografia ?                                                                  | 🟢          |
+| 3   | São apresentados os objetivos?                                                         | 🟢          |
+| 4   | São apresentados os operadores?                                                        | 🟢          |
+| 5   | São apresentados métodos?                                                              | 🔴          |
+| 6   | A analise de tarefas apresentada pelo método GOMS segue o modelo CMN-GOMS?             | 🟢          |
+| 7   | O artefato possue ao menos duas técnicas para especificar as tarefas?                  | 🔴          |
+| 8   | O HTA possui diagramas representando as tarefas a serem realizadas?                    | 🔴          |
+| 9   | O HTA pussui uma tabela apresentando as tarefas, objetivos, problemas e recomendações? | 🔴          |
 
 ## Referências Bibliográficas
 

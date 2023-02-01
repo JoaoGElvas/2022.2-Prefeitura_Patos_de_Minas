@@ -8,23 +8,29 @@ O documento possui o objetivo de realizar a verificação do prototipo de baixa 
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
     Tabela 1 - checklist
 </figcaption>
 
-| ID  | Pergunta                                                           | Verificação  |
-| --- | ------------------------------------------------------------------ | ------------ |
-| 1   | Possui histórico de versão ?                                       | x            |
-| 2   | Possui bibliografia ?                                              | x            |
-| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? |              |
-| 4   | São especificadas as tecnologias utilizadas no protótipo ?         | parcialmente |
-| 5   | É explicado quais páginas o protótipo abrange ?                    |              |
-| 6   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | x            |
-| 7   | É possível realizar a interação com o protótipo ?                  | x            |
-| 8   | A preparação da avaliação possui um termo de consentimento ?       |              |
-| 9   | Foi realizado um teste-piloto ?                                    |              |
+| ID  | Pergunta                                                           | Verificação |
+| --- | ------------------------------------------------------------------ | ----------- |
+| 1   | Possui histórico de versão ?                                       | 🟢          |
+| 2   | Possui bibliografia ?                                              | 🟢          |
+| 3   | As imagens/tabelas possuem legendas e sao referenciadas no texto ? | 🔴          |
+| 4   | São especificadas as tecnologias utilizadas no protótipo ?         | 🟡          |
+| 5   | É explicado quais páginas o protótipo abrange ?                    | 🔴          |
+| 6   | O protótipo apresenta um fluxo entre todas as páginas produzidas ? | 🟢          |
+| 7   | É possível realizar a interação com o protótipo ?                  | 🟢          |
+| 8   | Foi realizado um teste-piloto ?                                    | 🔴          |
 
 ## Referências Bibliográficas
 
