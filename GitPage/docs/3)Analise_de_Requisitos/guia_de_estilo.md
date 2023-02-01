@@ -36,7 +36,7 @@ O esquema de cores é a palheta que é preferível usar no site, para que a apar
 
 _(Figura 2, palheta de cores do site da prefeitura de Patos de Minas, autor: Rodrigo Wright criada utilizando o coolors)._
 
-<img src="../assets_analise/colors.png" height= 300 width=600>
+<img src="./assets_analise/colors.png" height= 300 width=600>
 
 ## 1.3. Tipografia
 
@@ -50,7 +50,7 @@ Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 
 _(Figura 3, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
 
-<img src="../assets_analise/helvetica.png" height= 300 width=300>
+<img src="./assets_analise/helvetica.png" height= 300 width=300>
 
 ## 2. Elementos de Ação e interação
 
@@ -62,13 +62,13 @@ Abaixo temos os ícones e botões padrões para o site, assim como os brasões.
 
 | Ícone                                                                                                                                                 | Descrição                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../assets_analise/logo.png" height= 60 width= 100> </br> <img src="./assets_analise/logo2.png" height= 60 width= 100>                       | **Brasão**: logo que pode variar dependendo da aba que o usuário está acessando.                                                                                                                                                                     |
-| <img src="../assets_analise/setasAmarelas.png" height= 60 width= 60>                                                                                  | **Setas Amarelas**: setas usadas para indicar as páginas de assuntos relevantes na página principal _home_.                                                                                                                                          |
-| <img src="../assets_analise/pesquisa.png" height= 60 width= 350>                                                                                      | **Pesquisa**: barra de pesquisa utilizada na página principal _home_, ela possui uma barra de texto do lado esquerdo e um botão de pesquisa do lado direito.                                                                                         |
-| <img src="../assets_analise/iconesRotulados.png" height= 60 width= 100> </br> <img src="./assets_analise/iconesRotulados2.png" height= 60 width= 100> | Ícones Rotulados: ícones que são rotulados com um subtítulo, o ícone varia dependendo da referência que ele faz e sua cor varia dependendo da cor de fundo alternando de branco (quando o fundo for azul) e cinza claro (quando o fundo for branco). |
-| <img src="../assets_analise/filtrar.png" height= 60 width= 100>                                                                                       | **Filtrar**: botão para filtrar com base no que é escrito na caixa de texto ao lado, ele serve para filtrar o conteúdo de uma página                                                                                                                 |
-| <img src="../assets_analise/imprimir.png" height= 60 width= 100>                                                                                      | **Imprimir**: botão usado para imprimir o documento que a página está mostrando.                                                                                                                                                                     |
-| <img src="../assets_analise/leiaMais.png" height= 60 width= 100>                                                                                      | **Leia mais**: botão usado para acessar o conteúdo que tem parte exposta na página principal _home_.                                                                                                                                                 |
+| <img src="./assets_analise/logo.png" height= 60 width= 100> </br> <img src="./assets_analise/logo2.png" height= 60 width= 100>                       | **Brasão**: logo que pode variar dependendo da aba que o usuário está acessando.                                                                                                                                                                     |
+| <img src="./assets_analise/setasAmarelas.png" height= 60 width= 60>                                                                                  | **Setas Amarelas**: setas usadas para indicar as páginas de assuntos relevantes na página principal _home_.                                                                                                                                          |
+| <img src="./assets_analise/pesquisa.png" height= 60 width= 350>                                                                                      | **Pesquisa**: barra de pesquisa utilizada na página principal _home_, ela possui uma barra de texto do lado esquerdo e um botão de pesquisa do lado direito.                                                                                         |
+| <img src="./assets_analise/iconesRotulados.png" height= 60 width= 100> </br> <img src="./assets_analise/iconesRotulados2.png" height= 60 width= 100> | Ícones Rotulados: ícones que são rotulados com um subtítulo, o ícone varia dependendo da referência que ele faz e sua cor varia dependendo da cor de fundo alternando de branco (quando o fundo for azul) e cinza claro (quando o fundo for branco). |
+| <img src="./assets_analise/filtrar.png" height= 60 width= 100>                                                                                       | **Filtrar**: botão para filtrar com base no que é escrito na caixa de texto ao lado, ele serve para filtrar o conteúdo de uma página                                                                                                                 |
+| <img src="./assets_analise/imprimir.png" height= 60 width= 100>                                                                                      | **Imprimir**: botão usado para imprimir o documento que a página está mostrando.                                                                                                                                                                     |
+| <img src="./assets_analise/leiaMais.png" height= 60 width= 100>                                                                                      | **Leia mais**: botão usado para acessar o conteúdo que tem parte exposta na página principal _home_.                                                                                                                                                 |
 
 ## 3. Vocabulários e Padrões
 
@@ -84,15 +84,16 @@ Também é importante destacar que a palheta de cores escolhida não prejudicar�
 
 _(Figura 4, cores vistas por diferentes formas de daltonismo comparado com uma pessoa normal, fonte: https://brasil.uxdesign.cc/acessibilidade-o-impacto-das-cores-bfc0d60420db)_
 
-![Figura 4](../assets_analise/colorBlind.png)
+![Figura 4](./assets_analise/colorBlind.png)
 
-## 5. Referências Bibliográficas
+## Referência bibliográfica
 
 > [1] Free Fonts Family, site Free fonts family que fala sobre a fonte Helvetica: https://freefontsfamily.com/helvetica-font-family/
 
 ## Histórico de Versões
 
-| Data     | Versão | Descrição                               | Autor          | Revisor      |
-| -------- | ------ | --------------------------------------- | -------------- | ------------ |
-| 10/12/22 | 1.0    | Guia de estilo                          | Rodrigo Wright | João Gabriel |
-| 11/01/23 | 1.1    | Adição acessibilidade, alteração layout | Rodrigo Wright | João Gabriel |
+| Data     | Versão | Descrição                               | Autor          | Revisor        |
+| -------- | ------ | --------------------------------------- | -------------- | -------------- |
+| 10/12/22 | 1.0    | Guia de estilo                          | Rodrigo Wright | João Gabriel   |
+| 11/01/23 | 1.1    | Adição acessibilidade, alteração layout | Rodrigo Wright | João Gabriel   |
+| 01/02/23 | 1.2    | Correções de imagens                    | João Gabriel   | Rodrigo Wright |
