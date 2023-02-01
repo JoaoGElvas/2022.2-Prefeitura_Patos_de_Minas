@@ -73,7 +73,7 @@ Abaixo temos os ícones e botões padrões para o site, assim como os brasões.
 
 1. Ler mais : utilizado como link que redireciona o usuário para outra aba com o conteúdo completo do que estava sendo visualizado.
 2. Baixar: utilizado para referenciar uma ação de download de um documento.
-3. Ver mais: utilizado para acessar mais opções de ações em determinada parte do site.
+3. Pesquisar: utilizado para consultar com base em uma entrada fornecida pelo usuário.
 
 ## 4. Acessibilidade
 
