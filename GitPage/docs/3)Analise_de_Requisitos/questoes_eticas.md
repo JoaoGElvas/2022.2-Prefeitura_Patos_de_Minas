@@ -18,16 +18,20 @@ A pesquisa realizada teve como foco questoes de multiplas escolhas afim de alcan
 
 # Termo de consentimento
 
-Este é um questionário destinado para o projeto do grupo 5 da disciplina Interação Humano-Computador da Universidade de Brasília no período 2022.2, sendo assim, todos os dados coletados serão anônimos, serão utilizados apenas pelos membros do grupo e apenas para a disciplina. Vale lembrar que não existe resposta correta.
+Este é um questionário destinado para o projeto do grupo 5 da disciplina Interação Humano-Computador da Universidade de Brasília no período 2022.2. Temos como objetivo
+a pesquisar e analisar, tendo como base os metodos estudados na diciplina em questão. Queremos verificar as funcionalidades mais utilizadas do site da [Prefeitura de Patos de Minas](http://patosdeminas.mg.gov.br/home/), além de possíveis problemas ou dificuldades na utilização do site. Sendo assim solicitamos seu concentimento para a realização e gravação de uma entrevista, tendo isso em vista é importate que você conheça as seguintes informações sobre a pesquisa:
 
-Aceitando como resposta:
+* Os dados coletados durante a entrevista vão ser destinadas a atividades de análise e desenvolvimento do sistema.
+* Nosso grupo tem o compromisso de divulgar os resuldados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
+* O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+* A estrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
 
-- Sim : O usuario concorda com o termo esclarecido acima
-
+## Referência bibliográfica
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 # Histórico de versão
 
-| Versão | Data     | Descrição             | Autor               | Revisor       |
-| ------ | -------- | --------------------- | ------------------- | ------------- |
-| 1.0    | 11/12/22 | Descrição de Personas | João Pedro Anacleto | Matheus salim |
+| Versão | Data     | Descrição                | Autor               | Revisor              |
+| ------ | -------- | ------------------------ | ------------------- | -------------------- |
+| 1.0    | 11/12/22 | Criação do documento     | João Pedro Anacleto | Matheus salim        |
+| 1.1    | 01/02/23 | Modificação do documento | João Gabriel Elvas  | João Pedro Anacleto  |
