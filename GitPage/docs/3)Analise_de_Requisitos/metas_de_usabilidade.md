@@ -19,6 +19,8 @@ O site permite que as pessoas aprendam, realizem seu trabalho de forma eficiente
 
 • Algumas funcionalidades não são muito eficientes, como as notícias que para fazer a pesquisa é necessário olhar várias páginas para que se encontre, não apresentando nenhuma forma de busca ou filtro.
 
+<iframe width="560" height="315" src="https://youtu.be/ea0FrNMaWw8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Eficiência
 
 Os usuários conseguirão manter um alto nível de produtividade, uma vez que tenham aprendido como utilizar o site para realizar suas tarefas?
@@ -29,11 +31,13 @@ Os usuários conseguirão manter um alto nível de produtividade, uma vez que te
 
 Qual é a gama de erros possíveis ao se utilizar o produto e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
 
-• Um exemplo de erro que pode ser cometido é selecionar uma sessão errada no site, dado esse erro o usuário deve clicar na logo do site ou na home para voltar na página inicial, em nem todas as secretarias esses botões são funcionais.
-
 • Alguns links externos abreem a página na mesma aba, sendo necessário user o voltar do navegador.
 
+<iframe width="560" height="315" src="https://youtu.be/T5hZb_DVNyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 • Na sessão editais quando selecionado um edital diferente do presente na pagina inicial é necessário usar o voltar do navegador, diferente da página inicial que apresenta o edital mais recente e a opção de selecionar os mais antigos.
+
+<iframe width="560" height="315" src="https://youtu.be/T5hZb_DVNyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Utilidade
 
@@ -51,7 +55,7 @@ O usuário saberá como usar o produto explorando a interface e experimentando d
 
 Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para operações que são utilizados com pouca frequência?
 
-• Nenhum. As informações se confundem ao meio de tanta noticia espalhada pela site, fazendo com que muitas vezes esquecemos caminhos ja tomados e nos perdemos.
+• Nenhum. As informações se confundem ao meio de tantas informações espalhada pela site, fazendo com que muitas vezes esquecemos caminhos ja tomados e nos perdemos.
 
 ## Referências Bibliográficas
 
@@ -65,3 +69,4 @@ Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os u
 | 1.0    | 11/12 | Criação do documento de metas de usabilidade           | Bruno Seiji Kishibe       | Matheus Salim de Oliveira |
 | 1.0    | 11/12 | Adição respostas eficácia, eficiência e segurança      | Bruno Seiji Kishibe       | Matheus Salim de Oliveira |
 | 1.1    | 11/12 | Adição respostas utilidade, learnbility e memorability | Matheus Salim de Oliveira | Bruno Seiji Kishibe       |
+| 1.2    | 01/02 | Adição videos                                          | Bruno Seiji Kishibe       |                           |
