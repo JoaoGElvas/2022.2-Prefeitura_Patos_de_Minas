@@ -8,6 +8,8 @@ O documento possui o objetivo de realizar a verificação do relato dos resultad
 
 Para a verificação deste artefato, iremos utilizar a inspeção. Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
 🟢: o tópico está completamente satisfeito;
 🟡: o tópico está incompleto;
 🔴: o tópico não foi realizado ou está errado;
