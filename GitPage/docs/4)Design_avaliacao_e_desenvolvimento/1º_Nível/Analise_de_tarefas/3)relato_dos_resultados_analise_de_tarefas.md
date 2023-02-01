@@ -27,91 +27,91 @@ Todos os participantes da avaliação são anonimos com o intuito de não expor 
     Figura 1
 </figcaption>
 
-![Figura 1](../assets/a1.png)
+![Figura 1](../../assets/a1.png)
 
 <figcaption><center>
     Figura 2
 </figcaption>
 
-![Figura 2](../assets/a2.png)
+![Figura 2](../../assets/a2.png)
 
 <figcaption><center>
     Figura 3
 </figcaption>
 
-![Figura 3](../assets/a3.png)
+![Figura 3](../../assets/a3.png)
 
 <figcaption><center>
     Figura 4
 </figcaption>
 
-![Figura 4](../assets/a4.png)
+![Figura 4](../../assets/a4.png)
 
 <figcaption><center>
     Figura 5
 </figcaption>
 
-![Figura 5](../assets/a5.png)
+![Figura 5](../../assets/a5.png)
 
 <figcaption><center>
     Figura 6
 </figcaption>
 
-![Figura 6](../assets/a6.png)
+![Figura 6](../../assets/a6.png)
 
 <figcaption><center>
     Figura 7
 </figcaption>
 
-![Figura 7](../assets/a7.png)
+![Figura 7](../../assets/a7.png)
 
 <figcaption><center>
     Figura 8
 </figcaption>
 
-![Figura 8](../assets/a8.png)
+![Figura 8](../../assets/a8.png)
 
 <figcaption><center>
     Figura 9
 </figcaption>
 
-![Figura 9](../assets/a9.png)
+![Figura 9](../../assets/a9.png)
 
 <figcaption><center>
     Figura 10
 </figcaption>
 
-![Figura 10](../assets/a10.png)
+![Figura 10](../../assets/a10.png)
 
 <figcaption><center>
     Figura 11
 </figcaption>
 
-![Figura 11](../assets/a11.png)
+![Figura 11](../../assets/a11.png)
 
 <figcaption><center>
     Figura 12
 </figcaption>
 
-![Figura 12](../assets/a12.png)
+![Figura 12](../../assets/a12.png)
 
 <figcaption><center>
     Figura 13
 </figcaption>
 
-![Figura 13](../assets/a13.png)
+![Figura 13](../../assets/a13.png)
 
 <figcaption><center>
     Figura 14
 </figcaption>
 
-![Figura 14](../assets/a14.png)
+![Figura 14](../../assets/a14.png)
 
 <figcaption><center>
     Figura 15
 </figcaption>
 
-![Figura 15](../assets/a15.png)
+![Figura 15](../../assets/a15.png)
 
 ## Problemas encontrados
 
@@ -127,6 +127,7 @@ Concluimos que os usuarios possuem uma dificuldade media e moderada para encontr
 
 ## Histórico de versões
 
-| Versão | Data     | Descrição            | Autor               | Revisor      |
-| ------ | -------- | -------------------- | ------------------- | ------------ |
-| 1.0    | 20/12/22 | Criação do documento | João Pedro Anacleto | João Gabriel |
+| Versão | Data     | Descrição                         | Autor               | Revisor             |
+| ------ | -------- | --------------------------------- | ------------------- | ------------------- |
+| 1.0    | 20/12/22 | Criação do documento              | João Pedro Anacleto | João Gabriel Elvas  |
+| 1.1    | 01/02/23 | realizando correções nas imagens  | João Gabriel Elvas  | João Pedro Anacleto |

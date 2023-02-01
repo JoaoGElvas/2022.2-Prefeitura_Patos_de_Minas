@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do artefato de Persona
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,14 +23,14 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                                                                  | Verificação |
 | --- | --------------------------------------------------------------------------------------------------------- | ----------- |
-| 1   | Possui histórico de versão ?                                                                              | x           |
-| 2   | Possui bibliografia ?                                                                                     | x           |
-| 3   | Possui a razão da escolha da quantidade de personas ?                                                     |             |
-| 4   | Possui as personas estão condizentes com o perfil de usuário?                                             |             |
-| 5   | Possui cenários?                                                                                          | x           |
-| 6   | As personas tornam claros os objetivos dos usuários?                                                      |             |
-| 7   | O elenco de personas possui ao menos uma persona primária?                                                |             |
-| 8   | Existem os cenários de uso diário (principais ações que os usuário vão realizar, e com maior frequência)? |             |
+| 1   | Possui histórico de versão ?                                                                              | 🟢          |
+| 2   | Possui bibliografia ?                                                                                     | 🟢          |
+| 3   | Possui a razão da escolha da quantidade de personas ?                                                     | 🟡          |
+| 4   | Possui as personas estão condizentes com o perfil de usuário?                                             | 🟡          |
+| 5   | Possui cenários?                                                                                          | 🟢          |
+| 6   | As personas tornam claros os objetivos dos usuários?                                                      | 🟡          |
+| 7   | O elenco de personas possui ao menos uma persona primária?                                                | 🟡          |
+| 8   | Existem os cenários de uso diário (principais ações que os usuário vão realizar, e com maior frequência)? | 🟡          |
 
 ## Referências Bibliográficas
 

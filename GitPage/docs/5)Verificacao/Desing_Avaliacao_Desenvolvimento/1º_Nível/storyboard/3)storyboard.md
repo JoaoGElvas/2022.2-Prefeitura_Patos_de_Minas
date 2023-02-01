@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do artefato do Storybo
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,15 +23,15 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                                      | Verificação |
 | --- | ----------------------------------------------------------------------------- | ----------- |
-| 1   | Possui histórico de versão ?                                                  | X           |
-| 2   | Possui bibliografia ?                                                         | X           |
-| 3   | O artefato possui ator semelhante ao real?                                    | X           |
-| 4   | O artefato apresenta um ambiente semelhante ao real?                          | X           |
-| 5   | As tarefas sao condizentes com a realidade?                                   | X           |
-| 6   | O ator apresenta confusão ou tem que refazer alguma etapa por causa de erros? |             |
-| 7   | O ator se depara com mais de um problema durante o uso do sistema?            |             |
-| 8   | O objetivo foi alcançado por um caminho intuitivo ?                           | X           |
-| 9   | O storyboard esclarece a motivacao do usuario para utilizar o site ?          | X           |
+| 1   | Possui histórico de versão ?                                                  | 🟢          |
+| 2   | Possui bibliografia ?                                                         | 🟢          |
+| 3   | O artefato possui ator semelhante ao real?                                    | 🟢          |
+| 4   | O artefato apresenta um ambiente semelhante ao real?                          | 🟢          |
+| 5   | As tarefas sao condizentes com a realidade?                                   | 🟢          |
+| 6   | O ator apresenta confusão ou tem que refazer alguma etapa por causa de erros? | 🔴          |
+| 7   | O ator se depara com mais de um problema durante o uso do sistema?            | 🔴          |
+| 8   | O objetivo foi alcançado por um caminho intuitivo ?                           | 🟢          |
+| 9   | O storyboard esclarece a motivacao do usuario para utilizar o site ?          | 🟢          |
 
 ## Referências Bibliográficas
 

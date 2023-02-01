@@ -8,3 +8,7 @@
 | <img src="https://avatars.githubusercontent.com/u/71887485?v=4" alt="JoaoGElvas" width="100">          | João G Elvas              | [@JoaoGElvas](https://github.com/JoaoGElvas)                |
 | <img src="https://avatars.githubusercontent.com/u/67489048?v=4" alt="Bruno Seiji" width="100">         | Bruno Seiji Kishibe       | [@Bruno Seiji](https://github.com/brun0sk)                  |
 | <img src="https://avatars.githubusercontent.com/u/80415489?v=4" alt="Matheus Salim" width="100">       | Matheus Salim de Oliveira | [@Matheus Salim](https://github.com/matheussalimdeoliveira) |
+
+| Versão | Data       | Descrição                         | Autor               | Revisor             |
+| ------ | ---------- | --------------------------------- | ------------------- | ------------------- |
+| 1.0    | 22/11/2022 | Documentação da equipe do projeto | João Pedro Anacleto | Bruno Seiji Kishibe |

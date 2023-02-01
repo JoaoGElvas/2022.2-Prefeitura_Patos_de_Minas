@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação do planejamento do pro
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,14 +23,14 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                                    | Verificação |
 | --- | --------------------------------------------------------------------------- | ----------- |
-| 1   | Possui histórico de versão ?                                                | x           |
-| 2   | Possui bibliografia ?                                                       | x           |
-| 3   | E explicado o local e o horario da realizacao das entrevistas ?             |             |
-| 4   | Possue um planejamento para a realizacao do prototipo de papel ?            |             |
-| 5   | E explicado a metodologia para a criacao do prototipo ?                     |             |
-| 6   | E explicado a razao de escolha do numero de participantes ?                 |             |
-| 7   | As tarefas a serem feitas pelos entrevistados sao explicadas no documento ? | x           |
-| 8   | O objetivo da avaliacao e explicado no documento ?                          | x           |
+| 1   | Possui histórico de versão ?                                                | 🟢          |
+| 2   | Possui bibliografia ?                                                       | 🟢          |
+| 3   | E explicado o local e o horario da realizacao das entrevistas ?             | 🔴          |
+| 4   | Possue um planejamento para a realizacao do prototipo de papel ?            | 🟢          |
+| 5   | E explicado a metodologia para a criacao do prototipo ?                     | 🟢          |
+| 6   | E explicado a razao de escolha do numero de participantes ?                 | 🔴          |
+| 7   | As tarefas a serem feitas pelos entrevistados sao explicadas no documento ? | 🟢          |
+| 8   | O objetivo da avaliacao e explicado no documento ?                          | 🟢          |
 
 ## Referências Bibliográficas
 

@@ -8,6 +8,13 @@ O documento possui o objetivo de realizar a verificação dos resultados do stor
 
 Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos essa tecnica utilizaremos uma tabela (checklist) afim de avaliarmos se todos os pontos do artefato foram atendidos.
 
+Desse modo para um melhor entendimento do usuario o checklist sera prenchido com os seguintes simbolos abaixo :
+
+🟢: o tópico está completamente satisfeito;
+🟡: o tópico está incompleto;
+🔴: o tópico não foi realizado ou está errado;
+N/A: questão não se aplica.
+
 ## Inspeção
 
 <figcaption><center>
@@ -16,15 +23,15 @@ Para a verificação deste artefato, iremos utilizar a inspeção.Ao aplicarmos 
 
 | ID  | Pergunta                                                  | Verificação |
 | --- | --------------------------------------------------------- | ----------- |
-| 1   | Possui histórico de versão ?                              | x           |
-| 2   | Possui bibliografia ?                                     | x           |
-| 3   | Possui a metodologia utilizada na avaliação?              | x           |
-| 4   | Possui aentrevista da avaliação gravada?                  | x           |
-| 5   | Possui o teste-piloto ?                                   |             |
-| 6   | E apresentado as respostas escritas do entrevistado ?     |             |
-| 7   | E documentado a quantidade de avaliadores presentes ?     | x           |
-| 8   | E documentado o termo de consentimento ?                  | x           |
-| 9   | E documentado os problemas ocorridos durante a gravação ? | x           |
+| 1   | Possui histórico de versão ?                              | 🟢          |
+| 2   | Possui bibliografia ?                                     | 🟢          |
+| 3   | Possui a metodologia utilizada na avaliação?              | 🟢          |
+| 4   | Possui aentrevista da avaliação gravada?                  | 🟢          |
+| 5   | Possui o teste-piloto ?                                   | 🔴          |
+| 6   | E apresentado as respostas escritas do entrevistado ?     | 🔴          |
+| 7   | E documentado a quantidade de avaliadores presentes ?     | 🟢          |
+| 8   | E documentado o termo de consentimento ?                  | 🟢          |
+| 9   | E documentado os problemas ocorridos durante a gravação ? | 🟢          |
 
 ## Referências Bibliográficas
 
