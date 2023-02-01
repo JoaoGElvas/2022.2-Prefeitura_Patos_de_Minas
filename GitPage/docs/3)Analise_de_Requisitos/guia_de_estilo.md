@@ -40,17 +40,16 @@ _(Figura 2, palheta de cores do site da prefeitura de Patos de Minas, autor: Rod
 
 ## 1.3. Tipografia
 
-O site utiliza a fonte **Helvetica** (_Figura 3_), segundo o site "Free Font Family" [1], essa é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Max Miedinger e Eduard Hoffmann, ela também conhecida como Neue Haas Grotesk. Essa fonte é amplamente utilizada pelo mundo pela sua quantidade de variações e suporte a tipografia de diversos dialetos. Sendo assim, essa é uma fonte confiável que é mais do que capaz de atender o escopo do projeto.
+O site utiliza a fonte **Arial** (_Figura 3_), segundo o site "Free Font Family" [1], essa é uma fonte tipográfica sem serifa (sem os traços prolongados nas pontas das letras) gratuita desenvolvida por Robin Nicholas and Patricia Saunders, ela foi publicada em 1982 e deu origem a diversas outras fontes, como a Heveltica.
 
 Além do tipo de fonte, o padrão de tamanho de fonte usado no site é:
 
-1. Título: **Sem predefinição**, sendo o tamanho ajustado para caber nos espaços fornecidos.
-2. Nome te ícones e subtítulos: **16 ou 18 px** (a depender do tamanho do texto).
-3. Textos no geral: **14 px**.
+1. Título: **50 px**.
+3. Textos no geral: **36 px**.
 
-_(Figura 3, fonte tipográfica Helvetica, fonte: https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg)_
+_(Figura 3, fonte tipográfica Helvetica, fonte: [Fonts Geeks](https://commons.wikimedia.org/wiki/File:Helvetica_Neue_typeface_weights.svg](https://fontsgeek.com/fonts/Arial-Regular)_
 
-<img src="./assets_analise/helvetica.png" height= 300 width=300>
+<img src="./assets_analise/arial.png" height= 300 width=300>
 
 ## 2. Elementos de Ação e interação
 
