@@ -84,4 +84,4 @@ O modelo GOMS (Goals, Operators, Methods, and Selection Rules) é um método par
 | 1.1    | 06/12/22 | Adição de novos objetivos                     | Bruno Seiji Kishibe | João Pedro Anacleto |
 | 1.2    | 07/12/22 | Adição das referencias bibliograficas         | Augusto Campos      | Bruno Seiji Kishibe |
 | 1.3    | 11/01/23 | Adição da tarefa "ver Receita"                | Rodrigo Wright      | Bruno Seiji Kishibe |
-| 1.4    | 01/02/23 | Correção de consultar secretarias e de receita| Bruno Seiji Kishibe |                     |
+| 1.4    | 01/02/23 | Correção de consultar secretarias e de receita| Bruno Seiji Kishibe | João Pedro Anacleto |
