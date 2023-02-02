@@ -33,11 +33,11 @@ A seguir, na _tabela 2_, se encontra a tabela relacionada à primeira entrega da
 | Atividade(s)                                             | Data  | Responsavel                                           | Revisor                                               | Data de revisão |
 | -------------------------------------------------------- | ----- | ----------------------------------------------------- | ----------------------------------------------------- | --------------- |
 | Documentar Equipe                                        | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
-| Documentar listas de sites avaliados                     | 20/11 | Augusto e Matheus                                     | João Pedro Anacleto                                   | 23/11/22        |
-| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro Anacleto                                   | Bruno Seiji Kishibe                                   | 20/11/22        |
-| Documentar ferramentas utilizadas no projeto             | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
-| Documentar Processo de Design                            | 20/11 | João Gabriel Elvas e Bruno Seiji                      | João Pedro Anacleto                                   | 23/11/22        |
-| Documentar o cronograma das atividades                   | 20/11 | João Pedro Anacleto                                   | Rodrigo Wright                                        | 21/11/22        |
+| Documentar listas de sites avaliados                     | 20/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto,Bruno e Rodrigo                   | 23/11/22        |
+| Documentar site selecionado para o projeto da disciplina | 19/11 | João Pedro,João Gabriel e Augusto                     | João Pedro Anacleto,Bruno e Rodrigo                   | 20/11/22        |
+| Documentar ferramentas utilizadas no projeto             | 20/11 | João Pedro,João Gabriel                               | Bruno e Rodrigo                                       | 22/11/22        |
+| Documentar Processo de Design                            | 20/11 | João Gabriel Elvas                                    | Bruno Seiji                                           | 23/11/22        |
+| Documentar o cronograma das atividades                   | 20/11 | João Pedro Anacleto                                   | Rodrigo Wright e Bruno Seiji                          | 21/11/22        |
 | Gravação dos videos de apresentação                      | 22/11 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | João Pedro Anacleto                                   | 22/11/22        |
 | Edição dos videos de apresentação                        | 23/11 | Joao Gabriel Elvas                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 23/11/22        |
 
@@ -49,14 +49,14 @@ A seguir, na _tabela 3_, se encontra a tabela relacionada à segunda entrega da 
     Tabela 3 - Segunda entrega
 </figcaption>
 
-| Atividade(s)                                  | Data  | Responsavel                                           | Revisor             | Data de revisão |
-| --------------------------------------------- | ----- | ----------------------------------------------------- | ------------------- | :-------------: |
-| Revisão e correção da Entrega 1               | 06/12 | João Pedro,João Gabriel,Augusto                       | Rodrigo Wright      |   06/12/2022    |
-| Preencher o documento da avaliação heuristica | 05/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Bruno Seiji         |   07/12/2022    |
-| Estudo do perfil de usuario                   | 04/12 | Matheus Salim                                         | Augusto Campos      |   07/12/2022    |
-| Analise de Tarefas                            | 05/12 | Bruno Seiji e Augusto Campos                          | João Pedro Anacleto |   06/12/2022    |
-| Definição de Personas                         | 05/12 | Rodrigo Wright                                        | João Pedro Anacleto |   06/12/2022    |
-| Gravação de video                             | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Matheus Salim       |   07/12/2022    |
+| Atividade(s)                                  | Data  | Responsavel                                           | Revisor                           | Data de revisão |
+| --------------------------------------------- | ----- | ----------------------------------------------------- | --------------------------------- | :-------------: |
+| Revisão e correção da Entrega 1               | 06/12 | João Pedro,João Gabriel,Augusto                       | Rodrigo Wright                    |   06/12/2022    |
+| Preencher o documento da avaliação heuristica | 05/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Bruno Seiji                       |   07/12/2022    |
+| Estudo do perfil de usuario                   | 04/12 | Matheus Salim,João Pedro e João Gabriel               | Matheus Salim e João Gabriel      |   07/12/2022    |
+| Analise de Tarefas                            | 05/12 | Bruno Seiji,Augusto Campos e Rodrigo Wright           | João Pedro Anacleto e Bruno Seiji |   06/12/2022    |
+| Definição de Personas                         | 05/12 | Rodrigo Wright                                        | João Pedro Anacleto               |   06/12/2022    |
+| Gravação de video                             | 06/12 | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | Matheus Salim                     |   07/12/2022    |
 
 ## Entrega 3 - Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo- 12/12/2022
 
@@ -70,9 +70,9 @@ A seguir, na _tabela 4_, se encontra a tabela relacionada à terceira entrega da
 | ---------------------------- | ----- | --------------------------- | ----------------------------------------------------- | :-------------: |
 | Adição das Atas das reuniões | 09/12 | João Gabriel,Augusto        | Rodrigo Wright                                        |   11/12/2022    |
 | Adição das questões eticas   | 09/12 | João Pedro,Bruno seiji      | Bruno seiji                                           |   11/12/2022    |
-| Princípios Gerais de Projeto | 09/12 | João Pedro,Augusto          | João Pedro                                            |   11/12/2022    |
-| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   | Matheus Salim                                         |   11/12/2022    |
-| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel | João Gabriel                                          |   11/12/2022    |
+| Princípios Gerais de Projeto | 09/12 | João Gabriel,Augusto        | João Pedro                                            |   11/12/2022    |
+| Metas de usabilidade         | 09/12 | Matheus Salim,Bruno seiji   | Matheus Salim e Bruno Seiji                           |   11/12/2022    |
+| Guia de Estilo               | 10/12 | Rodrigo Wright,João Gabriel | João Gabriel e Rodrigo Wright                         |   11/12/2022    |
 | Gravação de video            | 11/12 | João Gabriel                | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo |   11/12/2022    |
 
 ## Entrega 4 -Planejamento da Avaliação,relato dos resultados da avaliação do Storyboard, Análise de tarefas - 14/12/2022
@@ -86,10 +86,10 @@ A seguir, na _tabela 5_, se encontra a tabela relacionada à quarta entrega da m
 | Atividade(s)                                               | Data  | Responsavel               | Revisor                                               | Data de revisão |
 | ---------------------------------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
 | Planejamento da avaliação da Análise de Tarefas            | 11/12 | Augusto Campos            | João Pedro                                            | 14/12/2022      |
-| Planejamento da avaliação do storyboard                    | 11/12 | João Gabriel              | Rodrigo                                               | 14/12/2022      |
-| Storyboard                                                 | 11/12 | Rodrigo,João Gabriel      | João Gabriel                                          | 14/12/2022      |
-| Planejamento do Relato de Resultados do Storyboard         | 12/12 | João Pedro,Augusto        | Augusto                                               | 14/12/2022      |
-| Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji | Bruno seiji                                           | 14/12/2022      |
+| Planejamento da avaliação do storyboard                    | 11/12 | João Gabriel              | Augusto Campos                                        | 14/12/2022      |
+| Storyboard                                                 | 11/12 | Rodrigo,João Gabriel      | João Gabriel e Rodrigo Wright                         | 14/12/2022      |
+| Planejamento do Relato de Resultados do Storyboard         | 12/12 | João Pedro,João Gabriel   | Augusto                                               | 14/12/2022      |
+| Planejamento do Relato de Resultados de Análise de Tarefas | 12/12 | Matheus Salim,Bruno seiji | Bruno seiji e Matheus Salim                           | 14/12/2022      |
 | Gravação de video                                          | 13/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 14/12/2022      |
 
 ## Entrega 5 - Relato dos resultados da avaliação do Storyboard,da Análise de tarefas,Protótipo de Papel,Planejamento da Avaliação e relato dos resultados- 21/12/2022
@@ -104,9 +104,9 @@ A seguir, na _tabela 6_, se encontra a tabela relacionada à quinta entrega da m
 | ---------------------------------------------------------- | ----- | ------------------------- | ----------------------------------------------------- | --------------- |
 | Questionario Análise de Tarefas                            | 20/12 | Bruno Seiji               | João Pedro Anacleto                                   | 20/12/2022      |
 | Teste Piloto da avaliação da análise de tarefas            | 21/12 | Augusto Campos            | Bruno seiji                                           | 21/12/2022      |
-| Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel   | João Gabriel                                          | 21/12/2022      |
-| Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji | Matheus Salim                                         | 21/12/2022      |
-| Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel      | João Gabriel                                          | 21/12/2022      |
+| Relato dos resultados da avalição da Análise de Tarefas    | 20/12 | João Pedro,João Gabriel   | João Gabriel e João Pedro                             | 21/12/2022      |
+| Relato dos resultados da avaliação do Storyboard           | 20/12 | Matheus Salim,Bruno seiji | Matheus Salim e Bruno seiji                           | 21/12/2022      |
+| Planejamento da avalição Protótipo de Papel                | 20/12 | Matheus,João Gabriel      | João Gabriel e Matheus                                | 21/12/2022      |
 | Planejamento do Relato de Resultados do protótipo de papel | 20/12 | Rodrigo Wright            | Augusto Campos                                        | 21/12/2022      |
 | Gravação do vídeo                                          | 21/12 | João Gabriel              | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 21/12/2022      |
 
@@ -118,16 +118,16 @@ A seguir, na _tabela 7_, se encontra a tabela relacionada à sexta entrega da ma
     Tabela 7 - sexta entrega
 </figcaption>
 
-| Atividade(s)                                                                                    | Data  | Responsável                                     | Revisor                                               | Data de Revisão |
-| ----------------------------------------------------------------------------------------------- | ----- | ----------------------------------------------- | ----------------------------------------------------- | --------------- |
-| Atualizar o storyboard                                                                          | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel | Rodrigo                                               | 11/01/2023      |
-| Prototipação em papel                                                                           | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel | João Gabriel                                          | 11/01/2023      |
-| Realizar a validação do prototipo com o usuario                                                 | 10/01 | João Pedro Anacleto,Bruno Seiji                 | Augusto                                               | 11/01/2023      |
-| Relato dos resultados da avalição do prototipo de baixa fidelidade                              | 11/01 | Augusto Campos,João Pedro Anacleto,Bruno Seiji  | João Pedro                                            | 11/01/2023      |
-| Planejamento da Avaliação do protótipo de alta fidelidade                                       | 11/01 | Matheus Salim,Bruno seiji                       | Matheus Salim                                         | 11/01/2023      |
-| Planejamento da Avaliação do relato dos resultados da avaliacao do protótipo de alta fidelidade | 11/01 | João Pedro,Rodrigo                              | Bruno Seiji                                           | 11/01/2023      |
-| Gravação do vídeo                                                                               | 11/01 | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
-| Edição do vídeo                                                                                 | 1/01  | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
+| Atividade(s)                                                                       | Data  | Responsável                                     | Revisor                                               | Data de Revisão |
+| ---------------------------------------------------------------------------------- | ----- | ----------------------------------------------- | ----------------------------------------------------- | --------------- |
+| Atualizar o storyboard                                                             | 10/01 | Rodrigo Wright,João Pedro Anacleto,João Gabriel | Rodrigo                                               | 11/01/2023      |
+| Prototipação em papel                                                              | 10/01 | Rodrigo Wright & João Gabriel                   | João Gabriel                                          | 11/01/2023      |
+| Realizar a validação do prototipo com o usuario                                    | 10/01 | João Pedro Anacleto e Augusto                   | Augusto e João Pedro Anacleto                         | 11/01/2023      |
+| Relato dos resultados da avalição do prototipo de baixa fidelidade                 | 11/01 | Augusto Campos,João Pedro Anacleto              | João Pedro e Augusto                                  | 11/01/2023      |
+| Planejamento da Avaliação do protótipo de alta fidelidade                          | 11/01 | Bruno seiji                                     | Matheus Salim                                         | 11/01/2023      |
+| Planejamento do relato dos resultados da avaliacao do protótipo de alta fidelidade | 11/01 | João Pedro Anacleto                             | Augusto                                               | 11/01/2023      |
+| Gravação do vídeo                                                                  | 11/01 | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
+| Edição do vídeo                                                                    | 1/01  | João Gabriel                                    | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 11/01/2023      |
 
 ## Entrega 7 -Verificação dos artefatos- 18/01/2023
 
@@ -137,19 +137,19 @@ A seguir, na _tabela 8_, se encontra a tabela relacionada à setima entrega da m
     Tabela 8 - Setima entrega
 </figcaption>
 
-| Atividade(s)                                                 | Data  | Responsável          | Revisor                                               | Data de Revisão |
-| ------------------------------------------------------------ | ----- | -------------------- | ----------------------------------------------------- | --------------- |
-| checklist do guia de estilo                                  | 13/01 | Rodrigo Wright       | Matheus Salim                                         | 18/01/2023      |
-| checklist das metas de usabilidade                           | 13/01 | Matheus Salim        | Rodrigo Wright                                        | 18/01/2023      |
-| checklist das personas                                       | 13/01 | Augusto Campos       | Bruno seiji                                           | 18/01/2023      |
-| checklist da Análise de Tarefas                              | 13/01 | Bruno seiji          | João Pedro                                            | 18/01/2023      |
-| checklist dos perfis de usuário                              | 13/01 | João Pedro           | Bruno seiji                                           | 18/01/2023      |
-| checklist do storyboard                                      | 15/01 | João Gabriel,Augusto | Augusto                                               | 18/01/2023      |
-| checklist dos resultados do storyboard                       | 15/01 | João Pedro,Rodrigo   | João Pedro                                            | 18/01/2023      |
-| checklist do Planejamento da Avaliação da Análise de Tarefas | 15/01 | Rodrigo,Matheus      | Augusto Campos                                        | 18/01/2023      |
-| checklist do Planejamento da Avaliação do Storyboard         | 15/01 | Bruno,Augusto        | Augusto Campos                                        | 18/01/2023      |
-| Gravação do vídeo                                            | 16/01 | João Gabriel         | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 18/01/2023      |
-| Edição do vídeo                                              | 16/01 | João Gabriel         | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 18/01/2023      |
+| Atividade(s)                                                 | Data  | Responsável                        | Revisor                                               | Data de Revisão |
+| ------------------------------------------------------------ | ----- | ---------------------------------- | ----------------------------------------------------- | --------------- |
+| checklist do guia de estilo                                  | 13/01 | Rodrigo Wright                     | João Pedro                                            | 18/01/2023      |
+| checklist das metas de usabilidade                           | 13/01 | Matheus Salim                      | João Pedro                                            | 18/01/2023      |
+| checklist das personas                                       | 13/01 | Augusto Campos                     | João Pedro                                            | 18/01/2023      |
+| checklist da Análise de Tarefas                              | 13/01 | Bruno seiji                        | João Pedro                                            | 18/01/2023      |
+| checklist dos perfis de usuário                              | 13/01 | João Pedro                         | Augusto Campos                                        | 18/01/2023      |
+| checklist do storyboard                                      | 15/01 | João Pedro Anacleto e João Gabriel | João Pedro                                            | 18/01/2023      |
+| checklist dos resultados do storyboard                       | 15/01 | João Pedro Anacleto e João Gabriel | Bruno Seiji                                           | 18/01/2023      |
+| checklist do Planejamento da Avaliação da Análise de Tarefas | 15/01 | João Pedro Anacleto                | Bruno Seiji                                           | 18/01/2023      |
+| checklist do Planejamento da Avaliação do Storyboard         | 15/01 | Augusto e Bruno                    | João Pedro                                            | 18/01/2023      |
+| Gravação do vídeo                                            | 16/01 | João Gabriel                       | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 18/01/2023      |
+| Edição do vídeo                                              | 16/01 | João Gabriel                       | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 18/01/2023      |
 
 ## Entrega 8 -Relato dos resultados da avaliação do protótipo de alta fidelidade- 25/01/2023
 
@@ -159,24 +159,23 @@ A seguir, na _tabela 9_, se encontra a tabela relacionada à oitava entrega da m
     Tabela 9 - Oitava entrega
 </figcaption>
 
-| Atividade(s)                                                                       | Data  | Responsável             | Revisor                                               | Data de Revisão |
-| ---------------------------------------------------------------------------------- | ----- | ----------------------- | ----------------------------------------------------- | --------------- |
-| checklist dos resultados da análise de tarefas                                     | 19/01 | João Pedro,João Gabriel | João Pedro                                            | 20/01/2023      |
-| checklist de padronizacao geral do projeto                                         | 25/01 | Bruno                   | João Pedro                                            | 25/01/2023      |
-| checklist do planejamento relato de resultados do storyboard                       | 25/01 | Joao Gabriel            | Matheus                                               | 25/01/2023      |
-| checklist do planejamento da avaliacao do prototipo de baixa fidelidade            | 25/01 | Joao pedro              | Augusto                                               | 25/01/2023      |
-| checklist do prototipo de baixa fidelidade                                         | 25/01 | Joao pedro              | Augusto                                               | 25/01/2023      |
-| checklist do planejamento do relato de resultados do prototipo de baixa fidelidade | 25/01 | Joao Gabriel            | João Pedro                                            | 25/01/2023      |
-| checklist do relato de resultados do prototipo de baixa fidelidade                 | 25/01 | Augusto                 | João Pedro                                            | 25/01/2023      |
-| checklist do planejamento da avaliacao do prototipo de alta fidelidade             | 25/01 | Matheus                 | João Gabriel                                          | 25/01/2023      |
-| checklist do prototipo de alta fidelidade                                          | 25/01 | Bruno                   | João Pedro                                            | 25/01/2023      |
-| checklist do planejamento do relato de resultados prototipo de alta fidelidade     | 25/01 | Joao Pedro              | Augusto                                               | 25/01/2023      |
-| checklist do relato de resultados do prototipo de alta fidelidade                  | 25/01 | Augusto                 | João Pedro                                            | 25/01/2023      |
-| Protótipo de alta fidelidade                                                       | 25/01 | Rodrigo Wright          | João Pedro                                            | 25/01/2023      |
-| Avaliacao do Protótipo de alta fidelidade                                          | 25/01 | Rodrigo Wright e Bruno  | Bruno                                                 | 25/01/2023      |
-| Relato da Avaliacao do Protótipo de alta fidelidade                                | 25/01 | Bruno e João Pedro      | Bruno e João Pedro                                    | 25/01/2023      |
-| Gravação do vídeo                                                                  | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto, Bruno,Rodrigo        | 25/01/2023      |
-| Edição do vídeo                                                                    | 25/01 | João Gabriel            | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 25/01/2023      |
+| Atividade(s)                                                                       | Data  | Responsável                 | Revisor                                               | Data de Revisão |
+| ---------------------------------------------------------------------------------- | ----- | --------------------------- | ----------------------------------------------------- | --------------- |
+| checklist de padronizacao geral do projeto                                         | 25/01 | Bruno                       | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento relato de resultados do storyboard                       | 25/01 | Joao Gabriel                | Bruno Seiji                                           | 25/01/2023      |
+| checklist do planejamento da avaliacao do prototipo de baixa fidelidade            | 25/01 | Joao pedro                  | Augusto                                               | 25/01/2023      |
+| checklist do prototipo de baixa fidelidade                                         | 25/01 | Joao pedro                  | Augusto                                               | 25/01/2023      |
+| checklist do planejamento do relato de resultados do prototipo de baixa fidelidade | 25/01 | Joao Gabriel                | João Pedro                                            | 25/01/2023      |
+| checklist do relato de resultados do prototipo de baixa fidelidade                 | 25/01 | Augusto                     | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento da avaliacao do prototipo de alta fidelidade             | 25/01 | Matheus                     | João Gabriel                                          | 25/01/2023      |
+| checklist do prototipo de alta fidelidade                                          | 25/01 | Bruno                       | João Pedro                                            | 25/01/2023      |
+| checklist do planejamento do relato de resultados prototipo de alta fidelidade     | 25/01 | Joao Pedro                  | Augusto                                               | 25/01/2023      |
+| checklist do relato de resultados do prototipo de alta fidelidade                  | 25/01 | Augusto e João Pedro        | João Pedro                                            | 25/01/2023      |
+| Protótipo de alta fidelidade                                                       | 25/01 | Rodrigo Wright e João Pedro | João Pedro e Rodrigo Wright                           | 25/01/2023      |
+| Avaliacao do Protótipo de alta fidelidade                                          | 25/01 | Rodrigo Wright e Bruno      | Bruno                                                 | 25/01/2023      |
+| Relato da Avaliacao do Protótipo de alta fidelidade                                | 25/01 | Bruno e João Pedro          | Bruno e João Pedro                                    | 25/01/2023      |
+| Gravação do vídeo                                                                  | 25/01 | João Gabriel                | João Pedro,João Gabriel,Augusto, Bruno,Rodrigo        | 25/01/2023      |
+| Edição do vídeo                                                                    | 25/01 | João Gabriel                | João Pedro,João Gabriel,Augusto,Matheus,Bruno,Rodrigo | 25/01/2023      |
 
 ## Entrega 9 - Entrega Final - 01/02/2023
 
