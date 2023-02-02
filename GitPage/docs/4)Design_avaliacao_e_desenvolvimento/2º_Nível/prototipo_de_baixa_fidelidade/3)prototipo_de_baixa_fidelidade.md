@@ -8,9 +8,19 @@ Nesta seção apresentaremos o protótipo de papel desenvolvido para o site da P
 
 A metodologia utilizada para a prototipação é a de **protótipo de papel**. Nessa metodologia o desenvolvedor cria uma série de desenhos que simularão a aplicação, esses desenhos podem ser feitos em papel ou no computador e não precisam ser “bonitos” porque eles apenas representarão a funcionalidade em questão. Sendo assim, foram projetados alguns protótipos desenvolvidos com papel e caneta com base nessa metodologia.
 
+No nosso caso, utilizamos papel e caneta para a prototipação. Nós unimos as páginas criadas para dar a sensação de mudança de página, e para o usuário entender como a aplicação vai se portar na versão de alta fidelidade.
+
 ## Protótipos de Papel
 
-A sequência de imagens a seguir (_Figura 1 à 6)_ retratará as interfaces observadas pelo usuário a medida que ele for progredindo nas tarefas, tarefas essas ilustradas no storyboard do projeto:
+Páginas Abrangidas:
+- Página inicial home (_Figura 1_)
+- Página de notícias (_Figura 2_)
+- Página do diário Oficial (_Figura 3_)
+- Página inicial Portal de Transparência (_Figura 4_)
+- Página do formulário de requisição de receita (_Figura 5_)
+- Página do resultado da requisição de receita (_Figura 6_)
+
+A sequência de imagens a seguir (_Figura 1 a 6)_ retratará as interfaces observadas pelo usuário a medida que ele for progredindo nas tarefas, tarefas essas ilustradas no storyboard do projeto:
 
 _(Figura 1, página inicial home, autor: Rodrigo Wright)_
 ![Figura 1](../../assets/paginaInicial.jpeg)
@@ -35,3 +45,4 @@ _(Figura 6, página do resultado da requisição de receita, autor: Rodrigo Wrig
 | Versão | Data     | Descrição                        | Autor                         | Revisor      |
 | ------ | -------- | -------------------------------- | ----------------------------- | ------------ |
 | 1.0    | 11/01/23 | Criação do documento com imagens | Rodrigo Wright & João Gabriel | João Gabriel |
+| 1.0    | 31/01/23 | Correção checklist de verificação| Rodrigo Wright                | João Gabriel |
