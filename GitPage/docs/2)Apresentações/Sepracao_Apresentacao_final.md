@@ -51,6 +51,12 @@ Difícil interação;
 
 # Ciclo de Vida Utilizado (Mayhew)
 
+Entre os tipos de processo de design, cada uma dessas atividades são abordadas e exploradas de formas diferentes. O processo escolhido para esse projeto foi o **Engenharia de Usabilidade de Mayhew**. Dentre os modelos existentes, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para este projeto por seus artefatos serem mais detalhados e completos, além disso há um maior direcionamento entre as etapas. Tendo isso em vista, os membros do grupo julgaram que este possa ser o modelo ideal a ser utilizado na disciplina de Interação Humano-Computador. 
+
+<blockquote>
+“A Engenharia de Usabilidade é o processo no qual são aplicados método estruturados no projeto de interface usuário-computador visando à usabilidade do produto final.” -Mayhew
+</blockquote>
+
 # Cronograma planejado e executado
 
 # A execução do projeto (de cada etapa do ciclo de vida)
@@ -128,6 +134,22 @@ Difícil interação;
 | Relato dos resultados do protótipo de alta fidelidade                               | Augusto Campos            | João Pedro Anacleto |
 
 # Tabela de quais ferramentas e onde elas foram utilizadas
+
+# Ferramentas do Projeto
+
+A escolha de ferramentas foram feitas visando uma integração rapida e eficiente dos integrantes do grupo majoritariamente em um contexto assincrono de reuniões.
+
+| Ferramentas                                                                                                                                                                                     | Descrição                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://user-images.githubusercontent.com/71887485/206041827-639fe8af-0b9c-4d45-8e0e-ddb56ae20980.png" height= 60 width=60>                                                           | GitHub - Será a principal ferramenta de versionamento e documentação do nosso projeto possuindo a principal fonte de informações o Git Pages. |
+| <img src="https://logodownload.org/wp-content/uploads/2021/06/google-meet-logo-6.png" height= 50 width=50>                                                                                      | Google Meets - Foi a primeira plataforma de reuniões entre os membros do grupo.                                                       |
+| <img src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-1.png" height= 50 width=50>                                                                                      | Microsoft Teams - Será a nossa principal plataforma de reuniões entre os membros do grupo.                                                       |
+| <img src="https://user-images.githubusercontent.com/71887485/206040900-84802128-c8b1-4bbc-9abd-46cc5ac81dff.png" height= 60 width=60>                                                           | WhatsApp - Ferramenta para a comunicação rápida entre os integrantes.                                                                         |
+| <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" height= 60 width=60>                                                                          | Figma - Ferramenta online de prototipagem.                                                                                                    |
+| <img src="https://user-images.githubusercontent.com/71887485/206042476-05a2ba67-b728-4c31-8c35-9e4f6c8f2c76.png" height= 60 width=60>                                                           | Coolors - Ferramenta utilizada para a criação da identidade visual utilizando paletas de cores de forma harmonicas.                           |
+| <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" height= 55 width=80>                                                                     | YouTube - Ferramenta para postagem de vídeos.                                                                                                 |
+| <img src="https://images.squarespace-cdn.com/content/v1/5e2a35351d908a4debad4520/1589299215075-ALVMQ6BDJBMAW6XH36K5/3862EC67-C90D-4BBD-88F5-8BCD698AED41.JPG?format=1000w" height= 55 width=80> | Thispersondoesnotexist - Ferramenta utilizada para a criação de personas                                                                      |
+
 
 ## Historico de versão
 
